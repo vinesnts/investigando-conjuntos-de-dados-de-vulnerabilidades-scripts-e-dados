@@ -1,0 +1,3 @@
+third_party/WebKit/Tools/ChangeLog
+third_party/WebKit/Tools/Scripts/webkitpy/layout_tests/port/server_process.py
+third_party/WebKit/Tools/Scripts/webkitpy/layout_tests/port/webkit.py

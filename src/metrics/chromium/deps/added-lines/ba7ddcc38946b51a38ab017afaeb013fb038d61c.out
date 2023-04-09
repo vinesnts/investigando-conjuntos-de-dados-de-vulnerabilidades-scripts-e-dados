@@ -1,0 +1,8 @@
+chrome/android/java/src/org/chromium/chrome/browser/ChromeFeatureList.java 188
+chrome/browser/about_flags.cc 3512 3513 3514
+chrome/browser/android/chrome_feature_list.cc 104 308 309 310
+chrome/browser/android/chrome_feature_list.h 33
+chrome/browser/flag-metadata.json 407 408 409 410 411
+chrome/browser/flag_descriptions.cc 2387 2388 2389 2390
+chrome/browser/flag_descriptions.h 1408 1409 1410
+tools/metrics/histograms/enums.xml 37293 38061

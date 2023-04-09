@@ -1,0 +1,4 @@
+third_party/WebKit/LayoutTests/TestExpectations
+third_party/WebKit/LayoutTests/svg/custom/invalid-xslt-crash.svg
+third_party/WebKit/Source/core/xml/XSLStyleSheet.h
+third_party/WebKit/Source/core/xml/XSLStyleSheetLibxslt.cpp

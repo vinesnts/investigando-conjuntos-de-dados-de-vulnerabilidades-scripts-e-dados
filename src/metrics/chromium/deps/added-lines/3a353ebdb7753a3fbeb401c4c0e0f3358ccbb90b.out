@@ -1,0 +1,11 @@
+third_party/blink/renderer/core/html/media/html_media_element.cc 504 3582 3583 3584 3585 3586 3587 3588 3589 3590 3591 3592 3593 3594 3595
+third_party/blink/renderer/core/html/media/html_media_element.h 386 387 659
+third_party/blink/renderer/core/html/media/html_media_element_test.cc 134 135 136 137 474 475 476 477 478 479 480 481 482 483 484 485 486 487
+third_party/blink/renderer/modules/webaudio/audio_context_test.cc 20 31 32 175 176 177 178 179 180 181 182 183 184 185 186 187
+third_party/blink/renderer/modules/webaudio/audio_destination_node.h 50 51
+third_party/blink/renderer/modules/webaudio/base_audio_context.cc 179 180 181 182 183 184 185 186 187
+third_party/blink/renderer/modules/webaudio/base_audio_context.h 122 123
+third_party/blink/renderer/modules/webaudio/default_audio_destination_node.cc 129 130 131 132 133 134 135 136 137 138 139 140 141 142
+third_party/blink/renderer/modules/webaudio/default_audio_destination_node.h 61 62
+third_party/blink/renderer/modules/webaudio/offline_audio_destination_node.cc 138 139 140 141 142 143 144 145
+third_party/blink/renderer/modules/webaudio/offline_audio_destination_node.h 65 66

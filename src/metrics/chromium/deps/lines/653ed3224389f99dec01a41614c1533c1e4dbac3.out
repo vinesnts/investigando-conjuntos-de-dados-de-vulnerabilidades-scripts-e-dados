@@ -1,0 +1,2 @@
+tools/valgrind/gtest_exclude/content_unittests.gtest-drmemory_win32.txt
+tools/valgrind/gtest_exclude/net_unittests.gtest-drmemory_win32.txt

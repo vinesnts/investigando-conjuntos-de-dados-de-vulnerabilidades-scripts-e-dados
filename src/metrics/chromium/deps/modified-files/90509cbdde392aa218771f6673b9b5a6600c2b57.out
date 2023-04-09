@@ -1,0 +1,17 @@
+base/cpu.h
+base/file_path.h
+base/file_util.h
+base/file_util_deprecated.h
+base/file_version_info.h
+base/file_version_info_win.h
+base/logging.h
+base/path_service.h
+base/pickle.h
+base/platform_file.h
+base/scoped_temp_dir.h
+base/shared_memory.h
+base/synchronization/lock_impl.h
+base/threading/non_thread_safe.h
+base/threading/non_thread_safe_impl.h
+base/utf_offset_string_conversions.h
+base/win/windows_version.h

@@ -1,0 +1,18 @@
+chrome/browser/chrome_content_browser_client.cc 354
+chrome/chrome_renderer.gypi 108 109 110 111 112 113
+chrome/common/chrome_switches.cc 880 881 882
+chrome/common/chrome_switches.h 243
+chrome/renderer/chrome_content_renderer_client.cc 36 37 168 217
+content/browser/renderer_host/browser_render_process_host.cc
+content/common/content_switches.cc
+content/common/content_switches.h
+content/content_renderer.gypi
+content/renderer/devtools_agent.cc
+content/renderer/devtools_agent.h
+content/renderer/devtools_agent_filter.cc
+content/renderer/devtools_agent_filter.h
+content/renderer/devtools_client.cc
+content/renderer/devtools_client.h
+content/renderer/render_thread.cc
+content/renderer/render_thread.h
+content/renderer/render_view.cc

@@ -1,0 +1,4 @@
+third_party/WebKit/Source/platform/image-decoders/gif/GIFImageDecoderTest.cpp
+third_party/WebKit/Source/platform/image-decoders/gif/GIFImageReader.cpp
+third_party/WebKit/Source/platform/image-decoders/gif/GIFImageReader.h
+third_party/WebKit/Source/platform/image-decoders/testing/first-frame-has-greater-size-than-screen-size.gif

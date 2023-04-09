@@ -1,0 +1,4 @@
+third_party/WebKit/LayoutTests/external/wpt/fetch/api/basic/integrity-expected.txt
+third_party/WebKit/LayoutTests/external/wpt/fetch/api/basic/integrity-sharedworker-expected.txt
+third_party/WebKit/LayoutTests/external/wpt/fetch/api/basic/integrity-worker-expected.txt
+third_party/WebKit/LayoutTests/external/wpt/fetch/api/basic/integrity.js

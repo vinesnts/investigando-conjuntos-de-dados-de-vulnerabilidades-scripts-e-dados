@@ -1,0 +1,4 @@
+chrome/browser/chromeos/file_manager/file_manager_browsertest.cc 562
+ui/file_manager/file_manager/foreground/js/file_manager_commands.js
+ui/file_manager/file_manager/main.html
+ui/file_manager/integration_tests/file_manager/gear_menu.js

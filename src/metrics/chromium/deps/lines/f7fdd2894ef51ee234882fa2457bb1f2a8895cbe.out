@@ -1,0 +1,3 @@
+views/controls/image_view.cc
+views/controls/resize_gripper.cc 23 26
+views/controls/resize_gripper.h 27 49 50

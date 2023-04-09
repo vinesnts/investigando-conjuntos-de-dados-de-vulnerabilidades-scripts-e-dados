@@ -1,0 +1,6 @@
+webkit/quota/quota_manager.cc
+webkit/quota/quota_manager.h
+webkit/quota/quota_manager_unittest.cc
+webkit/quota/quota_types.h
+webkit/quota/usage_tracker.cc 452
+webkit/quota/usage_tracker.h 113

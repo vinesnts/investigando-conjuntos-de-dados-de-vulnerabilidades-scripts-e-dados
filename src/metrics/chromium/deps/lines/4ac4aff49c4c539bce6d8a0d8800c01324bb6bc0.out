@@ -1,0 +1,8 @@
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/1.1/form-action-blocked-when-target-blank-expected.txt
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/1.1/form-action-blocked-when-target-blank.html
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/1.1/form-action-blocked-when-target-cross-site-window-expected.txt
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/1.1/form-action-blocked-when-target-cross-site-window.html
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/1.1/form-action-src-blocked-expected.txt 1
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/1.1/form-action-src-blocked.html 17 18 19
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/1.1/form-action-src-get-blocked-expected.txt 1
+third_party/WebKit/Source/core/html/HTMLFormElement.cpp 420 421 422

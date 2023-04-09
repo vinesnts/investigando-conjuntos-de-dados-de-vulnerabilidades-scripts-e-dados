@@ -1,0 +1,6 @@
+base/trace_event/trace_event_impl.cc 286 287 301 302 303 304
+base/trace_event/trace_event_impl.h 35
+base/trace_event/trace_event_unittest.cc 2248
+chrome/common/trace_event_args_whitelist.cc 13 14 15 16 17 21 22 28 29 32 33
+chrome/common/trace_event_args_whitelist.h 10 11
+content/browser/tracing/background_tracing_manager_browsertest.cc 219 220 272

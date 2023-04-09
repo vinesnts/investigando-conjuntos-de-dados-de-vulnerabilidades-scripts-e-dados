@@ -1,0 +1,31 @@
+third_party/sqlite/amalgamation/sqlite3.c 31671 76269 76271 77058 92028 93320 98232 110339 110341 110462 111218 134304 134305 134341 134342 134343 134376 134665 135161 135162 135163 153999 168041 168042 168949 170811 170812 172424 172474 172595 172596 172662 172667 174647 174903 174904 174906 184391 184777 185173 185175 185187 185346 185347 185355 185356 185357 218318 221437
+third_party/sqlite/patched/ext/fts3/fts3_snippet.c 133 134 136
+third_party/sqlite/patched/ext/fts3/fts3_test.c 451 453 458
+third_party/sqlite/patched/ext/fts3/fts3_tokenize_vtab.c 349
+third_party/sqlite/patched/ext/fts3/fts3_tokenizer.c 197 198
+third_party/sqlite/patched/ext/fts3/fts3_write.c 1753 1754 3366 3416 3537 3538 3604 3609 5589
+third_party/sqlite/patched/ext/fts5/fts5_tokenize.c 372
+third_party/sqlite/patched/ext/rtree/geopoly.c 272 658 1054 1056 1068 1227 1228 1236 1237 1238
+third_party/sqlite/patched/src/build.c 3758 3760 3881 4637
+third_party/sqlite/patched/src/expr.c 1590
+third_party/sqlite/patched/src/main.c 708
+third_party/sqlite/patched/src/test_fs.c 747
+third_party/sqlite/patched/src/util.c 1579
+third_party/sqlite/patched/src/vdbeaux.c 158 160 947
+third_party/sqlite/patched/src/vdbesort.c 540 1832
+third_party/sqlite/patched/src/vtab.c 305 306 342 343 344 377 666 1162 1163 1164
+third_party/sqlite/patches/0001-Virtual-table-supporting-recovery-of-corrupted-datab.patch 4
+third_party/sqlite/patches/0002-Custom-shell.c-helpers-to-load-Chromium-s-ICU-data.patch 4
+third_party/sqlite/patches/0003-Fix-compilation-with-SQLITE_OMIT_WINDOWFUNC.patch 4
+third_party/sqlite/patches/0004-Fix-dbfuzz2.c-compilation-errors-on-Windows.patch 4
+third_party/sqlite/patches/0005-Fix-Heap-buffer-overflow-in-vdbeRecordCompareInt.patch 4
+third_party/sqlite/patches/0006-fix-heap-buffer-overflow-in-cellsizeptr.patch 4
+third_party/sqlite/patches/0007-fix-integer-overflow-in-checkList.patch 4
+third_party/sqlite/patches/0008-Fix-Heap-use-after-free-in-releasePageNotNull.patch 4
+third_party/sqlite/patches/0009-Fix-dangling-pointer-dereference.patch 4
+third_party/sqlite/patches/0010-Fix-faulty-assert-statement.patch 4
+third_party/sqlite/patches/0011-Add-dbfuzz2-progress-handler-patch.patch 4
+third_party/sqlite/patches/0012-Use-fixed-width-integer-type.patch 4
+third_party/sqlite/patches/0013-Do-early-detection-for-corrupt-schema.patch 4
+third_party/sqlite/patches/0014-Enforce-the-SQLITE_LIMIT_COLUMN-limit-on-virtual-tab.patch
+third_party/sqlite/patches/0015-Use-64-bit-memory-allocator-in-extensions.patch

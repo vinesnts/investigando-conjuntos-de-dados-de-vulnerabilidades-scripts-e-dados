@@ -1,0 +1,10 @@
+chrome/browser/extensions/extension_service.h 118
+chrome/browser/ui/app_list/app_list_controller_delegate.cc 40 42 100
+chrome/browser/ui/app_list/app_list_controller_delegate_impl.cc 16 66 67 68
+chrome/browser/ui/app_list/app_list_syncable_service.cc 124 125 126
+chrome/browser/ui/app_list/extension_app_item.cc 21 231 232 233 234
+chrome/browser/ui/app_list/extension_app_model_builder_unittest.cc 26 187
+chrome/browser/ui/app_list/extension_uninstaller.cc 9 27 28
+chrome/browser/ui/app_list/search/app_result.cc 42 43 84 85
+extensions/browser/extension_registry.cc 135 136 137 138 139
+extensions/browser/extension_registry.h 126 127 128 129

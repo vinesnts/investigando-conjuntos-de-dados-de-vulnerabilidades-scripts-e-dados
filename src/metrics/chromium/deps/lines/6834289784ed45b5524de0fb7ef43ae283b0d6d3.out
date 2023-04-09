@@ -1,0 +1,16 @@
+third_party/WebKit/LayoutTests/http/tests/security/media-element-audio-source-node-cross-origin-allowed-expected.txt
+third_party/WebKit/LayoutTests/http/tests/security/media-element-audio-source-node-cross-origin-allowed.html
+third_party/WebKit/LayoutTests/http/tests/security/media-element-audio-source-node-cross-origin-expected.txt
+third_party/WebKit/LayoutTests/http/tests/security/media-element-audio-source-node-cross-origin-with-credentials-expected.txt
+third_party/WebKit/LayoutTests/http/tests/security/media-element-audio-source-node-cross-origin-with-credentials.html
+third_party/WebKit/LayoutTests/http/tests/security/media-element-audio-source-node-cross-origin.html
+third_party/WebKit/LayoutTests/http/tests/security/media-element-audio-source-node-same-origin-expected.txt
+third_party/WebKit/LayoutTests/http/tests/security/media-element-audio-source-node-same-origin.html
+third_party/WebKit/LayoutTests/http/tests/security/resources/webaudio/compatibility.js
+third_party/WebKit/LayoutTests/http/tests/security/resources/webaudio/js-test.js
+third_party/WebKit/LayoutTests/http/tests/security/resources/webaudio/laughter.wav
+third_party/WebKit/LayoutTests/http/tests/security/resources/webaudio/media-element-audio-source-node-test.js
+third_party/WebKit/LayoutTests/http/tests/security/resources/webaudio/media-element-cross-origin-allow.php
+third_party/WebKit/Source/modules/webaudio/AudioContext.cpp
+third_party/WebKit/Source/modules/webaudio/AudioContext.h
+third_party/WebKit/Source/modules/webaudio/MediaElementAudioSourceNode.cpp

@@ -1,0 +1,9 @@
+third_party/WebKit/Source/core/inspector/InspectorController.cpp 152
+third_party/WebKit/Source/core/inspector/InspectorResourceAgent.cpp 812
+third_party/WebKit/Source/core/inspector/InspectorResourceAgent.h 76 78 148
+third_party/WebKit/Source/devtools/protocol.json 1137 1149
+third_party/WebKit/Source/web/InspectorClientImpl.cpp
+third_party/WebKit/Source/web/InspectorClientImpl.h
+third_party/WebKit/Source/web/WebDevToolsAgentImpl.cpp
+third_party/WebKit/Source/web/WebDevToolsAgentImpl.h
+third_party/WebKit/public/web/WebDevToolsAgentClient.h

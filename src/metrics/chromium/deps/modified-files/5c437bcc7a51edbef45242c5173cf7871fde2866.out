@@ -1,0 +1,9 @@
+extensions/browser/api/web_request/web_request_permissions.cc
+extensions/browser/guest_view/extension_options/extension_options_guest.cc
+extensions/browser/guest_view/extension_view/extension_view_guest.cc
+extensions/common/url_pattern_set.cc
+extensions/components/javascript_dialog_extensions_client/javascript_dialog_extension_client_impl.cc
+extensions/renderer/file_system_natives.cc
+extensions/renderer/programmatic_script_injector.cc
+url/origin.cc
+url/origin.h

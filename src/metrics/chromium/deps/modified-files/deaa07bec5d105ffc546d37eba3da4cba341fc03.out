@@ -1,0 +1,11 @@
+chrome/browser/resources/local_ntp/local_ntp.js
+chrome/browser/search_provider_logos/logo_service_factory.cc
+chrome/browser/ui/search/local_ntp_browsertest.cc
+components/search_provider_logos/BUILD.gn
+components/search_provider_logos/logo_service.cc
+components/search_provider_logos/logo_service.h
+components/search_provider_logos/logo_service_impl.cc
+components/search_provider_logos/logo_service_impl.h
+components/search_provider_logos/logo_service_impl_unittest.cc
+ios/chrome/browser/google/google_logo_service.h
+ios/chrome/browser/google/google_logo_service.mm

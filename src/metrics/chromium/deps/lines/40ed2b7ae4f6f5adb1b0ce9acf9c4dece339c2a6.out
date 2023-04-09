@@ -1,0 +1,4 @@
+chrome/browser/chromeos/gdata/gdata_file_system_unittest.cc
+chrome/browser/chromeos/gdata/gdata_files.cc 21 872 873 874
+chrome/browser/chromeos/gdata/gdata_files.h
+chrome/browser/chromeos/gdata/gdata_files_unittest.cc 65 71 74 76 77 80 82

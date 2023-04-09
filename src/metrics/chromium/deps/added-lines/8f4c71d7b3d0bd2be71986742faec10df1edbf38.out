@@ -1,0 +1,45 @@
+chrome/browser/resources/options2/alert_overlay.html 2
+chrome/browser/resources/options2/autofill_edit_address_overlay.html 2
+chrome/browser/resources/options2/autofill_edit_creditcard_overlay.html 2
+chrome/browser/resources/options2/autofill_options.html 2
+chrome/browser/resources/options2/certificate_backup_overlay.html 2
+chrome/browser/resources/options2/certificate_edit_ca_trust_overlay.html 2
+chrome/browser/resources/options2/certificate_import_error_overlay.html 2
+chrome/browser/resources/options2/certificate_manager.html 2
+chrome/browser/resources/options2/certificate_restore_overlay.html 2
+chrome/browser/resources/options2/chromeos/accounts_options.html 2
+chrome/browser/resources/options2/chromeos/bluetooth_add_device_overlay.html 2
+chrome/browser/resources/options2/chromeos/bluetooth_pair_device_overlay.html 2
+chrome/browser/resources/options2/chromeos/change_picture_options.html 2
+chrome/browser/resources/options2/chromeos/internet_detail.html 2
+chrome/browser/resources/options2/chromeos/internet_options.html 2
+chrome/browser/resources/options2/chromeos/keyboard_overlay.html 2
+chrome/browser/resources/options2/chromeos/language_chewing_options.html 2
+chrome/browser/resources/options2/chromeos/language_hangul_options.html 2
+chrome/browser/resources/options2/chromeos/language_mozc_options.html 2
+chrome/browser/resources/options2/chromeos/language_pinyin_options.html 2
+chrome/browser/resources/options2/chromeos/pointer_overlay.html 2
+chrome/browser/resources/options2/chromeos/preferred_networks.html 2
+chrome/browser/resources/options2/chromeos/proxy.html 2
+chrome/browser/resources/options2/chromeos/virtual_keyboard.html 2
+chrome/browser/resources/options2/clear_browser_data_overlay.html 2
+chrome/browser/resources/options2/content_settings.html 2
+chrome/browser/resources/options2/content_settings_exceptions_area.html 2
+chrome/browser/resources/options2/cookies_view.html 2
+chrome/browser/resources/options2/font_settings.html 2
+chrome/browser/resources/options2/handler_options.html 2
+chrome/browser/resources/options2/home_page_overlay.html 2
+chrome/browser/resources/options2/import_data_overlay.html 2
+chrome/browser/resources/options2/instant_confirm_overlay.html 2
+chrome/browser/resources/options2/language_add_language_overlay.html 2
+chrome/browser/resources/options2/language_options.html 2
+chrome/browser/resources/options2/manage_profile_overlay.html 2
+chrome/browser/resources/options2/options_page.css
+chrome/browser/resources/options2/password_manager.html 2
+chrome/browser/resources/options2/search_engine_manager.html 2
+chrome/browser/resources/options2/session_restore_overlay.html 2
+chrome/browser/resources/options2/startup_overlay.html 2
+chrome/browser/resources/shared/css/overlay.css 25 28 29 38 39 40 41 42 43 44 46 47 49 50 51 54 55 56 57 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 85 86 87 89 96 104
+chrome/browser/resources/shared/js/cr/ui/overlay.js 54 55 56 57 58 59 60 61 62 65 77 84 87
+chrome/browser/resources/shared_resources.grd 71 72 73 74
+chrome/browser/resources/sync_setup_overlay.html 14 199 389

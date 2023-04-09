@@ -1,0 +1,21 @@
+chrome/browser/signin/dice_response_handler.cc 397 404 451
+chrome/browser/signin/mutable_profile_oauth2_token_service_delegate_unittest.cc 119 120 145 147 150 151 263 334 373 387 475 539 580 621 660 710 735 768 787 803 843 878 903 922 943 958 989 1035 1080 1099 1115 1132 1188 1257 1281 1346 1371 1439 1456
+chrome/browser/supervised_user/supervised_user_service.cc 327 328
+chrome/browser/ui/views/profiles/profile_chooser_view.cc 789 1638
+chrome/browser/ui/webui/settings/people_handler.cc 801 817
+chrome/browser/ui/webui/signin/dice_turn_sync_on_helper.cc 404
+chrome/browser/ui/webui/signin/inline_login_handler_impl.cc 263 264
+components/signin/core/browser/about_signin_internals.cc 381 382 385 386 387 388 389 390 391 395 396
+components/signin/core/browser/about_signin_internals.h 212 213
+components/signin/core/browser/account_reconcilor.cc 77 107 558 559 588 595 669
+components/signin/core/browser/profile_oauth2_token_service.cc 55 60
+components/signin/core/browser/profile_oauth2_token_service.h 69 70 71 72
+components/signin/core/browser/signin_manager.cc 246 250 415
+components/signin/core/browser/signin_metrics.cc
+components/signin/core/browser/signin_metrics.h
+google_apis/gaia/oauth2_token_service.cc 593 594 595 596 597 598
+google_apis/gaia/oauth2_token_service.h 215 216 217 218
+google_apis/gaia/oauth2_token_service_unittest.cc 789 790
+services/identity/public/cpp/identity_manager.cc 226
+tools/metrics/histograms/enums.xml
+tools/metrics/histograms/histograms.xml

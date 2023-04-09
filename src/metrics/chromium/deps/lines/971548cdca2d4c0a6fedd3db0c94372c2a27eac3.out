@@ -1,0 +1,12 @@
+content/browser/frame_host/render_frame_host_impl.cc 3998 3999 4000 5617 5618 5619 5620 5621 5622 5623 5624 5625 5626 5627
+content/browser/frame_host/render_frame_host_impl.h 1172 1173 1174 1175
+content/browser/renderer_host/media/media_stream_dispatcher_host.cc 48 49 50 51 56 57 61 64 65 113 114 115 116 117 152 153 164 172 206 207
+content/browser/renderer_host/media/media_stream_dispatcher_host.h 8 34 35 92
+content/browser/renderer_host/media/media_stream_dispatcher_host_unittest.cc 58 793 807
+content/browser/renderer_host/media/media_stream_manager.cc 613 647 648 721 726 862
+content/browser/renderer_host/media/media_stream_manager.h 198
+content/browser/renderer_host/media/media_stream_manager_unittest.cc 227 228 299 300 434 435 446 476 484 524 525 538 586 587 602
+content/browser/renderer_host/media/video_capture_manager.cc 101
+content/browser/renderer_host/media/video_capture_unittest.cc 156
+content/browser/speech/speech_recognition_manager_impl.cc 353 354
+content/browser/speech/speech_recognition_manager_impl.h

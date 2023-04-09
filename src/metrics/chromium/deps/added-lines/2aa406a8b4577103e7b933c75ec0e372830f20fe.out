@@ -1,0 +1,17 @@
+chrome/chrome_tests_unit.gypi 1840
+chrome/common/extensions/api/_manifest_features.json 430
+chrome/common/extensions/manifest_tests/extension_manifests_webview_accessible_resources_unittest.cc 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_1.json 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid1.json 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid2.json 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid3.json 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid4.json 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid5.json 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid6.json 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid7.json 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid8.json 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+chrome/test/data/extensions/platform_apps/web_view/shim/manifest.json 13 14 15 16 17 18 19
+extensions/common/manifest_constants.cc 165 166 625 626 627 628 629 630
+extensions/common/manifest_constants.h 172 174 428 429 430
+extensions/common/manifest_handlers/webview_info.cc 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 82 83 84 85 86 87 91 92 93 94 95 114 115 116 120 121 122 123 124 125 126 127 128 130 133 134 135 137 141 142 143 144 145 146 147 148 149 150 151 152 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 173
+extensions/common/manifest_handlers/webview_info.h 10 16 17 18 21 22 32 34 35

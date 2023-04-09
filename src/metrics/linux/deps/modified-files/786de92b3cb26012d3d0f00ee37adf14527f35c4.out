@@ -1,0 +1,2 @@
+drivers/usb/storage/uas-detect.h
+drivers/usb/storage/uas.c

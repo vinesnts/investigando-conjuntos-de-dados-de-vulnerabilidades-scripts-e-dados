@@ -1,0 +1,12 @@
+content/browser/frame_host/render_frame_host_impl.cc
+content/browser/frame_host/render_frame_host_impl.h
+content/browser/renderer_host/media/media_stream_dispatcher_host.cc
+content/browser/renderer_host/media/media_stream_dispatcher_host.h
+content/browser/renderer_host/media/media_stream_dispatcher_host_unittest.cc
+content/browser/renderer_host/media/media_stream_manager.cc
+content/browser/renderer_host/media/media_stream_manager.h
+content/browser/renderer_host/media/media_stream_manager_unittest.cc
+content/browser/renderer_host/media/video_capture_manager.cc
+content/browser/renderer_host/media/video_capture_unittest.cc
+content/browser/speech/speech_recognition_manager_impl.cc
+content/browser/speech/speech_recognition_manager_impl.h

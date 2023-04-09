@@ -1,0 +1,4 @@
+third_party/WebKit/LayoutTests/TestExpectations
+third_party/WebKit/LayoutTests/fast/dom/Window/open-window-min-size-expected.txt
+third_party/WebKit/LayoutTests/platform/linux/fast/dom/Window/open-window-min-size-expected.txt
+third_party/WebKit/LayoutTests/platform/win/fast/dom/Window/open-window-min-size-expected.txt

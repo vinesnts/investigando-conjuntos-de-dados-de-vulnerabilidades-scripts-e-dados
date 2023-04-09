@@ -1,0 +1,3 @@
+arch/powerpc/include/asm/reg.h
+arch/powerpc/kernel/signal_32.c 887 888 889 890 891
+arch/powerpc/kernel/signal_64.c

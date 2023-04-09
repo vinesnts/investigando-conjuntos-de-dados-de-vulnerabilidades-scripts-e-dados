@@ -1,0 +1,5 @@
+third_party/WebKit/LayoutTests/ChangeLog
+third_party/WebKit/LayoutTests/fast/files/file-reader-event-listener-expected.txt
+third_party/WebKit/LayoutTests/fast/files/file-reader-event-listener.html
+third_party/WebKit/Source/WebCore/ChangeLog
+third_party/WebKit/Source/WebCore/fileapi/FileReader.idl

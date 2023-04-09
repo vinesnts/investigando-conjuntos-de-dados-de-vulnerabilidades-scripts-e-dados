@@ -1,0 +1,7 @@
+drivers/scsi/libsas/sas_ata.c 733
+drivers/scsi/libsas/sas_discover.c 215 218 219 220 221 297 356 359 360 361 362 387 581 584
+drivers/scsi/libsas/sas_expander.c 1919 2127 2139 2140 2141
+drivers/scsi/libsas/sas_internal.h
+drivers/scsi/libsas/sas_port.c
+include/scsi/libsas.h 85 88
+include/scsi/scsi_transport_sas.h

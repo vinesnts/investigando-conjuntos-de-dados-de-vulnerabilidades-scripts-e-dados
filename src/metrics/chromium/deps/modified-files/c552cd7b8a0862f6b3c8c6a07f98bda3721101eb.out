@@ -1,0 +1,9 @@
+chrome/browser/ui/browser.cc
+chrome/browser/ui/browser_navigator.cc
+chrome/browser/ui/browser_window.h
+chrome/browser/ui/cocoa/browser_window_cocoa.h
+chrome/browser/ui/cocoa/browser_window_cocoa.mm
+chrome/browser/ui/views/frame/browser_view.cc
+chrome/browser/ui/views/frame/browser_view.h
+chrome/test/base/test_browser_window.cc
+chrome/test/base/test_browser_window.h

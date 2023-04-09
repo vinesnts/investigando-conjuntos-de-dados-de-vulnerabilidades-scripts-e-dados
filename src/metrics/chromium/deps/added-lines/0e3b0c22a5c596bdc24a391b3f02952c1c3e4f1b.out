@@ -1,0 +1,2 @@
+third_party/blink/renderer/core/frame/location.cc 34 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312
+third_party/blink/web_tests/external/wpt/content-security-policy/navigation/to-javascript-parent-initiated-parent-csp-disallow.html 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23

@@ -1,0 +1,10 @@
+chrome/browser/extensions/extension_bindings_apitest.cc 9 11 21 22 23 24 25 26 27 28 108 109 110 111 112 113
+chrome/test/data/extensions/api_test/automation/tests/unit/test.js 5 6
+chrome/test/data/extensions/api_test/bindings/module_system/background.js 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+chrome/test/data/extensions/api_test/bindings/module_system/manifest.json 1 2 3 4 5 6 7 8
+extensions/common/api/test.json 150 153 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177
+extensions/renderer/resources/test_custom_bindings.js 17 18 125 126 127 128 129 130
+extensions/renderer/v8_context_native_handler.cc 27 28 61 66
+extensions/renderer/v8_context_native_handler.h 22
+extensions/test/data/api_test_base_unittest.js 58
+ui/file_manager/externs/chrome_test.js 65 68 69 70 71 72 73 74

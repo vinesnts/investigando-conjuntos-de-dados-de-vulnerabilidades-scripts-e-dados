@@ -1,0 +1,7 @@
+chrome/android/java/src/org/chromium/chrome/browser/webapps/WebApkInfo.java
+chrome/android/java/src/org/chromium/chrome/browser/webapps/WebApkShareTargetUtil.java
+chrome/android/java/src/org/chromium/chrome/browser/webapps/WebApkUpdateDataFetcher.java
+chrome/android/java/src/org/chromium/chrome/browser/webapps/WebApkUpdateManager.java
+chrome/android/junit/src/org/chromium/chrome/browser/webapps/WebApkInfoTest.java
+chrome/android/junit/src/org/chromium/chrome/browser/webapps/WebApkUpdateManagerUnitTest.java
+chrome/browser/android/webapk/webapk_update_manager.cc

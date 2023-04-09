@@ -1,0 +1,7 @@
+chrome/android/java/src/org/chromium/chrome/browser/compositor/layouts/LayoutManager.java
+chrome/android/java/src/org/chromium/chrome/browser/compositor/layouts/LayoutManagerChrome.java
+chrome/android/java/src/org/chromium/chrome/browser/compositor/layouts/LayoutManagerChromeTablet.java
+chrome/android/java/src/org/chromium/chrome/browser/customtabs/CustomTabActivity.java
+chrome/android/java/src/org/chromium/chrome/browser/customtabs/CustomTabLayoutManager.java
+chrome/android/java/src/org/chromium/chrome/browser/webapps/WebappActivity.java
+chrome/android/java_sources.gni

@@ -1,0 +1,7 @@
+chrome/android/java/src/org/chromium/chrome/browser/ChromeHttpAuthHandler.java 74 75 76
+chrome/android/java/src/org/chromium/chrome/browser/LoginPrompt.java
+chrome/android/java_sources.gni
+chrome/android/javatests/src/org/chromium/chrome/browser/ChromeHttpAuthHandlerTest.java
+chrome/browser/ui/android/chrome_http_auth_handler.cc
+chrome/browser/ui/android/chrome_http_auth_handler.h
+chrome/browser/ui/android/login_handler_android.cc 90

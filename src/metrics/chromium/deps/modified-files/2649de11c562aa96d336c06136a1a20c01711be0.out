@@ -1,0 +1,15 @@
+chrome/browser/extensions/api/chrome_extensions_api_client.cc
+chrome/browser/extensions/api/chrome_extensions_api_client.h
+chrome/browser/extensions/api/web_request/web_request_apitest.cc
+chrome/browser/extensions/extension_apitest.cc
+chrome/browser/ui/webui/devtools_ui.cc
+chrome/browser/ui/webui/devtools_ui.h
+chrome/test/data/extensions/api_test/webrequest/devtoolsfrontend/fakedevtools.html
+chrome/test/data/extensions/api_test/webrequest/devtoolsfrontend/fakedevtools.js
+chrome/test/data/extensions/api_test/webrequest/test_devtools.html
+chrome/test/data/extensions/api_test/webrequest/test_devtools.js
+extensions/browser/api/extensions_api_client.cc
+extensions/browser/api/extensions_api_client.h
+extensions/browser/api/web_request/web_request_permissions.cc
+extensions/browser/api/web_request/web_request_permissions_unittest.cc
+testing/buildbot/filters/mojo.fyi.network_browser_tests.filter

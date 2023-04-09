@@ -1,0 +1,7 @@
+chrome/browser/extensions/api/permissions/permissions_api_helpers.cc
+chrome/browser/extensions/api/permissions/permissions_api_helpers_unittest.cc
+chrome/browser/extensions/api/permissions/permissions_api_unittest.cc
+chrome/browser/extensions/permissions_updater_unittest.cc
+extensions/common/permissions/permissions_data.cc
+extensions/common/url_pattern.cc
+extensions/common/url_pattern_unittest.cc

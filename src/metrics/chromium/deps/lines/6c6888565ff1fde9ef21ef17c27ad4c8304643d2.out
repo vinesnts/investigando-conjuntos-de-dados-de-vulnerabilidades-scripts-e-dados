@@ -1,0 +1,5 @@
+components/history/core/browser/top_sites_cache.cc
+components/history/core/browser/top_sites_cache.h
+components/history/core/browser/top_sites_cache_unittest.cc
+components/history/core/browser/top_sites_impl.cc
+components/history/core/browser/top_sites_impl_unittest.cc

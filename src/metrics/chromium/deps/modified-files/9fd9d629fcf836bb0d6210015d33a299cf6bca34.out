@@ -1,0 +1,7 @@
+chrome/browser/chromeos/login/login_utils_browsertest.cc
+chrome/browser/chromeos/policy/user_cloud_policy_manager_chromeos.cc
+chrome/browser/chromeos/policy/user_cloud_policy_manager_chromeos_browsertest.cc
+chrome/browser/chromeos/policy/user_cloud_policy_manager_factory_chromeos.cc
+chrome/chrome_tests.gypi
+chrome/test/base/in_process_browser_test.cc
+chrome/test/base/in_process_browser_test.h

@@ -1,0 +1,10 @@
+chrome/browser/extensions/api/messaging/message_service.cc 165 205 290
+chrome/browser/extensions/browser_event_router.cc 342 347 349 352 399 400 401 402 403 404 405 406 407 408 409 410 411 412 419 430 431 432 442 443 515 518 605
+chrome/browser/extensions/browser_event_router.h 127
+chrome/browser/extensions/extension_tab_util.cc 67 68 69 90 111 112 113 114 115 116 117 118 130 131 132 133 134 135 136 137 138 139 140 141 142
+chrome/browser/extensions/extension_tab_util.h 48 49 50 51 63 64 66 67 72 73 74 75 76 77 78 79
+chrome/browser/extensions/extension_tab_util_android.cc 54
+chrome/browser/extensions/extension_tabs_apitest.cc 194 195 196 197
+chrome/browser/extensions/menu_manager.cc 647
+chrome/test/data/extensions/api_test/tabs/no_permissions/manifest.json 1 2 3 4 5 6 7 8 9 10
+chrome/test/data/extensions/api_test/tabs/no_permissions/test.js 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45

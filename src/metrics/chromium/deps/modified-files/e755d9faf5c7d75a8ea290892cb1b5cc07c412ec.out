@@ -1,0 +1,7 @@
+chrome/browser/automation/automation_provider_observers.h
+chrome/browser/chromeos/login/login_html_dialog.cc
+chrome/browser/chromeos/login/login_html_dialog.h
+chrome/browser/chromeos/offline/offline_load_page.cc
+chrome/browser/chromeos/offline/offline_load_page.h
+chrome/browser/chromeos/plugin_selection_policy.cc
+chrome/browser/chromeos/plugin_selection_policy.h

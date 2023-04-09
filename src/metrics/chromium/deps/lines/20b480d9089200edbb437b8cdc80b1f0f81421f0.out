@@ -1,0 +1,2 @@
+components/policy/proto/chrome_device_policy.proto
+components/policy/proto/device_management_backend.proto

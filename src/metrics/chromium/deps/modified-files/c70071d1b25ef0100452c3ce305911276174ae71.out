@@ -1,0 +1,4 @@
+content/public/android/java/src/org/chromium/content/browser/BindingManager.java
+content/public/android/java/src/org/chromium/content/browser/ChildProcessConnection.java
+content/public/android/java/src/org/chromium/content/browser/ChildProcessConnectionImpl.java
+content/public/android/javatests/src/org/chromium/content/browser/BindingManagerTest.java

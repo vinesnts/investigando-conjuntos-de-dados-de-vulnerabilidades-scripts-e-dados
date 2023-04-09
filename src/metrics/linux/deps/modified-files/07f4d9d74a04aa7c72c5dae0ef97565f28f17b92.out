@@ -1,0 +1,3 @@
+include/sound/core.h
+sound/core/control.c
+sound/core/init.c

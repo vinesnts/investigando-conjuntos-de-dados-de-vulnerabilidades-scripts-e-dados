@@ -1,0 +1,7 @@
+chrome/browser/chromeos/BUILD.gn
+chrome/browser/chromeos/kiosk_next_home/app_controller_service.cc
+chrome/browser/chromeos/kiosk_next_home/app_controller_service.h
+chrome/browser/chromeos/kiosk_next_home/app_controller_service_factory.cc
+chrome/browser/chromeos/kiosk_next_home/app_controller_service_factory.h
+chrome/browser/chromeos/kiosk_next_home/kiosk_next_home_interface_broker_impl.cc
+chrome/browser/chromeos/kiosk_next_home/kiosk_next_home_interface_broker_impl.h

@@ -1,0 +1,6 @@
+fs/attr.c 53 60 70 163
+fs/inode.c 1842 1843 1849
+fs/namei.c 335 338 348 356 2382
+fs/xfs/xfs_ioctl.c 1218
+include/linux/capability.h 213
+kernel/capability.c 427 431 432 433 434 435 436 437 438 440 444 446

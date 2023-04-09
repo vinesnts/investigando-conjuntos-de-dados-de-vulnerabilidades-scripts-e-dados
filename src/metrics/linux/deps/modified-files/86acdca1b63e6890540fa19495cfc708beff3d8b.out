@@ -1,0 +1,2 @@
+fs/namei.c
+fs/proc/base.c

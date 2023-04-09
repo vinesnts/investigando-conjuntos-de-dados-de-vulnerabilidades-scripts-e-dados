@@ -1,0 +1,3 @@
+third_party/WebKit/WebKit/gtk/ChangeLog
+third_party/WebKit/WebKit/gtk/WebCoreSupport/FrameLoaderClientGtk.cpp 533 534
+third_party/WebKit/WebKit/gtk/webkit/webkitwebframe.cpp 686

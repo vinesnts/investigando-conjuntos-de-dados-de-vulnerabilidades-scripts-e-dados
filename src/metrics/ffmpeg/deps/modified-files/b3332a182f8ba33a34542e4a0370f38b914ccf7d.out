@@ -1,0 +1,3 @@
+libavcodec/idctdsp.c
+libavcodec/idctdsp.h
+libavcodec/mpegvideo.c

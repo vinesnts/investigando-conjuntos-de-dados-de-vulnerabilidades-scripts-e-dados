@@ -1,0 +1,7 @@
+chrome/browser/favicon/favicon_service.h 49 50
+chrome/browser/resources/ntp4/most_visited_page.css 139 143
+chrome/browser/resources/ntp4/most_visited_page.js 92 93
+chrome/browser/ui/webui/favicon_source.cc 37 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 63 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 120 122
+chrome/browser/ui/webui/favicon_source.h 57 58 59 60 63 65 66
+chrome/browser/ui/webui/ntp/favicon_webui_handler.cc 31 32 33 57 58 70 71 72 74 75 76
+ui/resources/ui_resources.grd 33

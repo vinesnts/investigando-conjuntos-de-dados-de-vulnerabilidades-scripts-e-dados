@@ -1,0 +1,17 @@
+chrome/chrome_tests_unit.gypi
+chrome/common/extensions/api/_manifest_features.json 430
+chrome/common/extensions/manifest_tests/extension_manifests_webview_accessible_resources_unittest.cc
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_1.json
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid1.json
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid2.json
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid3.json
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid4.json
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid5.json
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid6.json
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid7.json
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid8.json
+chrome/test/data/extensions/platform_apps/web_view/shim/manifest.json 13 14 15 16 17
+extensions/common/manifest_constants.cc 165 624 625 626 627
+extensions/common/manifest_constants.h 173 427 428
+extensions/common/manifest_handlers/webview_info.cc 49 50 51 52 53 54 55 59 60 79 80 81 82 86 87 88 90 93 94 96 99 100 101 102 103 105 106 107 108 109 110 111 112 113 114 115 118
+extensions/common/manifest_handlers/webview_info.h 15 18 28 29 30 32 33 34

@@ -1,0 +1,7 @@
+chrome/browser/extensions/active_tab_unittest.cc
+chrome/browser/extensions/api/tabs/tabs_api.cc
+chrome/common/extensions/permissions/permissions_data_unittest.cc
+chrome/test/data/extensions/api_test/tabs/capture_visible_tab/test_disabled.js
+chrome/test/data/extensions/api_test/tabs/capture_visible_tab_null_window/background.js
+extensions/common/permissions/permissions_data.cc
+extensions/common/permissions/permissions_data.h

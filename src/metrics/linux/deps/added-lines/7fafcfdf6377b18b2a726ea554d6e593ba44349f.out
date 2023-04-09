@@ -1,0 +1,2 @@
+drivers/usb/gadget/function/f_midi.c 407 408
+drivers/usb/gadget/u_f.h 64 66

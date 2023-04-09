@@ -1,0 +1,3 @@
+chrome/test/data/webui/settings/certificate_manager_test.js
+ui/webui/resources/cr_components/certificate_manager/certificate_password_decryption_dialog.html
+ui/webui/resources/cr_components/certificate_manager/certificate_password_encryption_dialog.html

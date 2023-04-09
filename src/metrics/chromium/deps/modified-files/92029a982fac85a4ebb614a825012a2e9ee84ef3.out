@@ -1,0 +1,3 @@
+ui/app_list/app_list_constants.cc
+ui/app_list/app_list_constants.h
+ui/app_list/views/folder_header_view.cc

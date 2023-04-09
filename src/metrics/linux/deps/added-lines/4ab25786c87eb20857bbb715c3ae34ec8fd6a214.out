@@ -1,0 +1,6 @@
+drivers/hid/hid-cherry.c 31
+drivers/hid/hid-kye.c 303
+drivers/hid/hid-lg.c 348 355
+drivers/hid/hid-monterey.c 27
+drivers/hid/hid-petalynx.c 28
+drivers/hid/hid-sunplus.c 27

@@ -1,0 +1,17 @@
+build/android/bytecode/java/org/chromium/bytecode/ByteCodeProcessor.java
+build/android/bytecode/java/org/chromium/bytecode/SplitCompatClassAdapter.java
+chrome/android/BUILD.gn
+chrome/android/chrome_public_apk_tmpl.gni
+chrome/android/features/autofill_assistant/public/java/src/org/chromium/chrome/browser/autofill_assistant/AutofillAssistantModuleEntryProvider.java
+chrome/android/java/src/org/chromium/chrome/browser/ChromeApplication.java
+chrome/android/java/src/org/chromium/chrome/browser/vr/ArCoreInstallUtils.java
+chrome/android/javatests/src/org/chromium/chrome/browser/vr/VrDaydreamReadyModuleInstallTest.java
+components/module_installer/android/BUILD.gn
+components/module_installer/android/java/src-common/org/chromium/components/module_installer/Module.java
+components/module_installer/android/java/src-common/org/chromium/components/module_installer/ModuleInstaller.java
+components/module_installer/android/java/src-impl/org/chromium/components/module_installer/ModuleInstallerImpl.java
+components/module_installer/android/java/src-impl/org/chromium/components/module_installer/PlayCoreModuleInstallerBackend.java
+components/module_installer/android/java/src-stub/org/chromium/components/module_installer/ModuleInstaller.java
+components/module_installer/android/java/src-stub/org/chromium/components/module_installer/ModuleInstallerImpl.java
+components/module_installer/android/java/src-test/org/chromium/components/module_installer/ModuleInstaller.java
+components/module_installer/android/javatests/src/org/chromium/components/module_installer/ModuleInstallerRule.java

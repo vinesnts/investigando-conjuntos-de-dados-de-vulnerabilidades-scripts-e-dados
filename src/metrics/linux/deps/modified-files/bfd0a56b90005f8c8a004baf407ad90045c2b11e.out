@@ -1,0 +1,4 @@
+arch/x86/include/asm/vmx.h
+arch/x86/include/uapi/asm/vmx.h
+arch/x86/kvm/mmu.c
+arch/x86/kvm/vmx.c

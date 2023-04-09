@@ -1,0 +1,7 @@
+chrome/browser/resources/bookmark_manager/css/bmm.css 63 121 125 129 133
+chrome/browser/resources/bookmark_manager/images/bookmark_bar_folder_mac.png
+chrome/browser/resources/bookmark_manager/images/folder_closed.png
+chrome/browser/resources/bookmark_manager/images/folder_closed_rtl.png
+chrome/browser/resources/bookmark_manager/images/folder_open.png
+chrome/browser/resources/bookmark_manager/images/folder_open_rtl.png
+chrome/chrome_browser.gypi 17 3199 3201 3202 3204 3205 3206 3218 3219 3220 3221 3222 3223 3224 3225 3226 3227 3235 3266 3267 3268 3269 3270 3271 3272 3273 3274 3275 3311

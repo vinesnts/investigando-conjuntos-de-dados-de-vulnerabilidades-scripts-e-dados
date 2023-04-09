@@ -1,0 +1,3 @@
+third_party/WebKit/LayoutTests/ChangeLog
+third_party/WebKit/LayoutTests/fast/multicol/newmulticol/positioned-split-expected.html
+third_party/WebKit/LayoutTests/fast/multicol/newmulticol/positioned-split.html

@@ -1,0 +1,10 @@
+chrome/browser/extensions/app_process_apitest.cc 128 130 214 216 223 352 353
+chrome/browser/extensions/chrome_content_browser_client_extensions_part.cc 588
+chrome/browser/extensions/extension_browsertest.cc 549
+chrome/browser/extensions/extension_browsertest.h
+chrome/browser/extensions/isolated_app_browsertest.cc 476 482
+chrome/browser/extensions/process_management_browsertest.cc 68
+chrome/browser/extensions/window_open_apitest.cc 249 267 268 272 274 275 276 277 278 279 280 281 282 283 284 285 301 302 303 304
+chrome/common/extensions/extension_process_policy.cc
+chrome/common/extensions/extension_process_policy_unittest.cc
+chrome/test/BUILD.gn

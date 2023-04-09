@@ -1,0 +1,13 @@
+chrome/android/java/src/org/chromium/chrome/browser/ChromeSwitches.java
+chrome/android/java/src/org/chromium/chrome/browser/contextualsearch/ContextualSearchFieldTrial.java
+chrome/app/generated_resources.grd
+chrome/browser/about_flags.cc
+chrome/browser/android/contextualsearch/contextual_search_delegate.cc
+chrome/browser/android/contextualsearch/contextual_search_delegate_unittest.cc
+chrome/browser/android/contextualsearch/contextual_search_field_trial.cc
+chrome/browser/android/contextualsearch/contextual_search_field_trial.h
+chrome/common/chrome_switches.cc
+chrome/common/chrome_switches.h
+components/search_engines/template_url.cc
+components/search_engines/template_url.h
+tools/metrics/histograms/histograms.xml

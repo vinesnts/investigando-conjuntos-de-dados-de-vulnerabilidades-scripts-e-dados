@@ -1,0 +1,10 @@
+arch/mips/kernel/binfmt_elfn32.c 57 106 107
+arch/mips/kernel/binfmt_elfo32.c 59 108 109
+drivers/char/mmtimer.c 33 34 477 478 486 490 661 662 680 681 696
+include/asm-x86/div64.h
+include/linux/calc64.h
+include/linux/jiffies.h 4
+kernel/posix-cpu-timers.c 8 9 51 52 53
+kernel/time.c 395 400 401 402 403 404 405 535 536 537 538 576 578 579 580
+kernel/time/ntp.c 237 348
+mm/slub.c 25 3626 3627 3628

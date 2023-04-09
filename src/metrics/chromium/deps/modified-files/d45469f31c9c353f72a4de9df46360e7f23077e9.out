@@ -1,0 +1,3 @@
+DEPS
+remoting/ios/app/resources/BUILD.gn
+third_party/material_design_icons/BUILD.gn

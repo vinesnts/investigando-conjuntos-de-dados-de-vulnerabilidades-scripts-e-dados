@@ -1,0 +1,5 @@
+chrome/browser/ui/BUILD.gn
+chrome/browser/ui/browser_command_controller.cc
+chrome/browser/ui/browser_commands_mac.cc
+chrome/browser/ui/browser_commands_mac.h
+chrome/browser/ui/browser_commands_mac.mm

@@ -1,0 +1,9 @@
+media/capture/mojom/video_capture_types.mojom
+media/capture/mojom/video_capture_types_mojom_traits.cc
+media/capture/video/chromeos/camera_device_delegate.cc
+media/capture/video/chromeos/camera_device_delegate.h
+media/capture/video/chromeos/camera_device_delegate_unittest.cc
+media/capture/video/chromeos/stream_buffer_manager.cc
+media/capture/video/chromeos/stream_buffer_manager.h
+media/capture/video/chromeos/stream_buffer_manager_unittest.cc
+media/capture/video_capture_types.h

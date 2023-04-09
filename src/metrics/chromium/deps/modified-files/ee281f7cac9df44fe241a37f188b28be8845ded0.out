@@ -1,0 +1,9 @@
+third_party/WebKit/LayoutTests/http/tests/security/resources/css-import.css
+third_party/WebKit/LayoutTests/http/tests/security/resources/image-with-css-import.svg
+third_party/WebKit/LayoutTests/http/tests/security/resources/image-wrapper-with-no-image.svg
+third_party/WebKit/LayoutTests/http/tests/security/resources/image-wrapper.svg
+third_party/WebKit/LayoutTests/http/tests/security/svg-image-with-cached-remote-image-expected.html
+third_party/WebKit/LayoutTests/http/tests/security/svg-image-with-cached-remote-image.html
+third_party/WebKit/LayoutTests/http/tests/security/svg-image-with-css-import-expected.html
+third_party/WebKit/LayoutTests/http/tests/security/svg-image-with-css-import.html
+third_party/WebKit/Source/core/fetch/ResourceFetcher.cpp

@@ -1,0 +1,37 @@
+components/discardable_memory/client/client_discardable_shared_memory_manager.cc 394 395 399
+components/discardable_memory/service/discardable_shared_memory_manager.cc 77 78
+components/printing/browser/print_composite_client.h
+components/printing/renderer/DEPS
+components/printing/renderer/print_render_frame_helper.cc 1366 1367 1368 1631 1632 1952 1959 1960 1961 1964 1967 1970 1971 2095 2096 2097
+components/printing/renderer/print_render_frame_helper.h 310 311
+components/printing/renderer/print_render_frame_helper_linux.cc 85 86
+components/printing/service/pdf_compositor_service_unittest.cc 147 155 156
+components/printing/service/public/cpp/pdf_compositor_client.cc 50 51
+components/printing/service/public/cpp/pdf_compositor_client.h
+components/printing/service/public/cpp/pdf_service_mojo_utils.cc 17 20 26
+components/viz/client/client_shared_bitmap_manager.cc 173
+content/browser/browser_child_process_host_impl.cc 535
+content/browser/renderer_host/render_process_host_impl.cc 3629
+content/renderer/media/mojo_audio_input_ipc.cc 88 90 92
+content/renderer/media/mojo_audio_output_ipc.cc 208 211 213
+content/renderer/media/video_capture_impl.cc 245 248
+content/renderer/media/video_capture_impl_unittest.cc 139 141 142 281 306 374
+device/gamepad/gamepad_provider.cc 93 94 95 96
+gpu/ipc/client/command_buffer_proxy_impl.cc 754 756 763
+media/capture/video/shared_memory_handle_provider.cc 55 56 57 73
+media/capture/video/shared_memory_handle_provider_unittest.cc 31 32 33 36 37 38 39 42 58 67 70
+media/mojo/clients/mojo_jpeg_decode_accelerator.cc 68 69
+media/mojo/clients/mojo_video_encode_accelerator.cc 145 146 147 177 178 181
+media/mojo/interfaces/jpeg_decode_accelerator_typemap_traits.cc 75 76
+media/mojo/interfaces/video_frame_struct_traits.cc 30
+media/mojo/services/mojo_audio_input_stream.cc 87
+media/mojo/services/mojo_audio_input_stream_unittest.cc 112 115 117 118
+media/mojo/services/mojo_audio_output_stream.cc 90
+media/mojo/services/mojo_audio_output_stream_unittest.cc 110 113 115 116
+media/mojo/services/mojo_video_encode_accelerator_service.cc 139 141
+mojo/edk/system/core.cc 1055 1114
+mojo/public/c/system/platform_handle.h 82 83 84 93 98 148 149 150 151 152 153 154 155 189 190
+mojo/public/cpp/system/platform_handle.cc 68 84 85 98 99 100 101 119 120
+mojo/public/cpp/system/platform_handle.h 65 66 67 72 75 80
+mojo/public/cpp/system/tests/BUILD.gn
+ui/gfx/mojo/buffer_types_struct_traits.cc 61 62

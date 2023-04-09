@@ -1,0 +1,6 @@
+arch/arm/include/asm/thread_info.h 61
+arch/arm/include/asm/tls.h 5 6 9 10 12 13 16 22 23 24 25 28 37 41 45 49 52 53 54 55 56 57 58 59 60 61 62
+arch/arm/kernel/entry-armv.S 692 693 697
+arch/arm/kernel/process.c 42 347 348
+arch/arm/kernel/ptrace.c 852
+arch/arm/kernel/traps.c 584 702

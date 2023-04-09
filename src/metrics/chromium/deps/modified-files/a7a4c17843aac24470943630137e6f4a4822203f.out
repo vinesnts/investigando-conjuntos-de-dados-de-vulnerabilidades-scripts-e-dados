@@ -1,0 +1,4 @@
+third_party/blink/renderer/core/exported/web_layer_test.cc
+third_party/blink/renderer/core/paint/paint_property_tree_update_tests.cc
+third_party/blink/renderer/platform/graphics/paint/transform_paint_property_node.h
+third_party/blink/web_tests/http/tests/devtools/layers/layer-tree-model.js

@@ -1,0 +1,5 @@
+android_webview/browser/browser_view_renderer.cc
+android_webview/javatests/src/org/chromium/android_webview/test/AwContentsRenderTest.java 14 46 49 50 51
+content/browser/android/in_process/synchronous_compositor_external_begin_frame_source.cc
+content/browser/android/in_process/synchronous_compositor_impl.cc 54 55 58 61 71 72 76 77 136 138 139 140 141 142 143 144 145 146 147 157 158 159 236 269 270 271 272 273 274 275 276 277 278 279 280 281 285 286 287 318 347 348 349 350 351 352 353 354
+content/browser/android/in_process/synchronous_compositor_impl.h 107

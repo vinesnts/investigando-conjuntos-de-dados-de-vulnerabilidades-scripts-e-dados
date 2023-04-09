@@ -1,0 +1,9 @@
+MagickCore/memory.c 609 610 619 620 621 623 624 625 627 628 629 631 632 633 634 635 636 637 638 1048 1049 1050 1051
+MagickCore/studio.h 75 76 77
+MagickCore/version.c 222 223 224 225 226 231 232 233 239 240 241
+MagickCore/version.h 30 51 56
+MagickWand/studio.h 77 78 79
+coders/icon.c 186 187 357 358
+coders/pict.c 1640 1684 1714
+configure 4344 21658 21674 36539
+configure.ac 645 657 4000

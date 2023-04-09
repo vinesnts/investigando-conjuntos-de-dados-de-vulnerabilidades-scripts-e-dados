@@ -1,0 +1,3 @@
+DEPS
+ios/third_party/earl_grey/BUILD.gn
+ios/third_party/earl_grey/README.chromium

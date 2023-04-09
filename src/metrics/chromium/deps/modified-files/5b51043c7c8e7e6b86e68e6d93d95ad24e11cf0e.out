@@ -1,0 +1,11 @@
+chrome/browser/payments/chrome_payment_request_delegate.cc
+chrome/browser/payments/chrome_payment_request_delegate.h
+chrome/browser/ui/views/payments/payment_request_browsertest.cc
+chrome/browser/ui/views/payments/payment_request_browsertest_base.cc
+chrome/browser/ui/views/payments/payment_request_browsertest_base.h
+chrome/browser/ui/views/payments/test_chrome_payment_request_delegate.cc
+chrome/browser/ui/views/payments/test_chrome_payment_request_delegate.h
+components/payments/content/payment_request.cc
+components/payments/core/payment_request_delegate.h
+components/payments/core/test_payment_request_delegate.cc
+components/payments/core/test_payment_request_delegate.h

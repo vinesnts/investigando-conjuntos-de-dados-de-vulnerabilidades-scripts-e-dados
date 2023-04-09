@@ -1,0 +1,5 @@
+chrome/browser/chromeos/language_preferences.h
+chrome/browser/chromeos/preferences.cc
+chrome/browser/chromeos/preferences.h
+chrome/common/pref_names.cc
+chrome/common/pref_names.h

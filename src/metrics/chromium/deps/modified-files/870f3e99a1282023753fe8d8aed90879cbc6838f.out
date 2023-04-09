@@ -1,0 +1,6 @@
+base/trace_event/trace_event_impl.cc
+base/trace_event/trace_event_impl.h
+base/trace_event/trace_event_unittest.cc
+chrome/common/trace_event_args_whitelist.cc
+chrome/common/trace_event_args_whitelist.h
+content/browser/tracing/background_tracing_manager_browsertest.cc

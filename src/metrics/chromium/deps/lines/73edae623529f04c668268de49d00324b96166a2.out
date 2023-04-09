@@ -1,0 +1,11 @@
+third_party/WebKit/Source/WebCore/ChangeLog
+third_party/WebKit/Source/WebCore/dom/Range.cpp 1114 1115 1116 1117 1118 1119 1120 1121 1122 1123 1124 1125 1126 1127 1128 1129 1130 1131 1132 1133 1134 1135 1136 1137 1138 1139 1140 1141 1142 1143 1144 1145 1146 1147 1148 1149 1150 1151 1152 1153 1154 1155 1156 1157 1158 1159 1160 1161 1162 1163 1164 1178
+third_party/WebKit/Source/WebCore/dom/Range.h 93
+third_party/WebKit/Source/WebCore/dom/ShadowRoot.cpp 147 148
+third_party/WebKit/Source/WebCore/editing/markup.cpp 668 995
+third_party/WebKit/Source/WebCore/editing/markup.h 54
+third_party/WebKit/Source/WebCore/html/HTMLElement.cpp 345 346 377 579 583 584 585 586 587 588 589 590 591
+third_party/WebKit/Source/WebCore/inspector/DOMPatchSupport.cpp
+third_party/WebKit/Source/WebCore/xml/XSLTProcessor.cpp 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 158
+third_party/WebKit/Source/WebKit/qt/Api/qwebelement.cpp 1013 1058 1110 1160 1306 1381
+third_party/WebKit/Source/WebKit/qt/ChangeLog

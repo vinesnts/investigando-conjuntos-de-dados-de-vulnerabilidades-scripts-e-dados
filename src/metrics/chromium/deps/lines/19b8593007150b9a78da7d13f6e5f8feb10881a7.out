@@ -1,0 +1,6 @@
+chrome/browser/metrics/chrome_metrics_service_client.cc
+components/metrics/BUILD.gn
+components/metrics/cpu_metrics_provider.cc
+components/metrics/cpu_metrics_provider.h
+components/metrics/metrics_log.cc 299 300 301 302 303 304 305
+components/metrics/metrics_log_unittest.cc

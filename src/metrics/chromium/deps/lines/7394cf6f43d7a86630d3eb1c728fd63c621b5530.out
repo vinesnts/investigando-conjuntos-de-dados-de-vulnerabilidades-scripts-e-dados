@@ -1,0 +1,20 @@
+chrome/browser/resource_coordinator/local_site_characteristics_data_impl.cc
+chrome/browser/resource_coordinator/local_site_characteristics_data_impl.h
+chrome/browser/resource_coordinator/local_site_characteristics_data_reader.h 35 36 37
+chrome/browser/resource_coordinator/local_site_characteristics_data_unittest_utils.cc
+chrome/browser/resource_coordinator/local_site_characteristics_data_unittest_utils.h
+chrome/browser/resource_coordinator/local_site_characteristics_data_writer.h
+chrome/browser/resource_coordinator/local_site_characteristics_database_browsertest.cc 124 126 127 444 446 447
+chrome/browser/resource_coordinator/local_site_characteristics_webcontents_observer.cc 100 101
+chrome/browser/resource_coordinator/local_site_characteristics_webcontents_observer.h
+chrome/browser/resource_coordinator/local_site_characteristics_webcontents_observer_unittest.cc 8 12 78 80 81 82 83 87 88 89 90 91 92 93 110 130 131
+chrome/browser/resource_coordinator/tab_helper.h
+chrome/browser/resource_coordinator/tab_lifecycle_unit.cc 371 372 373 384 385 386 390 447 448 449 483 484 485
+chrome/browser/resource_coordinator/tab_lifecycle_unit_source_unittest.cc 23 91 102 119 135 136 150 156 157 175 196 197 216 228 232 272 282 285 310 312 339 341 352 354 373 375 386 389 411 414 425 428 450 451 512 516 577 586 655 658 670 673 690 701 704 714 725 728
+chrome/browser/resource_coordinator/tab_lifecycle_unit_unittest.cc 22 69 78 85 104 107 162 170 196 198 199 200 205 208 291 303 310 316 321 326 332
+chrome/browser/resource_coordinator/tab_manager_browsertest.cc 147 156
+chrome/browser/resource_coordinator/tab_manager_unittest.cc 42 115 134 149 161
+chrome/browser/resource_coordinator/test_lifecycle_unit.cc 127
+chrome/browser/resource_coordinator/utils.cc
+chrome/browser/resource_coordinator/utils.h
+chrome/test/BUILD.gn

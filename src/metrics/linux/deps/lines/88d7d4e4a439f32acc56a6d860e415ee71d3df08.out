@@ -1,0 +1,6 @@
+MAINTAINERS 7274
+drivers/watchdog/Kconfig 1101
+drivers/watchdog/booke_wdt.c 201
+drivers/watchdog/hpwdt.c 234 253
+drivers/watchdog/pnx4008_wdt.c 267
+drivers/watchdog/s3c2410_wdt.c 315 316 326 338 339 340 341 342 343 344 345 346 347 348 349 350 355 360 386 417 418 419 426 441 442 443

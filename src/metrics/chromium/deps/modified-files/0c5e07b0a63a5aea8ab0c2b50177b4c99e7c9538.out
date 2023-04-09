@@ -1,0 +1,3 @@
+chrome/renderer/blocked_plugin.cc
+webkit/plugins/npapi/webview_plugin.cc
+webkit/plugins/npapi/webview_plugin.h

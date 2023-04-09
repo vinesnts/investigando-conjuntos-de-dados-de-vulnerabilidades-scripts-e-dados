@@ -1,0 +1,6 @@
+ash/public/cpp/shelf_types.h 56 57
+ash/shelf/shelf_background_animator.cc
+ash/shelf/shelf_background_animator_unittest.cc
+ash/shelf/shelf_layout_manager.cc 484 485 486
+ash/shelf/shelf_layout_manager_unittest.cc
+ash/shelf/shelf_widget.cc 243 244

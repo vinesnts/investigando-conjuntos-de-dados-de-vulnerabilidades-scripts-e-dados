@@ -1,0 +1,3 @@
+include/sound/core.h
+sound/core/control.c 1046 1076 1077 1078 1079 1081
+sound/core/init.c

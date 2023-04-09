@@ -1,0 +1,4 @@
+.gn
+build/config/compiler/BUILD.gn 525 531 532 533 534 535
+build/toolchain/nacl/BUILD.gn 36 49 62 95 108 194
+ppapi/BUILD.gn 202

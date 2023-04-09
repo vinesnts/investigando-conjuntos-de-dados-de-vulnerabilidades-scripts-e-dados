@@ -1,0 +1,5 @@
+chrome/browser/chromeos/login/users/wallpaper/wallpaper_manager.cc
+chrome/browser/chromeos/login/users/wallpaper/wallpaper_manager.h
+chrome/browser/chromeos/login/users/wallpaper/wallpaper_manager_browsertest.cc
+components/wallpaper/wallpaper_manager_base.cc
+components/wallpaper/wallpaper_manager_base.h

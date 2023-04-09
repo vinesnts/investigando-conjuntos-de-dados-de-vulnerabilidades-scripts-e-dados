@@ -1,0 +1,6 @@
+device/usb/usb_device.cc
+device/usb/usb_device.h
+device/usb/usb_device_impl.cc
+device/usb/usb_device_impl.h
+extensions/browser/api/usb/usb_api.cc
+extensions/browser/api/usb/usb_api.h

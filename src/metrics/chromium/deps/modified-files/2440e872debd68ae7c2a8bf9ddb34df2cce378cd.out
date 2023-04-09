@@ -1,0 +1,4 @@
+chrome/credential_provider/gaiacp/gaia_credential_base.cc
+chrome/credential_provider/gaiacp/gaia_credential_base_unittests.cc
+chrome/credential_provider/gaiacp/mdm_utils.cc
+chrome/credential_provider/gaiacp/mdm_utils.h

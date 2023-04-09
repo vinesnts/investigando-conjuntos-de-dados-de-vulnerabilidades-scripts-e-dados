@@ -1,0 +1,6 @@
+tools/perf/benchmarks/system_health_smoke_test.py
+tools/perf/page_sets/data/system_health_desktop.json
+tools/perf/page_sets/data/system_health_desktop_b11350f30f.wprgo.sha1
+tools/perf/page_sets/data/system_health_mobile.json
+tools/perf/page_sets/data/system_health_mobile_09493f5937.wprgo.sha1
+tools/perf/page_sets/system_health/loading_stories.py

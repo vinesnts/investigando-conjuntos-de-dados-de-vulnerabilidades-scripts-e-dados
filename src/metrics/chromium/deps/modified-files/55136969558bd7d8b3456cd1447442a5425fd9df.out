@@ -1,0 +1,12 @@
+third_party/WebKit/Source/platform/blink_platform.gypi
+third_party/WebKit/Source/platform/graphics/paint/DisplayItemList.cpp
+third_party/WebKit/Source/platform/graphics/paint/DisplayItemList.h
+third_party/WebKit/Source/platform/graphics/paint/DisplayItemListTest.cpp
+third_party/WebKit/Source/platform/graphics/paint/PaintChunk.h
+third_party/WebKit/Source/platform/graphics/paint/PaintChunker.cpp
+third_party/WebKit/Source/platform/graphics/paint/PaintChunker.h
+third_party/WebKit/Source/platform/graphics/paint/PaintChunkerTest.cpp
+third_party/WebKit/Source/platform/graphics/paint/PaintProperties.h
+third_party/WebKit/Source/platform/graphics/paint/README.md
+third_party/WebKit/Source/platform/testing/PaintPrinters.cpp
+third_party/WebKit/Source/platform/testing/PaintPrinters.h

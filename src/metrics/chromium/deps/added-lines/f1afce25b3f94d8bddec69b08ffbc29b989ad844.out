@@ -1,0 +1,10 @@
+chrome/browser/extensions/app_process_apitest.cc 128 130 214 216 223 352 353
+chrome/browser/extensions/chrome_content_browser_client_extensions_part.cc 588 589 590
+chrome/browser/extensions/extension_browsertest.cc 542 550 551 552 553 554 555 556 557 558 559 560 561 562 563
+chrome/browser/extensions/extension_browsertest.h 279 280 281 285
+chrome/browser/extensions/isolated_app_browsertest.cc 476 482
+chrome/browser/extensions/process_management_browsertest.cc 32 40 41 71 454 455 456 457 458 459 460 461 462 463 464 465 466 467 468 469 470 471 472 473 474 475 476 477 478 479 480 481 482 483 484 485 486 487 488 489 490 491 492 493 494 495 496 497 498 499 500 501 502 503 504 505 506 507 508 509 510 511 512 513 514 515 516
+chrome/browser/extensions/window_open_apitest.cc 249 267 268 272 274 275 291 292 293
+chrome/common/extensions/extension_process_policy.cc 65 66 67 68 69 70 71 72 73 74 75
+chrome/common/extensions/extension_process_policy_unittest.cc 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63
+chrome/test/BUILD.gn 4183

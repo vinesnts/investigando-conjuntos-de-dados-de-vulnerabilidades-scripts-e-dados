@@ -1,0 +1,3 @@
+third_party/WebKit/Tools/Scripts/update-w3c-test-expections
+third_party/WebKit/Tools/Scripts/webkitpy/w3c/update_w3c_test_expectations.py
+third_party/WebKit/Tools/Scripts/webkitpy/w3c/update_w3c_test_expectations_unittest.py

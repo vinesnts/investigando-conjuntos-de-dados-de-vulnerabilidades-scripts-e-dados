@@ -1,0 +1,7 @@
+third_party/WebKit/LayoutTests/http/tests/worklet/webexposed/global-interface-listing-paint-worklet-expected.txt
+third_party/WebKit/LayoutTests/webexposed/global-interface-listing-expected.txt
+third_party/WebKit/Source/core/css/cssom/CSSMathMax.idl
+third_party/WebKit/Source/core/css/cssom/CSSMathMin.idl
+third_party/WebKit/Source/core/css/cssom/CSSMathProduct.idl
+third_party/WebKit/Source/core/css/cssom/CSSMathSum.idl
+third_party/WebKit/Source/core/css/cssom/CSSMathVariadic.h

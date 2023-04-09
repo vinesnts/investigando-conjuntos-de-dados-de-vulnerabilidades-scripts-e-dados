@@ -1,0 +1,7 @@
+chrome/browser/chromeos/gdata/gdata_cache.cc
+chrome/browser/chromeos/gdata/gdata_cache.h
+chrome/browser/chromeos/gdata/gdata_cache_metadata.cc
+chrome/browser/chromeos/gdata/gdata_cache_metadata.h
+chrome/browser/chromeos/gdata/gdata_cache_metadata_unittest.cc
+chrome/browser/chromeos/gdata/gdata_util.cc
+chrome/browser/chromeos/gdata/gdata_util.h

@@ -1,0 +1,4 @@
+chrome/browser/autofill/autofill_cc_infobar_delegate.cc 26 27 46 47 48
+chrome/browser/autofill/autofill_manager.cc 438 439 440
+chrome/browser/autofill/autofill_manager.h 210
+chrome/browser/translate/translate_manager.cc 612 613 614 615 616 617 618 619 620 621

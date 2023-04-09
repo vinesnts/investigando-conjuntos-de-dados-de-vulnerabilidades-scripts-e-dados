@@ -1,0 +1,4 @@
+third_party/WebKit/LayoutTests/TestExpectations
+third_party/WebKit/LayoutTests/fast/images/55-expected.txt
+third_party/WebKit/LayoutTests/fast/images/55.html
+third_party/WebKit/LayoutTests/virtual/deferred/fast/images/55-expected.txt

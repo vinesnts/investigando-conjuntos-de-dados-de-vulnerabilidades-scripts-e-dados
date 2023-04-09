@@ -1,0 +1,6 @@
+chrome/browser/ui/views/payments/payment_handler_web_flow_view_controller.cc 191
+components/payments/content/payment_request_state.cc
+components/payments/content/payment_request_state.h
+components/payments/content/service_worker_payment_instrument.cc 286 287
+components/payments/content/service_worker_payment_instrument.h
+components/payments/core/payment_instrument.h

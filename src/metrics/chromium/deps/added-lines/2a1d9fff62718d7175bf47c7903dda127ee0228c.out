@@ -1,0 +1,16 @@
+chrome/android/chrome_java_sources.gni 1350
+chrome/android/java/src/org/chromium/chrome/browser/send_tab_to_self/SendTabToSelfAndroidBridge.java 51 52 53 122 123 124 125 126 127 128 129 130 131 148 149 150
+chrome/android/java/src/org/chromium/chrome/browser/send_tab_to_self/SendTabToSelfInfoBar.java 30 31 39 40 41 42 43 44
+chrome/android/java/src/org/chromium/chrome/browser/send_tab_to_self/SendTabToSelfInfoBarController.java 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62
+chrome/android/java/strings/android_chrome_strings.grd 3943 3944 3945 3946 3947 3948
+chrome/browser/android/send_tab_to_self/send_tab_to_self_android_bridge.cc 12 20 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210
+chrome/browser/android/send_tab_to_self/send_tab_to_self_infobar.cc 46 47 48 49 50 51
+chrome/browser/android/send_tab_to_self/send_tab_to_self_infobar.h 26 27 28
+components/send_tab_to_self/BUILD.gn 39 44 45 46 47
+components/send_tab_to_self/DEPS 8
+components/send_tab_to_self/send_tab_to_self_entry.cc 159 160 161 162 163 164 165 166 167 168 169 170
+components/send_tab_to_self/send_tab_to_self_entry.h 81 82 83 84 85 86
+components/send_tab_to_self/send_tab_to_self_entry_unittest.cc 81 82 83 84 85 86 87 88 89 90 91
+components/send_tab_to_self/send_tab_to_self_infobar_delegate.cc 10 17 18 19 20 32 33 34 35 36 37 38 39 40 53 55
+components/send_tab_to_self/send_tab_to_self_infobar_delegate.h 14 15 16 17 23 24 28 43 44 46 47 56
+components/sync/protocol/send_tab_to_self_specifics.proto 20 25 36

@@ -1,0 +1,3 @@
+chrome/browser/renderer_host/plugin_info_message_filter.cc 173 174 175
+content/browser/ppapi_plugin_process_host.cc
+content/browser/ppapi_plugin_process_host.h

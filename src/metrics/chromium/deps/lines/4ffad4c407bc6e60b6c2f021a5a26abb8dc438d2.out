@@ -1,0 +1,5 @@
+third_party/WebKit/LayoutTests/TestExpectations
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/resources/sandboxed-iframe-fetch-event-iframe.py
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/sandboxed-iframe-fetch-event.https-expected.txt
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/sandboxed-iframe-fetch-event.https.html
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/worker-in-sandboxed-iframe-by-csp-fetch-event.https.html

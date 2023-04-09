@@ -1,0 +1,3 @@
+components/password_manager/core/browser/affiliation_api.proto
+components/password_manager/core/browser/affiliation_fetcher.cc
+components/password_manager/core/browser/affiliation_fetcher_unittest.cc

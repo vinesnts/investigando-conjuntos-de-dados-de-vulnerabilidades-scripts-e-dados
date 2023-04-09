@@ -1,0 +1,6 @@
+arch/arm/include/asm/thread_info.h
+arch/arm/include/asm/tls.h
+arch/arm/kernel/entry-armv.S
+arch/arm/kernel/process.c
+arch/arm/kernel/ptrace.c
+arch/arm/kernel/traps.c

@@ -1,0 +1,2 @@
+third_party/WebKit/LayoutTests/fast/dom/NodeIterator/NodeIterator-attr.html
+third_party/WebKit/Source/core/dom/NodeIterator.cpp

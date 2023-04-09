@@ -1,0 +1,4 @@
+chrome/browser/resources/options/chromeos/bluetooth_list_element.js
+chrome/browser/resources/options/chromeos/system_options.js
+chrome/browser/ui/webui/options/chromeos/bluetooth_options_handler.cc
+chrome/browser/ui/webui/options/chromeos/bluetooth_options_handler.h

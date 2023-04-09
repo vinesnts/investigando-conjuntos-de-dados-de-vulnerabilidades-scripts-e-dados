@@ -1,0 +1,5 @@
+chrome/browser/about_flags.cc 2471 2472 2473 2474
+chrome/browser/flag-metadata.json 1146 1147 1148 1149 1150
+chrome/browser/flag_descriptions.cc 3771 3772 3773 3774
+chrome/browser/flag_descriptions.h 2246 2247 2248
+tools/metrics/histograms/enums.xml 36828 38170

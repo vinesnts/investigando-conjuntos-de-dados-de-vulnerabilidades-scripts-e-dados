@@ -1,0 +1,9 @@
+chrome/browser/plugins/chrome_plugin_service_filter.cc
+chrome/browser/plugins/chrome_plugin_service_filter.h
+chrome/browser/plugins/plugin_info_message_filter.cc
+chrome/browser/plugins/plugin_info_message_filter.h
+chrome/browser/renderer_host/plugin_info_message_filter_unittest.cc
+content/browser/plugin_service_impl.cc
+content/browser/plugin_service_impl_browsertest.cc
+content/browser/renderer_host/render_message_filter.cc
+content/public/browser/plugin_service_filter.h

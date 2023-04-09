@@ -1,0 +1,7 @@
+chrome/browser/resources/file_manager/harness.html
+chrome/browser/resources/file_manager/js/directory_model.js
+chrome/browser/resources/file_manager/js/file_copy_manager.js
+chrome/browser/resources/file_manager/js/file_manager.js
+chrome/browser/resources/file_manager/js/harness.js
+chrome/browser/resources/file_manager/js/mock_chrome.js
+chrome/browser/resources/file_manager/js/util.js

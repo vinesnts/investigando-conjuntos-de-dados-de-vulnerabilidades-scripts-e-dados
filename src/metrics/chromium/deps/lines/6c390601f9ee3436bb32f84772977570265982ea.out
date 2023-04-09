@@ -1,0 +1,5 @@
+third_party/WebKit/LayoutTests/ChangeLog
+third_party/WebKit/LayoutTests/fast/events/mutation-during-replace-child-2-expected.txt
+third_party/WebKit/LayoutTests/fast/events/mutation-during-replace-child-2.html
+third_party/WebKit/Source/WebCore/ChangeLog
+third_party/WebKit/Source/WebCore/dom/ContainerNode.cpp

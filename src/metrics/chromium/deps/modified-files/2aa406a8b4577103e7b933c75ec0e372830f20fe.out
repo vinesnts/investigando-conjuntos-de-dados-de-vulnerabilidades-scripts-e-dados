@@ -1,0 +1,17 @@
+chrome/chrome_tests_unit.gypi
+chrome/common/extensions/api/_manifest_features.json
+chrome/common/extensions/manifest_tests/extension_manifests_webview_accessible_resources_unittest.cc
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_1.json
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid1.json
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid2.json
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid3.json
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid4.json
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid5.json
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid6.json
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid7.json
+chrome/test/data/extensions/manifest_tests/webview_accessible_resources_invalid8.json
+chrome/test/data/extensions/platform_apps/web_view/shim/manifest.json
+extensions/common/manifest_constants.cc
+extensions/common/manifest_constants.h
+extensions/common/manifest_handlers/webview_info.cc
+extensions/common/manifest_handlers/webview_info.h

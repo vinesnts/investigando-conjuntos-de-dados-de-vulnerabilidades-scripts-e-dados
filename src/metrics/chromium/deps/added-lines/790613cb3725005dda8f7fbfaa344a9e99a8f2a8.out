@@ -1,0 +1,3 @@
+chrome/browser/browser_init.cc 495 496 497 498 499 500
+chrome/browser/shell_integration_unittest.cc 135 147 148 150 160 161
+chrome/common/chrome_plugin_util.cc 153 154 155 156 157 158 159

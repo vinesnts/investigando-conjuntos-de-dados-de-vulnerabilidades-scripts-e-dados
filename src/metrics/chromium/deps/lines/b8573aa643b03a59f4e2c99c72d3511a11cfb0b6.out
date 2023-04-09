@@ -1,0 +1,5 @@
+ui/aura/aura.gyp
+ui/aura/gestures/gesture_configuration.cc
+ui/aura/gestures/gesture_configuration.h
+ui/aura/gestures/gesture_point.cc 15 16 17 18 19 20 21 22 23 38 148 149 154 160 167 171
+ui/aura/gestures/gesture_sequence.cc 17 18 19 20 21 22 23 24 25 496 500 501

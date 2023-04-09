@@ -1,0 +1,7 @@
+chrome/browser/extensions/active_tab_apitest.cc 215 222 231 232 233 254 255
+chrome/browser/extensions/file_iframe_apitest.cc
+chrome/test/BUILD.gn
+chrome/test/data/extensions/api_test/active_tab_file_urls/file_iframe.html
+chrome/test/data/extensions/api_test/active_tab_file_urls/window_onload.js
+chrome/test/data/extensions/file_iframe/background.html
+chrome/test/data/extensions/file_iframe/window_onload.js

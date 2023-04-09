@@ -1,0 +1,4 @@
+chrome/browser/prerender/prerender_browsertest.cc
+chrome/browser/prerender/prerender_contents.cc
+chrome/browser/prerender/prerender_contents.h
+chrome/browser/prerender/prerender_manager.cc

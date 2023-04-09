@@ -1,0 +1,10 @@
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/fetch-request-css-cross-origin.https-expected.txt
+third_party/blink/renderer/core/css/css_style_sheet.cc
+third_party/blink/renderer/core/css/parser/css_parser_context.cc
+third_party/blink/renderer/core/css/parser/css_parser_context.h
+third_party/blink/renderer/core/css/selector_query.cc
+third_party/blink/renderer/core/css/selector_query_test.cc
+third_party/blink/renderer/core/css/style_rule_import.cc
+third_party/blink/renderer/core/css/style_sheet_contents.h
+third_party/blink/renderer/core/dom/processing_instruction.cc
+third_party/blink/renderer/core/html/link_style.cc

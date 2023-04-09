@@ -1,0 +1,13 @@
+chrome/browser/extensions/active_tab_unittest.cc
+chrome/browser/extensions/api/page_capture/page_capture_api.cc
+chrome/browser/extensions/api/page_capture/page_capture_api.h
+chrome/browser/extensions/api/page_capture/page_capture_apitest.cc
+chrome/browser/extensions/api/tabs/tabs_api.cc
+chrome/browser/extensions/extension_apitest.cc
+chrome/browser/extensions/extension_apitest.h
+chrome/common/extensions/permissions/permissions_data_unittest.cc
+chrome/test/data/extensions/api_test/page_capture/test.js
+extensions/common/manifest_constants.cc
+extensions/common/manifest_constants.h
+extensions/common/permissions/permissions_data.cc
+extensions/common/permissions/permissions_data.h

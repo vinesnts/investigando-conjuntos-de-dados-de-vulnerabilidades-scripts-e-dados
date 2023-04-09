@@ -1,0 +1,6 @@
+chrome/browser/session_history_uitest.cc
+chrome/browser/tab_contents/navigation_controller.cc
+chrome/test/data/session_history/location_redirect.html
+chrome/test/data/session_history/location_redirect_frame1.html
+chrome/test/data/session_history/location_redirect_frame2.html
+webkit/glue/webframeloaderclient_impl.cc

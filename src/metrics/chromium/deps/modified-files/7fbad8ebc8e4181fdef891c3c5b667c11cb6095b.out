@@ -1,0 +1,13 @@
+third_party/WebKit/LayoutTests/ChangeLog
+third_party/WebKit/LayoutTests/inspector/dom-breakpoints.html
+third_party/WebKit/WebCore/ChangeLog
+third_party/WebKit/WebCore/inspector/front-end/BreakpointManager.js
+third_party/WebKit/WebCore/inspector/front-end/BreakpointsSidebarPane.js
+third_party/WebKit/WebCore/inspector/front-end/DOMAgent.js
+third_party/WebKit/WebCore/inspector/front-end/ElementsPanel.js
+third_party/WebKit/WebCore/inspector/front-end/ElementsTreeOutline.js
+third_party/WebKit/WebCore/inspector/front-end/ScriptView.js
+third_party/WebKit/WebCore/inspector/front-end/ScriptsPanel.js
+third_party/WebKit/WebCore/inspector/front-end/SourceFrame.js
+third_party/WebKit/WebCore/inspector/front-end/SourceView.js
+third_party/WebKit/WebCore/inspector/front-end/inspector.js

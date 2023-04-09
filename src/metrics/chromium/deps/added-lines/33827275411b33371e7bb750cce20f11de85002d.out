@@ -1,0 +1,14 @@
+third_party/WebKit/Source/core/editing/Editor.cpp 1497 1498 1499 1500
+third_party/WebKit/Source/core/editing/FrameSelection.cpp 180 221 222 223 225 226 227 400 696 697 698 699 700 1101 1139
+third_party/WebKit/Source/core/editing/FrameSelection.h 180 275
+third_party/WebKit/Source/core/editing/FrameSelectionTest.cpp 307 308 309 310 311 312 313 337 338 339 340 341 342 343 373 374 375 376 377
+third_party/WebKit/Source/core/editing/GranularityStrategyTest.cpp 729 730 731 732 733 734 765 766 767 768 769 770
+third_party/WebKit/Source/core/editing/InputMethodController.cpp 399 400 401 402
+third_party/WebKit/Source/core/editing/SelectionController.cpp 807 808 811 820
+third_party/WebKit/Source/core/editing/SelectionEditor.cpp
+third_party/WebKit/Source/core/editing/SelectionTemplate.cpp 17 41
+third_party/WebKit/Source/core/editing/SelectionTemplate.h
+third_party/WebKit/Source/core/editing/SelectionTemplateTest.cpp
+third_party/WebKit/Source/core/editing/SetSelectionData.cpp 57 58 59 60 61 62
+third_party/WebKit/Source/core/editing/SetSelectionData.h 36 46 66
+third_party/WebKit/Source/core/frame/WebLocalFrameImpl.cpp 1213 1214 1215 1216 1217 1218 1219

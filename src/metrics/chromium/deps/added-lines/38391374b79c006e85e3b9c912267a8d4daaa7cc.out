@@ -1,0 +1,4 @@
+third_party/WebKit/LayoutTests/http/tests/devtools/console/console-format-style-expected.txt 10 11 12 13 14 15 16 17 18 19 20
+third_party/WebKit/LayoutTests/http/tests/devtools/console/console-format-style.js 17 18
+third_party/WebKit/Source/devtools/front_end/console/ConsoleViewMessage.js 370 811 839 840 841 842 843 853 854 855 856 857 858 875 876 877 878 879 880 881 882 883 884 885 886 887 888 889 890 891 892 893 894
+third_party/WebKit/Source/devtools/front_end/console/consoleView.css 192 417 418 419 420

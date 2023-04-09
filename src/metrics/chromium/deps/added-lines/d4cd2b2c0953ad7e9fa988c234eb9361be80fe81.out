@@ -1,0 +1,12 @@
+third_party/WebKit/Source/core/inspector/InspectorController.cpp 94
+third_party/WebKit/Source/core/inspector/InspectorOverlay.cpp 392
+third_party/WebKit/Source/core/inspector/InspectorOverlay.h
+third_party/WebKit/Source/core/inspector/InspectorOverlayPage.html
+third_party/WebKit/Source/core/inspector/InspectorPageAgent.cpp
+third_party/WebKit/Source/core/inspector/InspectorPageAgent.h
+third_party/WebKit/Source/core/inspector/InspectorResourceAgent.cpp 789
+third_party/WebKit/Source/core/inspector/InspectorResourceAgent.h 77 79 154
+third_party/WebKit/Source/devtools/front_end/OverridesSupport.js 363 377 388 400 401 402 403 404 405 406 407 408 409 410
+third_party/WebKit/Source/devtools/front_end/OverridesView.js 46 47 48 49 50 72 73 74 76 79 80 81 82 83 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 189 435 605 751
+third_party/WebKit/Source/devtools/front_end/inspector.js 479
+third_party/WebKit/Source/devtools/front_end/overrides.css 47 48 49 50 67 68 74 138 139 140 141 142 143 144

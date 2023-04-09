@@ -1,0 +1,17 @@
+chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc
+chrome/renderer/extensions/tabs_custom_bindings.cc
+chrome/renderer/extensions/webstore_bindings.cc
+extensions/extensions.gypi
+extensions/renderer/api_definitions_natives.cc
+extensions/renderer/dispatcher.cc
+extensions/renderer/display_source_custom_bindings.cc
+extensions/renderer/i18n_custom_bindings.cc
+extensions/renderer/lazy_background_page_native_handler.cc
+extensions/renderer/object_backed_native_handler.cc
+extensions/renderer/print_native_handler.cc
+extensions/renderer/print_native_handler.h
+extensions/renderer/render_frame_observer_natives.cc
+extensions/renderer/runtime_custom_bindings.cc
+extensions/renderer/test_features_native_handler.cc
+extensions/renderer/test_native_handler.cc
+extensions/renderer/v8_context_native_handler.cc

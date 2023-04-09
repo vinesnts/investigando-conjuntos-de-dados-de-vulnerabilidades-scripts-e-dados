@@ -1,0 +1,4 @@
+third_party/WebKit/LayoutTests/svg/custom/animate-motion-crash-expected.txt
+third_party/WebKit/LayoutTests/svg/custom/animate-motion-crash.svg
+third_party/WebKit/Source/core/svg/SVGAnimateElement.cpp 102
+third_party/WebKit/Source/core/svg/animation/SMILTimeContainer.cpp

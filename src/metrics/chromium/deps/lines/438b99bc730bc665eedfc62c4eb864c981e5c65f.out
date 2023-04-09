@@ -1,0 +1,14 @@
+apps/app_shim/app_shim.gypi 27 28
+apps/app_shim/app_shim_mac.cc 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+apps/app_shim/app_shim_mac.h 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+chrome/app/generated_resources.grd 6227 6228 6229 6230 6231 6232
+chrome/browser/about_flags.cc 1355 1356 1357 1358 1359 1360 1361
+chrome/browser/app_controller_mac.mm 7
+chrome/browser/apps/shortcut_manager.cc 31 32 33 34 113 114 115 116 117 155 156 157 158 159 160 161 162 163 164 165 166 167 168
+chrome/browser/resources/ntp4/apps_page.js 153 154 155 157 158
+chrome/browser/ui/app_list/app_list_service_mac.mm 10
+chrome/browser/ui/webui/ntp/app_launcher_handler.cc 381 382 383 384 385 386 387 388 389 390 391 392 393 394
+chrome/browser/ui/webui/ntp/ntp_resource_cache.cc 512 513 514 515 516 517
+chrome/browser/web_applications/web_app_mac.mm 10 852
+chrome/common/chrome_switches.cc 1347 1348 1349
+chrome/common/chrome_switches.h 384

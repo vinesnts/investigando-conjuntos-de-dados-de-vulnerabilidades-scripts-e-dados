@@ -1,0 +1,9 @@
+Magick++/lib/Image.cpp 3742 3752
+Magick++/lib/Magick++/Include.h 1386
+MagickCore/methods.h
+MagickCore/threshold.c 1240 1246 1251 1253 1282 1426
+MagickCore/threshold.h 41
+MagickWand/magick-image.c 7452 7458 7463 7465 7492 7504
+MagickWand/magick-image.h 208
+MagickWand/mogrify.c 2336
+MagickWand/operation.c 2910

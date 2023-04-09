@@ -1,0 +1,11 @@
+content/renderer/media/render_media_client.cc
+content/renderer/media/render_media_client_unittest.cc
+media/base/BUILD.gn
+media/base/media_client.h
+media/base/mime_util_internal.cc
+media/base/mime_util_internal.h
+media/base/video_codecs.cc
+media/base/video_codecs.h
+media/base/video_codecs_unittest.cc
+media/base/video_color_space.cc
+media/base/video_color_space.h

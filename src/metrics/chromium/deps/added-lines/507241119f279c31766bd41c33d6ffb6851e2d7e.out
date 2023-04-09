@@ -1,0 +1,2 @@
+chrome/browser/safe_browsing/download_protection/binary_upload_service.cc 32 33 43 44 48 49 50 51 52 53 54 55 63 65 423 424 433
+chrome/browser/safe_browsing/download_protection/check_client_download_request.cc 46 363 364 365 394 395 396 434 435 436

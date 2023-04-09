@@ -1,0 +1,17 @@
+android_webview/tools/third_party_files_whitelist.txt
+chrome/chrome.gyp
+chrome/version.gypi
+chrome/version_resource_rules.gypi
+chrome_frame/BRANDING
+chrome_frame/chrome_frame.gyp
+chrome_frame/chrome_frame_helper_dll.ver
+chrome_frame/chrome_frame_helper_exe.ver
+chrome_frame/chrome_frame_helper_version.rc
+chrome_frame/chrome_frame_launcher.gyp
+chrome_frame/chrome_frame_version.rc.version
+chrome_frame/chrome_launcher_exe.ver
+chrome_frame/chrome_launcher_version.rc
+chrome_frame/chrome_tab_version.rc
+chrome_frame/npchrome_frame_dll.ver
+chrome_frame/npchrome_frame_version.rc.version
+chrome_frame/support.gyp

@@ -1,0 +1,5 @@
+sound/oss/dev_table.h
+sound/oss/midi_synth.c
+sound/oss/midi_synth.h
+sound/oss/opl3.c
+sound/oss/sequencer.c

@@ -1,0 +1,2 @@
+chrome/browser/devtools/devtools_sanity_browsertest.cc
+content/renderer/render_view_impl.cc

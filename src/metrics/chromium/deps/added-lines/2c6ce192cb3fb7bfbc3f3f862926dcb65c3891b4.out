@@ -1,0 +1,10 @@
+chrome/browser/ui/bluetooth/bluetooth_chooser_desktop.cc 9 22 23
+chrome/browser/ui/bluetooth/bluetooth_chooser_desktop.h 9 33 34 35 36 37 38 43 44
+chrome/browser/ui/browser.cc 1353
+chrome/browser/usb/usb_browsertest.cc 24 91 92 93 94 95 96 97 98 101 102 104 105 153 154 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319
+chrome/browser/usb/usb_tab_helper.cc 13 117 118 119 120 121 122 123
+chrome/browser/usb/usb_tab_helper.h 58
+chrome/browser/web_bluetooth_browsertest.cc 21 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208
+components/bubble/bubble_manager.cc 84 85 86 87
+components/bubble/bubble_manager.h 73 74 75
+content/browser/bluetooth/web_bluetooth_service_impl.cc 1245 1246 1247 1248

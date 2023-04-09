@@ -1,0 +1,18 @@
+third_party/WebKit/LayoutTests/ChangeLog
+third_party/WebKit/LayoutTests/http/tests/inspector/inspect-iframe-from-different-domain.html 19 21 23 24 25
+third_party/WebKit/LayoutTests/inspector/elements/elements-delete-inline-style.html 10 17
+third_party/WebKit/LayoutTests/inspector/elements/elements-panel-styles.html 11 13 15 16
+third_party/WebKit/LayoutTests/inspector/styles/styles-add-invalid-property.html 10 48 53
+third_party/WebKit/LayoutTests/inspector/styles/styles-cancel-editing.html 10 36 41
+third_party/WebKit/LayoutTests/inspector/styles/styles-commit-editing.html 10 37 42
+third_party/WebKit/LayoutTests/inspector/styles/styles-computed-trace.html 40 47
+third_party/WebKit/LayoutTests/inspector/styles/styles-disable-inherited.html 10 18 25
+third_party/WebKit/LayoutTests/inspector/styles/styles-disable-then-change.html 9
+third_party/WebKit/LayoutTests/inspector/styles/styles-disable-then-delete.html 9 37 42 45
+third_party/WebKit/LayoutTests/inspector/styles/styles-disable-then-enable.html 9
+third_party/WebKit/LayoutTests/inspector/styles/styles-iframe.html 33
+third_party/WebKit/LayoutTests/inspector/styles/styles-update-from-js-expected.txt 3 4 5 6 25 26 32 33
+third_party/WebKit/LayoutTests/inspector/styles/styles-update-from-js.html 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 67 68 69 70 72
+third_party/WebKit/LayoutTests/inspector/styles/styles-url-linkify.html 49 55
+third_party/WebKit/Source/WebCore/ChangeLog
+third_party/WebKit/Source/WebCore/inspector/front-end/StylesSidebarPane.js 240 241

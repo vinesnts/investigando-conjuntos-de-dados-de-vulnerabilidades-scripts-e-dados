@@ -1,0 +1,3 @@
+third_party/WebKit/Source/WebCore/ChangeLog
+third_party/WebKit/Source/WebCore/platform/graphics/BitmapImage.h 173 177
+third_party/WebKit/Source/WebCore/platform/graphics/cg/GraphicsContext3DCG.cpp 103

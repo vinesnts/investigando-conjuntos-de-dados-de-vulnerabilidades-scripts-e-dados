@@ -1,0 +1,3 @@
+chrome/browser/sync/glue/history_model_worker.cc
+chrome/browser/sync/glue/history_model_worker.h
+chrome/browser/sync/glue/sync_backend_host.cc

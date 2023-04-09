@@ -1,0 +1,13 @@
+chrome/browser/protector/base_prefs_change.cc 8 11 30 31 32 33 34 35 36
+chrome/browser/protector/base_prefs_change.h 28
+chrome/browser/protector/base_setting_change.cc 42 47 48 49 50
+chrome/browser/protector/base_setting_change.h 58 59 60 61
+chrome/browser/protector/default_search_provider_change.cc 90 236 237 238 239 240 241
+chrome/browser/protector/histograms.h 26 59
+chrome/browser/protector/mock_setting_change.h 23
+chrome/browser/protector/prefs_backup_invalid_change.cc 33 78 79 80 81
+chrome/browser/protector/protected_prefs_watcher.cc 89 134 135 136 137 138 139 140 141
+chrome/browser/protector/protected_prefs_watcher.h 45 46 47 88 89 90
+chrome/browser/protector/protector_service.cc 13 50 51 54 55 56 57 62 66 67 78 80
+chrome/browser/search_engines/template_url_service.cc 657 679
+chrome/browser/ui/browser_init.cc 1589 1608

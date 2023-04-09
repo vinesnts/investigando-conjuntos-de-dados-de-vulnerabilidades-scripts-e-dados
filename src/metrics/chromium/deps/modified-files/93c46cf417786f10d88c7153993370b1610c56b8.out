@@ -1,0 +1,2 @@
+chrome/browser/extensions/api/search_engines_private/search_engines_private_apitest.cc
+chrome/test/data/extensions/api_test/search_engines_private/test.js

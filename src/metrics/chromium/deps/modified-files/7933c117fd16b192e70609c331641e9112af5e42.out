@@ -1,0 +1,5 @@
+net/http/http_network_transaction_unittest.cc
+net/http/http_proxy_client_socket.cc
+net/http/proxy_client_socket.cc
+net/http/proxy_client_socket.h
+net/spdy/spdy_proxy_client_socket.cc

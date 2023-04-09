@@ -1,0 +1,2 @@
+third_party/WebKit/LayoutTests/external/wpt/referrer-policy/generic/iframe-inheritance.html
+third_party/WebKit/Source/core/dom/Document.cpp

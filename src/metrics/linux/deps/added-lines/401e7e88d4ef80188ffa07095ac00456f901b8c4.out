@@ -1,0 +1,3 @@
+drivers/char/ipmi/ipmi_si_intf.c 2088 2089 2090 2091 2092
+drivers/char/ipmi/ipmi_si_mem_io.c 142 143 144
+drivers/char/ipmi/ipmi_si_port_io.c 110 111 112

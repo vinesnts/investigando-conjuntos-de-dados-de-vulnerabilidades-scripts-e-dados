@@ -1,0 +1,8 @@
+chrome/browser/extensions/navigation_observer.cc 72
+chrome/test/data/extensions/api_test/webrequest/test_blocking.js 146 153 163 171 181 191
+chrome/test/data/extensions/api_test/webrequest/test_declarative1.js 195 201 207 215 223
+content/browser/browser_side_navigation_browsertest.cc 395 396 400 401
+content/browser/frame_host/data_url_navigation_browsertest.cc 979 986 989 1007 1010 1027 1030
+content/browser/frame_host/navigation_controller_impl.cc
+content/browser/frame_host/navigation_controller_impl_browsertest.cc 6924 6925 6929 6930 6933 6934 6935 6936 6937 6938 6939 6940 6941 6942 6943 6944 6945 6946 6947 6948 6949 6950 6951 6952 6953 6954 6955 6956 6957 6958 6959 6960 6961 6962 6963 6964 6965 6966 6967 6968 6969 6970 6971 6972 6973 6974 6975 6976 6977 6978 6979 6980 6981 6982 6983 6984 6985 6986 6987 6988 6989 6990 6991 6992 6993 6994 6995 6996
+content/browser/frame_host/navigation_handle_impl_browsertest.cc 1646 1647 1648 1651 1654 1659 1660 1661 1662 1663 1664 1665 1666 1667 1668 1669 1670 1671 1672 1673 1674 1675 1676 1677

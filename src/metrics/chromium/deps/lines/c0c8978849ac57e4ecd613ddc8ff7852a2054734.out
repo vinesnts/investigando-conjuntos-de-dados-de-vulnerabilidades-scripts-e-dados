@@ -1,0 +1,27 @@
+services/device/generic_sensor/fake_platform_sensor_and_provider.cc 15 16 17 18 71 73 78 82
+services/device/generic_sensor/fake_platform_sensor_and_provider.h 18 54 58
+services/device/generic_sensor/platform_sensor.cc 19 22 106 107 109 124 125
+services/device/generic_sensor/platform_sensor.h 81 109
+services/device/generic_sensor/platform_sensor_accelerometer_mac.cc 38 40
+services/device/generic_sensor/platform_sensor_accelerometer_mac.h 26
+services/device/generic_sensor/platform_sensor_ambient_light_mac.cc 53 55
+services/device/generic_sensor/platform_sensor_ambient_light_mac.h 24
+services/device/generic_sensor/platform_sensor_android.cc 17 20
+services/device/generic_sensor/platform_sensor_android.h 17
+services/device/generic_sensor/platform_sensor_fusion.cc 17 21 30 36 43 77 85 92 96 101 105 106 107
+services/device/generic_sensor/platform_sensor_fusion.h 41 67
+services/device/generic_sensor/platform_sensor_fusion_unittest.cc 88 89
+services/device/generic_sensor/platform_sensor_linux.cc 28 32
+services/device/generic_sensor/platform_sensor_linux.h 23
+services/device/generic_sensor/platform_sensor_provider_android.cc 48 57 58 61 62 65 66 79 96 108 116 128 136 147 156 168
+services/device/generic_sensor/platform_sensor_provider_android.h 25 31 35 39
+services/device/generic_sensor/platform_sensor_provider_base.cc 38 39 51 69 72 73 74 150 151 152 153 154 155 156
+services/device/generic_sensor/platform_sensor_provider_base.h 48 62
+services/device/generic_sensor/platform_sensor_provider_linux.cc 56 64 84 89 101 204 205 206 207 208 246 269
+services/device/generic_sensor/platform_sensor_provider_linux.h 40 58 95
+services/device/generic_sensor/platform_sensor_provider_mac.cc 30 36 42 50 62
+services/device/generic_sensor/platform_sensor_provider_mac.h 21
+services/device/generic_sensor/platform_sensor_provider_win.cc 64 80 81 92 93 122 132
+services/device/generic_sensor/platform_sensor_provider_win.h 42 55
+services/device/generic_sensor/platform_sensor_win.cc 17 21
+services/device/generic_sensor/platform_sensor_win.h 30

@@ -1,0 +1,11 @@
+third_party/WebKit/Source/WebCore/ChangeLog
+third_party/WebKit/Source/WebCore/dom/Range.cpp
+third_party/WebKit/Source/WebCore/dom/Range.h
+third_party/WebKit/Source/WebCore/dom/ShadowRoot.cpp
+third_party/WebKit/Source/WebCore/editing/markup.cpp
+third_party/WebKit/Source/WebCore/editing/markup.h
+third_party/WebKit/Source/WebCore/html/HTMLElement.cpp
+third_party/WebKit/Source/WebCore/inspector/DOMPatchSupport.cpp
+third_party/WebKit/Source/WebCore/xml/XSLTProcessor.cpp
+third_party/WebKit/Source/WebKit/qt/Api/qwebelement.cpp
+third_party/WebKit/Source/WebKit/qt/ChangeLog

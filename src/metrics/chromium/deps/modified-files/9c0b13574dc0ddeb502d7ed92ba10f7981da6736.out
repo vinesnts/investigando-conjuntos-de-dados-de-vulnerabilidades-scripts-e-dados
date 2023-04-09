@@ -1,0 +1,14 @@
+net/net.gyp
+net/quic/quic_crypto_stream.cc
+net/quic/quic_crypto_stream.h
+net/quic/quic_crypto_stream_test.cc
+net/quic/quic_session.cc
+net/quic/quic_session.h
+net/quic/quic_session_test.cc
+net/quic/quic_stream_sequencer.cc
+net/quic/quic_stream_sequencer.h
+net/quic/quic_stream_sequencer_test.cc
+net/quic/reliable_quic_stream.cc
+net/quic/reliable_quic_stream.h
+net/quic/test_tools/quic_test_utils.cc
+net/quic/test_tools/quic_test_utils.h

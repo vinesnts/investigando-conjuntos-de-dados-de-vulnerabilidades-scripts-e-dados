@@ -1,0 +1,7 @@
+third_party/WebKit/LayoutTests/fast/events/download-on-alt-click-expected.txt
+third_party/WebKit/LayoutTests/fast/events/download-on-alt-click.html
+third_party/WebKit/LayoutTests/fast/events/download-on-synthesized-alt-click-expected.txt
+third_party/WebKit/LayoutTests/fast/events/download-on-synthesized-alt-click.html
+third_party/WebKit/LayoutTests/fast/events/resources/notify-done.html
+third_party/blink/renderer/core/loader/frame_loader.cc 808 809 811 812 813 814 815 816 817
+third_party/blink/renderer/core/page/create_window.cc 101 102 103 104 105 106 115 116 123 125 126 127 128 129 131 132 133 134 135 137 138

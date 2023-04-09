@@ -1,0 +1,5 @@
+extensions/browser/guest_view/guest_view.h 8 20 21 22 23
+extensions/browser/guest_view/guest_view_base.cc 19 20 21 24 25 26 41 42 43 44 45 330 331 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 844 845 846 847 848 849 850 851 852 853
+extensions/browser/guest_view/guest_view_base.h 63 64 65 66 67 68 69 70 382 383
+extensions/browser/guest_view/guest_view_manager.cc 127 139
+extensions/browser/guest_view/guest_view_manager.h

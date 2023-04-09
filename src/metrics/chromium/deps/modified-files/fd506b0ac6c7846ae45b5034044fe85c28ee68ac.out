@@ -1,0 +1,5 @@
+third_party/WebKit/LayoutTests/fast/loader/document-open-iframe-then-detach-expected.txt
+third_party/WebKit/LayoutTests/fast/loader/document-open-iframe-then-detach.html
+third_party/WebKit/Source/core/loader/DocumentLoader.cpp
+third_party/WebKit/Source/core/loader/DocumentLoader.h
+third_party/WebKit/Source/core/loader/FrameLoader.cpp

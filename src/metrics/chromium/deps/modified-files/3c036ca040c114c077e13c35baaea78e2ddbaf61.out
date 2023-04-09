@@ -1,0 +1,9 @@
+third_party/WebKit/Source/Platform/ChangeLog
+third_party/WebKit/Source/Platform/chromium/public/WebTransformOperations.h
+third_party/WebKit/Source/Platform/chromium/public/WebTransformationMatrix.h
+third_party/WebKit/Source/WebCore/ChangeLog
+third_party/WebKit/Source/WebCore/platform/chromium/support/WebTransformOperations.cpp
+third_party/WebKit/Source/WebCore/platform/chromium/support/WebTransformationMatrix.cpp
+third_party/WebKit/Source/WebCore/platform/graphics/chromium/AnimationTranslationUtil.cpp
+third_party/WebKit/Source/WebKit/chromium/ChangeLog
+third_party/WebKit/Source/WebKit/chromium/tests/AnimationTranslationUtilTest.cpp

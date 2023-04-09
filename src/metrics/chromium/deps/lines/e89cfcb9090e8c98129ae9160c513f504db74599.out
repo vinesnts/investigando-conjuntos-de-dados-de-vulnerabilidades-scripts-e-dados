@@ -1,0 +1,29 @@
+chrome/browser/automation/automation_provider_observers.cc 491
+chrome/browser/automation/automation_provider_observers.h 323
+chrome/browser/extensions/browser_event_router.cc 209 210 216 217 221 226
+chrome/browser/extensions/browser_event_router.h 49
+chrome/browser/ui/ash/launcher/browser_launcher_item_controller.cc 189 190 192
+chrome/browser/ui/ash/launcher/browser_launcher_item_controller.h 93
+chrome/browser/ui/ash/launcher/chrome_launcher_controller.h 239
+chrome/browser/ui/browser.cc 1058 1152 2165 2172 2175 2182 2183 2190 2193 2195
+chrome/browser/ui/browser.h 436 788
+chrome/browser/ui/browser_command_controller.cc 721 729 1175 1177 1179
+chrome/browser/ui/browser_command_controller.h 99 164
+chrome/browser/ui/cocoa/tabs/tab_strip_model_observer_bridge.h 37
+chrome/browser/ui/cocoa/tabs/tab_strip_model_observer_bridge.mm 55 59 60
+chrome/browser/ui/gtk/browser_window_gtk.cc 1207 2324 2325
+chrome/browser/ui/gtk/browser_window_gtk.h 191
+chrome/browser/ui/gtk/tab_contents_container_gtk.cc 135 136
+chrome/browser/ui/gtk/tab_contents_container_gtk.h 46
+chrome/browser/ui/gtk/tabs/tab_strip_gtk.cc 1041 1043
+chrome/browser/ui/gtk/tabs/tab_strip_gtk.h 115
+chrome/browser/ui/tabs/tab_strip_model.cc 244
+chrome/browser/ui/tabs/tab_strip_model_observer.cc 19
+chrome/browser/ui/tabs/tab_strip_model_observer.h 58 60 62
+chrome/browser/ui/tabs/tab_strip_model_unittest.cc 309 310 311
+chrome/browser/ui/unload_controller.cc 123 131 153 155 156 157 158 159
+chrome/browser/ui/unload_controller.h 77 85
+chrome/browser/ui/views/frame/browser_view.cc 1404
+chrome/browser/ui/views/frame/browser_view.h 354
+chrome/browser/ui/views/tabs/browser_tab_strip_controller.cc 375
+chrome/browser/ui/views/tabs/browser_tab_strip_controller.h 77

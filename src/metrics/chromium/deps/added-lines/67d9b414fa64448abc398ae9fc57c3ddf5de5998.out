@@ -1,0 +1,9 @@
+third_party/blink/renderer/controller/BUILD.gn 64
+third_party/blink/renderer/core/BUILD.gn 1647
+third_party/blink/renderer/core/css/css_custom_ident_value.h 14
+third_party/blink/renderer/core/css/css_paint_value.cc 49 51 52 53 54 55
+third_party/blink/renderer/core/css/css_paint_value.h 18
+third_party/blink/renderer/core/css/css_paint_value_test.cc 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81
+third_party/blink/renderer/core/css/test_data/csspaint-do-not-paint-for-link-descendant.html 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39
+third_party/blink/renderer/core/css/test_data/csspaint-do-not-paint-for-link.html 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33
+third_party/blink/renderer/core/style/computed_style.cc 724 725 726 727 728

@@ -1,0 +1,5 @@
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/embed-src-image-url-blocked-expected.txt
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/embed-src-image-url-blocked.html
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/object-src-image-url-blocked-expected.txt
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/object-src-image-url-blocked.html
+third_party/WebKit/Source/core/loader/ImageLoader.cpp

@@ -1,0 +1,4 @@
+chrome/browser/chromeos/gdata/gdata_file_system_unittest.cc
+chrome/browser/chromeos/gdata/gdata_files.cc
+chrome/browser/chromeos/gdata/gdata_files.h
+chrome/browser/chromeos/gdata/gdata_files_unittest.cc

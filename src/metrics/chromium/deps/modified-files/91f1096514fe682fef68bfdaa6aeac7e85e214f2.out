@@ -1,0 +1,5 @@
+testing/buildbot/chrome.json
+testing/buildbot/chromium.chromiumos.json
+testing/buildbot/chromium.fyi.json
+testing/buildbot/test_suite_exceptions.pyl
+testing/buildbot/test_suites.pyl

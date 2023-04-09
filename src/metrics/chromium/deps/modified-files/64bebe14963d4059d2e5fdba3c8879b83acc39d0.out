@@ -1,0 +1,4 @@
+third_party/WebKit/LayoutTests/http/tests/security/xssAuditor/resources/static-script.html
+third_party/WebKit/LayoutTests/http/tests/security/xssAuditor/script-tag-post-redirect-expected.txt
+third_party/WebKit/LayoutTests/http/tests/security/xssAuditor/script-tag-post-redirect.html
+third_party/WebKit/Source/core/html/parser/XSSAuditor.cpp

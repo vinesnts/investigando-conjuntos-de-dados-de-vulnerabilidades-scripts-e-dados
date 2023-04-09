@@ -1,0 +1,7 @@
+third_party/WebKit/LayoutTests/http/tests/security/media-element-audio-source-node-redirect-expected.txt
+third_party/WebKit/LayoutTests/http/tests/security/media-element-audio-source-node-redirect.html
+third_party/WebKit/LayoutTests/http/tests/security/resources/webaudio/media-element-audio-source-node-test.js
+third_party/blink/renderer/modules/webaudio/base_audio_context.cc
+third_party/blink/renderer/modules/webaudio/base_audio_context.h
+third_party/blink/renderer/modules/webaudio/media_element_audio_source_node.cc
+third_party/blink/renderer/modules/webaudio/media_element_audio_source_node.h

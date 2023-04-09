@@ -1,0 +1,12 @@
+third_party/blink/renderer/platform/heap/BUILD.gn
+third_party/blink/renderer/platform/heap/gc_info.cc
+third_party/blink/renderer/platform/heap/gc_info.h
+third_party/blink/renderer/platform/heap/gc_info_test.cc
+third_party/blink/renderer/platform/heap/heap.cc
+third_party/blink/renderer/platform/heap/heap.h
+third_party/blink/renderer/platform/heap/heap_page.cc
+third_party/blink/renderer/platform/heap/incremental_marking_test.cc
+third_party/blink/renderer/platform/heap/marking_verifier.h
+third_party/blink/renderer/platform/heap/marking_visitor.cc
+third_party/blink/renderer/platform/heap/marking_visitor.h
+third_party/blink/renderer/platform/heap/process_heap.cc

@@ -1,0 +1,4 @@
+third_party/blink/renderer/bindings/scripts/v8_attributes.py 547 548
+third_party/blink/renderer/bindings/scripts/v8_types.py 715 716 766 767 768 769 770 771 772
+third_party/blink/renderer/bindings/templates/attributes.cc.tmpl 417 418 419 420
+third_party/blink/renderer/bindings/tests/results/core/v8_test_object.cc 1390 1391 1393 1455 1456 1458

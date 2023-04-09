@@ -1,0 +1,3 @@
+chrome/test/data/webui/settings/certificate_manager_test.js 361 396 437 462
+ui/webui/resources/cr_components/certificate_manager/certificate_password_decryption_dialog.html 6 12 18 21
+ui/webui/resources/cr_components/certificate_manager/certificate_password_encryption_dialog.html 6 24 26 27 30

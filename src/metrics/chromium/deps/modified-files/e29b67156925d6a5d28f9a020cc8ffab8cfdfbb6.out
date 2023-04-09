@@ -1,0 +1,3 @@
+third_party/blink/web_tests/http/tests/canvas/resources/abe.png
+third_party/blink/web_tests/http/tests/canvas/toDataURL-clean-canvas.html
+third_party/blink/web_tests/http/tests/canvas/toDataURL-xorigin-canvas.html

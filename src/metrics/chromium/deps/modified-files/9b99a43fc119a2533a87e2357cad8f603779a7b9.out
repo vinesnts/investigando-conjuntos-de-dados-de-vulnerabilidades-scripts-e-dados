@@ -1,0 +1,6 @@
+third_party/WebKit/Source/modules/webgl/WebGL2RenderingContextBase.cpp
+third_party/WebKit/Source/modules/webgl/WebGL2RenderingContextBase.h
+third_party/WebKit/Source/modules/webgl/WebGLRenderingContextBase.cpp
+third_party/WebKit/Source/modules/webgl/WebGLRenderingContextBase.h
+third_party/WebKit/Source/platform/graphics/gpu/WebGLImageConversion.cpp
+third_party/WebKit/Source/platform/graphics/gpu/WebGLImageConversion.h

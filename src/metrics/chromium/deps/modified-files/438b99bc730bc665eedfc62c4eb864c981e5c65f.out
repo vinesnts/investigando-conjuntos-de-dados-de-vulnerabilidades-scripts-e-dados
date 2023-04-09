@@ -1,0 +1,14 @@
+apps/app_shim/app_shim.gypi
+apps/app_shim/app_shim_mac.cc
+apps/app_shim/app_shim_mac.h
+chrome/app/generated_resources.grd
+chrome/browser/about_flags.cc
+chrome/browser/app_controller_mac.mm
+chrome/browser/apps/shortcut_manager.cc
+chrome/browser/resources/ntp4/apps_page.js
+chrome/browser/ui/app_list/app_list_service_mac.mm
+chrome/browser/ui/webui/ntp/app_launcher_handler.cc
+chrome/browser/ui/webui/ntp/ntp_resource_cache.cc
+chrome/browser/web_applications/web_app_mac.mm
+chrome/common/chrome_switches.cc
+chrome/common/chrome_switches.h

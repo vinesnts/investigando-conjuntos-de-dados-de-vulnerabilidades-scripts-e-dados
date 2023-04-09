@@ -1,0 +1,3 @@
+third_party/WebKit/LayoutTests/fast/speechsynthesis/speech-synthesis-gc-utterance-crash-expected.txt
+third_party/WebKit/LayoutTests/fast/speechsynthesis/speech-synthesis-gc-utterance-crash.html
+third_party/WebKit/Source/modules/speech/SpeechSynthesis.cpp

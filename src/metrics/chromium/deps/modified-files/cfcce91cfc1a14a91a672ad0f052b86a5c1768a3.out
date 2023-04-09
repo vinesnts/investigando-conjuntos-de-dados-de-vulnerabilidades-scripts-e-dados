@@ -1,0 +1,2 @@
+chrome/browser/renderer_host/audio_renderer_host.cc
+media/audio/audio_util.cc

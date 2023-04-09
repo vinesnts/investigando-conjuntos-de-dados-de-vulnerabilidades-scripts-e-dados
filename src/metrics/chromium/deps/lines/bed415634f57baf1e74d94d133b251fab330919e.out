@@ -1,0 +1,3 @@
+content/browser/screen_orientation/screen_orientation_browsertest.cc 35 36 37 38 39
+content/test/data/screen_orientation/detached-iframe.html
+content/test/data/screen_orientation/screen_orientation_use_after_detach.html

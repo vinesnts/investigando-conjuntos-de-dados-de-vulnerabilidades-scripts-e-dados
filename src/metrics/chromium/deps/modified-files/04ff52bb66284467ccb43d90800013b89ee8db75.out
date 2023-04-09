@@ -1,0 +1,13 @@
+content/browser/renderer_host/media/audio_output_authorization_handler.cc
+content/browser/renderer_host/media/audio_output_authorization_handler.h
+content/browser/renderer_host/media/audio_output_authorization_handler_unittest.cc
+content/browser/renderer_host/media/audio_renderer_host.cc
+content/browser/renderer_host/media/audio_renderer_host.h
+content/browser/renderer_host/media/audio_renderer_host_unittest.cc
+content/browser/renderer_host/render_process_host_impl.cc
+media/audio/audio_system.h
+media/audio/audio_system_impl.cc
+media/audio/audio_system_impl.h
+media/audio/audio_system_impl_unittest.cc
+media/audio/mock_audio_manager.cc
+media/audio/mock_audio_manager.h

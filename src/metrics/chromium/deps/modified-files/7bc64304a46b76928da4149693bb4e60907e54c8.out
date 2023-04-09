@@ -1,0 +1,5 @@
+chrome/browser/renderer_host/chrome_render_message_filter.cc
+chrome/browser/renderer_host/chrome_render_message_filter.h
+chrome/common/render_messages.h
+chrome/renderer/chrome_render_process_observer.cc
+chrome/renderer/chrome_render_process_observer.h

@@ -1,0 +1,6 @@
+extensions/browser/api/web_request/web_request_api.cc
+extensions/browser/api/web_request/web_request_info.cc
+extensions/browser/api/web_request/web_request_info.h
+extensions/browser/api/web_request/web_request_proxying_url_loader_factory.cc
+extensions/browser/api/web_request/web_request_proxying_url_loader_factory.h
+testing/buildbot/filters/mojo.fyi.network_browser_tests.filter

@@ -1,0 +1,7 @@
+chrome/browser/extensions/extension_cookies_api.cc 15 18 40 60 71 73 74 75 76 77 88 89 92 96 111 121 122 133 135 136 137 138 139 189 203 204 205 206 207 209 238 241 246 247 250 251
+chrome/browser/extensions/extension_cookies_api.h 20 21 26
+chrome/browser/extensions/extension_cookies_helpers.cc 34 79 80 134 135 136 137 138 139 140 141 142 143 144 172 179 180 181 182 183
+chrome/browser/extensions/extension_cookies_helpers.h 21 26 28 33
+chrome/browser/extensions/extension_cookies_unittest.cc 11 23 65 66 67 69 70 71 72 74 76 78 79 93 120 131 144 151 156 179
+chrome/test/data/extensions/api_test/cookies/manifest.json 4
+chrome/test/data/extensions/api_test/cookies/tab.html 47 49

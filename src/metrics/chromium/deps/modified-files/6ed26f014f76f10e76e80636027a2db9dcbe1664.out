@@ -1,0 +1,3 @@
+third_party/WebKit/LayoutTests/http/tests/css3/filters/fedisplacementmap-tainted.html
+third_party/WebKit/Source/modules/canvas/canvas2d/BaseRenderingContext2D.cpp
+third_party/WebKit/Source/modules/canvas/canvas2d/BaseRenderingContext2D.h

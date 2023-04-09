@@ -1,0 +1,5 @@
+chrome/browser/profiles/profile.cc
+components/safe_browsing_db/safe_browsing_prefs.cc 282 284 285 287 290 292 296 298
+components/safe_browsing_db/safe_browsing_prefs.h
+components/safe_browsing_db/safe_browsing_prefs_unittest.cc
+tools/metrics/histograms/histograms.xml 57431

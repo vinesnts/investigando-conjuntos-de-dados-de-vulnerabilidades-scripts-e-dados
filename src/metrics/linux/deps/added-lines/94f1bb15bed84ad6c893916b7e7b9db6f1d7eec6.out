@@ -1,0 +1,4 @@
+crypto/rng.c 7 54 70 105
+include/crypto/internal/rng.h 5
+include/crypto/rng.h 5 143 197
+include/linux/crypto.h

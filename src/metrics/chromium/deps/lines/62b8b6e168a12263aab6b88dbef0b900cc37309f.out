@@ -1,0 +1,24 @@
+ash/BUILD.gn
+ash/accelerators/accelerator_controller_delegate_aura.cc 38 155 156 157 173 174 175 176 177
+ash/ash.gyp
+ash/ash_strings.grd
+ash/common/palette_delegate.h
+ash/common/system/chromeos/palette/palette_tool.cc
+ash/common/system/chromeos/palette/palette_tray.cc 312
+ash/common/system/chromeos/palette/tools/magnifier_mode.cc
+ash/common/system/chromeos/palette/tools/magnifier_mode.h
+ash/common/test/test_palette_delegate.cc
+ash/common/test/test_palette_delegate.h
+ash/display/window_tree_host_manager.cc 587
+ash/magnifier/partial_magnification_controller.cc 7 9 11 14 16 17 21 23 24 26 27 29 30 32 33 37 39 40 41 42 52 53 56 58 59 60 65 66 67 68 69 70 71 72 73 74 75 76 77 79 80 81 82 83 84 85 86 87 88 89 90 91 94 95 102 106 108 111 112 113 114 115 117 118 119 123 124 125 127 128 131 132 140 147 148 149 150 151 152 153 154 157 158 159 161 165 167 168 173 174 175 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203
+ash/magnifier/partial_magnification_controller.h 14 16 17 21 22 23 28 29 30 31 32 33 34 35 36 37 38 45 48 49 50 51 52 53 54 55 56 57 59 60 62 63 64 65 68 71 74 76 77 78 80
+ash/magnifier/partial_magnification_controller_unittest.cc
+ash/shell/shell_delegate_impl.cc
+chrome/browser/ui/ash/palette_delegate_chromeos.cc
+chrome/browser/ui/ash/palette_delegate_chromeos.h
+ui/gfx/vector_icons/palette_mode_magnify.1x.icon
+ui/gfx/vector_icons/palette_mode_magnify.icon
+ui/gfx/vector_icons/palette_tray_icon_default.1x.icon 6 7 8 9 10 11 12 13 14 15 19 21 22 23 24 25 26
+ui/gfx/vector_icons/palette_tray_icon_magnify.1x.icon
+ui/gfx/vector_icons/palette_tray_icon_magnify.icon
+ui/gfx/vector_icons_sources.gypi

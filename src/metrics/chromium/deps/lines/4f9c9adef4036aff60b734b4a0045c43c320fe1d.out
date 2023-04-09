@@ -1,0 +1,4 @@
+third_party/WebKit/Source/platform/image-decoders/gif/GIFImageDecoderTest.cpp 50 79 83 111 115 142 168 192 217 245 257 310 330 345 365 366 389 414 416 417 423 425 426 431 464 477 492
+third_party/WebKit/Source/platform/image-decoders/gif/GIFImageReader.cpp 437 438 439 443 444 445 446 447 635 636 637 638 639 640 641 642 643 644 645 646 647 648 651 652 653 654 655 656 657 672 673
+third_party/WebKit/Source/platform/image-decoders/gif/GIFImageReader.h
+third_party/WebKit/Source/platform/image-decoders/testing/first-frame-has-greater-size-than-screen-size.gif

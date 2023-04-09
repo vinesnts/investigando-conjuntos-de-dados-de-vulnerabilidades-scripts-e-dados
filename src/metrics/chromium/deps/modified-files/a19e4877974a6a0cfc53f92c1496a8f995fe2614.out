@@ -1,0 +1,5 @@
+base/profiler/scoped_profile.h
+extensions/browser/event_router.cc
+ipc/ipc_message_macros.h
+ppapi/host/dispatch_host_message.h
+ppapi/proxy/dispatch_reply_message.h

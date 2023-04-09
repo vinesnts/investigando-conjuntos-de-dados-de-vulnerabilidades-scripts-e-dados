@@ -1,0 +1,2 @@
+drivers/gpu/drm/drm_crtc.c 1876 1877 1878 1879
+include/drm/drm_mode.h 238 239

@@ -1,0 +1,4 @@
+media/gpu/h264_dpb.h
+media/gpu/vaapi/vaapi_video_decode_accelerator.cc
+media/gpu/vp8_picture.h
+media/gpu/vp9_picture.h

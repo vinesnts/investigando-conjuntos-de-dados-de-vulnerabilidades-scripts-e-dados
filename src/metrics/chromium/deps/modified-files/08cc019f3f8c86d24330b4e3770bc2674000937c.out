@@ -1,0 +1,3 @@
+third_party/blink/renderer/core/xmlhttprequest/xml_http_request.cc
+third_party/blink/renderer/core/xmlhttprequest/xml_http_request.h
+third_party/blink/web_tests/external/wpt/xhr/access-control-expose-headers-on-redirect.html

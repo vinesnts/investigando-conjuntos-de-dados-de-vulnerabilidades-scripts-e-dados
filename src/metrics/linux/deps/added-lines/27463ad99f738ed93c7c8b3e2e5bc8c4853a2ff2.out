@@ -1,0 +1,2 @@
+drivers/net/ethernet/hisilicon/hns/hns_enet.c 303 304 305 364 365 366 367 1478 1479 1480
+drivers/net/ethernet/hisilicon/hns/hns_enet.h 95 96 97

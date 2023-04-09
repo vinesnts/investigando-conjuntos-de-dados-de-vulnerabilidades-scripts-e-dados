@@ -1,0 +1,13 @@
+chrome/browser/chromeos/tab_closeable_state_watcher.cc 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129
+chrome/browser/chromeos/tab_closeable_state_watcher.h 51 52
+chrome/browser/tab_closeable_state_watcher.cc 1 35 36 37 38 39
+chrome/browser/tab_closeable_state_watcher.h 1 9 10 39 40 41 42 43 44 45 46 47
+chrome/browser/tabs/default_tab_handler.cc 1 98 99
+chrome/browser/tabs/default_tab_handler.h 9 10 50
+chrome/browser/tabs/tab_strip_model.cc 1103 1105 1108 1109 1110 1111
+chrome/browser/tabs/tab_strip_model.h 496 497
+chrome/browser/tabs/tab_strip_model_delegate.h 1 100 101 102 103
+chrome/browser/tabs/tab_strip_model_unittest.cc 123 124 125 126 127
+chrome/browser/ui/browser.cc 2638 2639 2640 2641 2642 2643 2645 2646 2650 2651 2652 2653 2654 2655 2656
+chrome/browser/ui/browser.h 697
+chrome/browser/ui/cocoa/tabs/tab_strip_controller_unittest.mm 7 8 83

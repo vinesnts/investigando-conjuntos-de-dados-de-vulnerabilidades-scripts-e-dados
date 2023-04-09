@@ -1,0 +1,11 @@
+chrome/browser/ui/android/connection_info_popup_android.cc
+chrome/browser/ui/android/website_settings_popup_android.cc
+chrome/browser/ui/cocoa/website_settings/website_settings_bubble_controller.h
+chrome/browser/ui/cocoa/website_settings/website_settings_bubble_controller.mm
+chrome/browser/ui/cocoa/website_settings/website_settings_bubble_controller_unittest.mm
+chrome/browser/ui/views/website_settings/website_settings_popup_view.cc
+chrome/browser/ui/views/website_settings/website_settings_popup_view.h
+chrome/browser/ui/website_settings/website_settings.cc
+chrome/browser/ui/website_settings/website_settings.h
+chrome/browser/ui/website_settings/website_settings_ui.h
+chrome/browser/ui/website_settings/website_settings_unittest.cc

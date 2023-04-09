@@ -1,0 +1,5 @@
+arch/ia64/include/asm/processor.h 322
+fs/exec.c
+include/linux/binfmts.h 102 103 104
+include/linux/sched.h
+kernel/ptrace.c 260

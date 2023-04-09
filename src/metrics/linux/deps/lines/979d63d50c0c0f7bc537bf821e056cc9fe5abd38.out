@@ -1,0 +1,2 @@
+include/linux/bpf_verifier.h
+kernel/bpf/verifier.c 757 4392 5742 5743 5760 5761

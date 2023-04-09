@@ -1,0 +1,3 @@
+third_party/WebKit/Source/core/frame/csp/CSPSource.cpp
+third_party/WebKit/Source/core/frame/csp/CSPSourceListTest.cpp 154 173
+third_party/WebKit/Source/core/frame/csp/CSPSourceTest.cpp 67

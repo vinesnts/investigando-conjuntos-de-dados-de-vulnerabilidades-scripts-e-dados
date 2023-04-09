@@ -1,0 +1,7 @@
+chrome/common/extensions/docs/templates/articles/app_csp.html 54 59
+chrome/common/extensions/docs/templates/articles/offline_apps.html 138 143
+extensions/common/manifest_handlers/csp_info.cc 37 48
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/script-src-wildcards-disallowed.html 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61
+third_party/WebKit/Source/core/frame/csp/CSPSourceList.cpp 48 49 50 51 52 53 54 55 57 64 496 497 498 499 500 501 502 503 504
+third_party/WebKit/Source/core/frame/csp/CSPSourceList.h 53 54
+third_party/WebKit/Source/core/frame/csp/CSPSourceListTest.cpp 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74

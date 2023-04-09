@@ -1,0 +1,7 @@
+chrome/browser/extensions/api/debugger/debugger_api.cc 152 390 391 392 393
+chrome/test/data/extensions/api_test/debugger/background.js 18 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327
+content/browser/devtools/protocol/page_handler.cc 191 192 209 860 861 862
+content/browser/devtools/protocol/page_handler.h 61 215
+content/browser/devtools/render_frame_devtools_agent_host.cc 460 461
+content/public/browser/devtools_agent_host_client.cc 23 24 25 26
+content/public/browser/devtools_agent_host_client.h 41 42 43 44

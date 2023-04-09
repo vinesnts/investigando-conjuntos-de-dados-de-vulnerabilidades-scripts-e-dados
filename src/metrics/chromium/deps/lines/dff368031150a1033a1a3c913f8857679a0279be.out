@@ -1,0 +1,7 @@
+third_party/WebKit/Source/bindings/core/v8/V8RecursionScope.cpp 40
+third_party/WebKit/Source/core/dom/Document.cpp 4518
+third_party/WebKit/Source/core/dom/Microtask.cpp 43 45
+third_party/WebKit/Source/core/dom/Microtask.h 44
+third_party/WebKit/Source/core/html/parser/HTMLScriptRunner.cpp 136 340
+third_party/WebKit/Source/core/workers/WorkerThread.cpp 79
+third_party/WebKit/Source/web/WebKit.cpp 79

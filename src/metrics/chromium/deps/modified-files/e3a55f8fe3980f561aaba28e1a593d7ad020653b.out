@@ -1,0 +1,3 @@
+chrome/browser/ui/cocoa/extensions/browser_action_button.h
+chrome/browser/ui/cocoa/extensions/browser_action_button.mm
+chrome/browser/ui/cocoa/extensions/browser_action_button_interactive_uitest.mm

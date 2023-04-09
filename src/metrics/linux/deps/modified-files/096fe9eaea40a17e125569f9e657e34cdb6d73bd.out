@@ -1,0 +1,3 @@
+security/keys/encrypted-keys/encrypted.c
+security/keys/trusted.c
+security/keys/user_defined.c

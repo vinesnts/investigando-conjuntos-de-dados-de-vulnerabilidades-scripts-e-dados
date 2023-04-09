@@ -1,0 +1,13 @@
+content/browser/gpu/gpu_process_host.cc
+content/common/gpu/media/DEPS
+content/common/gpu/media/gpu_video_decode_accelerator.cc
+content/common/gpu/media/h264_dpb.cc
+content/common/gpu/media/h264_dpb.h
+content/common/gpu/media/vaapi_h264_decoder.cc
+content/common/gpu/media/vaapi_h264_decoder.h
+content/common/gpu/media/vaapi_video_decode_accelerator.cc
+content/common/gpu/media/vaapi_video_decode_accelerator.h
+content/content_common.gypi
+content/public/common/content_switches.cc
+content/public/common/content_switches.h
+content/renderer/render_view_impl.cc

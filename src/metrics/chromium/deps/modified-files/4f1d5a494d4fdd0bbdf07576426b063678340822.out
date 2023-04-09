@@ -1,0 +1,4 @@
+third_party/WebKit/Source/WebKit2/ChangeLog
+third_party/WebKit/Source/WebKit2/Platform/CoreIPC/HandleMessage.h
+third_party/WebKit/Source/WebKit2/Scripts/webkit2/messages.py
+third_party/WebKit/Source/WebKit2/Scripts/webkit2/messages_unittest.py

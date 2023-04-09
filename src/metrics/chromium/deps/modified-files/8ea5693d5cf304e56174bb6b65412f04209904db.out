@@ -1,0 +1,3 @@
+third_party/WebKit/Source/core/editing/Editor.cpp
+third_party/WebKit/Source/core/editing/Editor.h
+third_party/WebKit/Source/core/editing/commands/EditorCommand.cpp

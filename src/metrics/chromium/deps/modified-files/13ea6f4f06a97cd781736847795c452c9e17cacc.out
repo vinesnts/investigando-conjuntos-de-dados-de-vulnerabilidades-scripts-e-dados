@@ -1,0 +1,3 @@
+third_party/WebKit/LayoutTests/ChangeLog
+third_party/WebKit/LayoutTests/fast/dom/resources/shadow-test-driver.js
+third_party/WebKit/LayoutTests/platform/chromium/test_expectations.txt

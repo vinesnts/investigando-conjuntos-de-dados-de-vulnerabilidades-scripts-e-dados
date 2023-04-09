@@ -1,0 +1,4 @@
+third_party/WebKit/LayoutTests/fast/dom/HTMLBodyElement/body-inserting-iframe-crash-expected.txt
+third_party/WebKit/LayoutTests/fast/dom/HTMLBodyElement/body-inserting-iframe-crash.html
+third_party/WebKit/Source/core/html/HTMLBodyElement.cpp
+third_party/WebKit/Source/core/html/HTMLBodyElement.h

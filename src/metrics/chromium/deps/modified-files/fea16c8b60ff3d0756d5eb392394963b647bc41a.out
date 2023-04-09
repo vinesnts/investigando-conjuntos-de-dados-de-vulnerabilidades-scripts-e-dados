@@ -1,0 +1,2 @@
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/report-strips-fragment.html
+third_party/WebKit/Source/core/frame/csp/ContentSecurityPolicy.cpp

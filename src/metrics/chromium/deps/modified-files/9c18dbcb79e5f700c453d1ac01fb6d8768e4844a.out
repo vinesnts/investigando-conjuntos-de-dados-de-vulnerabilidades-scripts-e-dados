@@ -1,0 +1,5 @@
+net/base/net_error_list.h
+net/http/http_proxy_client_socket_pool_spdy2_unittest.cc
+net/http/http_proxy_client_socket_pool_spdy3_unittest.cc
+net/http/http_stream_parser.cc
+net/http/http_stream_parser_unittest.cc

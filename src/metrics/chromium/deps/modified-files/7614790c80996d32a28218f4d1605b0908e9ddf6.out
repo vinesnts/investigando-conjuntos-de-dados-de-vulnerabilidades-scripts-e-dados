@@ -1,0 +1,6 @@
+chrome/browser/extensions/process_manager_browsertest.cc
+content/browser/frame_host/render_frame_host_impl.cc
+content/browser/frame_host/render_frame_host_impl.h
+content/public/test/browser_test_utils.cc
+content/public/test/browser_test_utils.h
+extensions/browser/extension_navigation_throttle.cc

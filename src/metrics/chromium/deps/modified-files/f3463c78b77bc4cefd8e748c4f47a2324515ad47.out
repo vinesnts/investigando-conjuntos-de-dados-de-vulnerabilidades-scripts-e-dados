@@ -1,0 +1,5 @@
+components/cronet/native/cronet.idl
+components/cronet/native/generated/cronet.idl_c.h
+components/cronet/native/generated/cronet.idl_impl_struct.cc
+components/cronet/native/generated/cronet.idl_impl_struct.h
+components/cronet/native/generated/cronet.idl_impl_struct_unittest.cc

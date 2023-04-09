@@ -1,0 +1,8 @@
+third_party/WebKit/Source/modules/filesystem/DOMFileSystemSync.cpp
+third_party/WebKit/Source/modules/filesystem/DirectoryEntrySync.cpp
+third_party/WebKit/Source/modules/filesystem/EntrySync.cpp
+third_party/WebKit/Source/modules/filesystem/FileWriterBase.h
+third_party/WebKit/Source/modules/filesystem/LocalFileSystem.cpp
+third_party/WebKit/Source/modules/filesystem/LocalFileSystem.h
+third_party/WebKit/Source/modules/filesystem/SyncCallbackHelper.h
+third_party/WebKit/Source/modules/filesystem/WorkerGlobalScopeFileSystem.cpp

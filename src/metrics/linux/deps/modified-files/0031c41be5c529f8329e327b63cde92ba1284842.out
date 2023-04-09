@@ -1,0 +1,2 @@
+drivers/gpu/drm/radeon/atombios.h
+drivers/gpu/drm/radeon/radeon_atombios.c

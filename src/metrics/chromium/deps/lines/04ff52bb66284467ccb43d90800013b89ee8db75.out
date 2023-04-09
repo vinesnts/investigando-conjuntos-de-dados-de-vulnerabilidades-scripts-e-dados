@@ -1,0 +1,13 @@
+content/browser/renderer_host/media/audio_output_authorization_handler.cc 37 38 39 40 41 42 43 44 45 46 52 56 194 195 196 197 198 199 200 201 202 203 204 205
+content/browser/renderer_host/media/audio_output_authorization_handler.h 17 43 87
+content/browser/renderer_host/media/audio_output_authorization_handler_unittest.cc 82 154 175 197 228 258 293 317
+content/browser/renderer_host/media/audio_renderer_host.cc 74
+content/browser/renderer_host/media/audio_renderer_host.h
+content/browser/renderer_host/media/audio_renderer_host_unittest.cc 244
+content/browser/renderer_host/render_process_host_impl.cc 1092 1093
+media/audio/audio_system.h 28
+media/audio/audio_system_impl.cc 24
+media/audio/audio_system_impl.h
+media/audio/audio_system_impl_unittest.cc 24 33 34 60 87 104 112
+media/audio/mock_audio_manager.cc 35 93 99 123 124 125
+media/audio/mock_audio_manager.h 75

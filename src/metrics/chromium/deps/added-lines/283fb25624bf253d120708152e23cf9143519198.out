@@ -1,0 +1,6 @@
+chrome/browser/extensions/extension_clear_api.cc 55
+chrome/browser/extensions/extension_install_ui.cc 120 121
+chrome/browser/extensions/extension_install_ui.h 57
+chrome/browser/ui/webui/task_manager_handler.cc 131
+ppapi/native_client/src/trusted/plugin/scriptable_handle.cc 58 77 91
+ppapi/native_client/src/trusted/plugin/service_runtime.h 59

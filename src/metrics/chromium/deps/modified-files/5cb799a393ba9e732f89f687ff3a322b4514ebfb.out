@@ -1,0 +1,2 @@
+third_party/blink/renderer/core/html/forms/html_form_control_element.cc
+third_party/blink/web_tests/external/wpt/html/semantics/forms/autofocus/skip-not-fully-active.html

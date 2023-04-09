@@ -1,0 +1,3 @@
+third_party/libxml/README.chromium
+third_party/libxml/src/include/libxml/xmlerror.h
+third_party/libxml/src/parser.c

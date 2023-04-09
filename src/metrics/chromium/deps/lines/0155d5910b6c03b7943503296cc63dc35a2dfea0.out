@@ -1,0 +1,3 @@
+tools/valgrind/gtest_exclude/ui_tests.gtest.txt
+tools/valgrind/gtest_exclude/ui_tests.gtest_linux.txt 13 14
+tools/valgrind/gtest_exclude/ui_tests.gtest_mac.txt 97 98 99

@@ -1,0 +1,6 @@
+fs/dcache.c
+fs/debugfs/inode.c
+fs/namei.c
+fs/notify/fsnotify.c
+include/linux/dcache.h
+include/linux/fsnotify.h

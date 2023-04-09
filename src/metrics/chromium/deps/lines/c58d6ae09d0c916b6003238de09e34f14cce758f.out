@@ -1,0 +1,5 @@
+third_party/WebKit/Source/WebCore/ChangeLog
+third_party/WebKit/Source/WebCore/html/parser/HTMLDocumentParser.cpp
+third_party/WebKit/Source/WebCore/html/parser/HTMLDocumentParser.h
+third_party/WebKit/Source/WebCore/html/parser/HTMLToken.h
+third_party/WebKit/Source/WebCore/xml/parser/MarkupTokenBase.h

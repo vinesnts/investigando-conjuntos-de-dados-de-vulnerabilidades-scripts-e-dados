@@ -1,0 +1,17 @@
+chrome/browser/chromeos/extensions/file_manager/private_api_drive.cc 823
+chrome/browser/chromeos/file_manager/url_util.cc 59 60 61 62
+chrome/browser/chromeos/file_manager/url_util.h 19 20 21 22
+chrome/browser/chromeos/file_manager/url_util_unittest.cc 32 33 34 35 36
+chrome/test/data/extensions/api_test/file_manager_browsertest/gallery/photo_editor.js 123
+ui/file_manager/file_manager/foreground/css/file_manager.css 1 651 1718 1719 1720 1721 1722 1723 1724 1725 1726 1727 1728 1729 1730 1731 1732 1733 1734 1735 1736 1737 1738 1739 1740 1741 1742 1743 1744
+ui/file_manager/file_manager/foreground/css/share_dialog.css
+ui/file_manager/file_manager/foreground/js/share_client.js 24 25 26 27 28 29 30 31
+ui/file_manager/file_manager/foreground/js/share_dialog.js 17 18 125 126 127 128 170 235 291
+ui/file_manager/file_manager/main.html
+ui/file_manager/gallery/css/gallery.css 291 430
+ui/file_manager/gallery/gallery.html
+ui/file_manager/gallery/js/background.js 139
+ui/file_manager/gallery/js/gallery.js 214 407 408 409 410 411 412 534 542 705 706 707 708 709 739 740 741 890 894 895 896 897 898 899 900 901 902 903 904 905 906 907 908 909 910 911 912 917 918 919 920 921 922 923 924 925 926 927 928 929 930 931 932 933 934 935 936 937 938 939 940 941 942 943 944 945 946 947 948 949 950 951 952 953 954 955 956 957 958 959 960 961 962 963 964 965 966 967 968 969 970 971 972 973 974 975 976 977 978 979 980 981 982 983 984 985 986 987 988
+ui/file_manager/gallery/js/gallery_item.js
+ui/file_manager/gallery/js/gallery_scripts.js
+ui/file_manager/gallery/manifest.json 20 26 27 28 29

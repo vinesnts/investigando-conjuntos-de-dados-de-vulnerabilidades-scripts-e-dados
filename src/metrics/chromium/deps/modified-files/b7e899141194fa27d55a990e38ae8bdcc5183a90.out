@@ -1,0 +1,7 @@
+chrome/browser/extensions/extension_cookies_api.cc
+chrome/browser/extensions/extension_cookies_api.h
+chrome/browser/extensions/extension_cookies_helpers.cc
+chrome/browser/extensions/extension_cookies_helpers.h
+chrome/browser/extensions/extension_cookies_unittest.cc
+chrome/test/data/extensions/api_test/cookies/manifest.json
+chrome/test/data/extensions/api_test/cookies/tab.html

@@ -1,0 +1,13 @@
+third_party/WebKit/LayoutTests/storage/websql/fts-crash-703507.html
+third_party/WebKit/LayoutTests/storage/websql/fts-pointer-leak-742407.html
+third_party/sqlite/amalgamation/sqlite3.c
+third_party/sqlite/amalgamation/sqlite3.h
+third_party/sqlite/patches/0013-Add-new-interfaces-sqlite3_bind_pointer-sqlite3_resu.patch
+third_party/sqlite/src/ext/fts3/fts3.c
+third_party/sqlite/src/ext/misc/carray.c
+third_party/sqlite/src/ext/misc/remember.c
+third_party/sqlite/src/src/sqlite.h.in
+third_party/sqlite/src/src/vdbeInt.h
+third_party/sqlite/src/src/vdbeapi.c
+third_party/sqlite/src/src/vdbemem.c
+third_party/sqlite/src/test/tabfunc01.test

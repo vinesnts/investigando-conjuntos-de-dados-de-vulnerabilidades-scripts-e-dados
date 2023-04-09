@@ -1,0 +1,8 @@
+arch/ia64/kernel/ivt.S 1079 1080 1081 1082 1083 1084 1085 1086 1087 1088 1089 1090 1091 1092 1093 1094 1095 1096 1097 1098 1099 1100 1101 1102 1103 1104 1105 1106 1107 1108 1109 1110 1111 1112 1113 1114 1115 1116 1117 1118 1119 1120
+arch/ia64/kernel/minstate.h 43 209 210 211
+arch/ia64/kernel/patch.c
+arch/ia64/kernel/setup.c
+arch/ia64/kernel/vmlinux.lds.S
+include/asm-ia64/patch.h
+include/asm-ia64/ptrace.h 79
+include/asm-ia64/sections.h

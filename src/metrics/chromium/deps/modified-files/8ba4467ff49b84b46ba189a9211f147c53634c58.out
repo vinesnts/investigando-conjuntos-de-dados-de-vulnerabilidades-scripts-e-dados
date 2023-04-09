@@ -1,0 +1,3 @@
+third_party/WebKit/LayoutTests/ChangeLog
+third_party/WebKit/LayoutTests/platform/win/fast/css/getComputedStyle/computed-style-expected.txt
+third_party/WebKit/LayoutTests/platform/win/fast/css/getComputedStyle/computed-style-without-renderer-expected.txt

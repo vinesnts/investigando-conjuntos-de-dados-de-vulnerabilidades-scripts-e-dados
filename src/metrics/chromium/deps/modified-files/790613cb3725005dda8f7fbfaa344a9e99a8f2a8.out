@@ -1,0 +1,3 @@
+chrome/browser/browser_init.cc
+chrome/browser/shell_integration_unittest.cc
+chrome/common/chrome_plugin_util.cc

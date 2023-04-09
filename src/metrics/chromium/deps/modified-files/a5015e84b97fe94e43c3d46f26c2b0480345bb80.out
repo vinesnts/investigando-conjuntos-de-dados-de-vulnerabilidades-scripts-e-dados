@@ -1,0 +1,4 @@
+device/geolocation/public/interfaces/BUILD.gn
+device/geolocation/public/interfaces/geolocation.mojom
+device/geolocation/public/interfaces/geoposition.mojom
+third_party/WebKit/LayoutTests/geolocation-api/resources/geolocation-mock.js

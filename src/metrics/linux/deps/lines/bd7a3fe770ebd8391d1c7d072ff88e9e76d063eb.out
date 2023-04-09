@@ -1,0 +1,2 @@
+drivers/usb/core/config.c 652 653 654
+include/uapi/linux/usb/ch9.h

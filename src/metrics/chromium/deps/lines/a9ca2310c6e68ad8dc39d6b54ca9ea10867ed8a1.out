@@ -1,0 +1,8 @@
+third_party/WebKit/LayoutTests/screen_orientation/lockOrientation-bad-argument-expected.txt 7 9 11 13 15 17
+third_party/WebKit/LayoutTests/screen_orientation/lockOrientation-bad-argument.html 22 24 26 28 30 32
+third_party/WebKit/LayoutTests/screen_orientation/lockOrientation-bad-array-argument-expected.txt 7 8 9 10 11
+third_party/WebKit/LayoutTests/screen_orientation/lockOrientation-bad-array-argument.html 12 23 24 25 26 27
+third_party/WebKit/LayoutTests/screen_orientation/lockOrientation-basic-expected.txt 9
+third_party/WebKit/LayoutTests/screen_orientation/lockOrientation-basic.html 10 11 12
+third_party/WebKit/Source/modules/screen_orientation/ScreenOrientation.cpp
+third_party/WebKit/Source/modules/screen_orientation/ScreenOrientation.idl 17

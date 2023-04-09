@@ -1,0 +1,5 @@
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/resources/service-worker.js
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/service-worker-allowed.html
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/service-worker-blocked-expected.txt
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/service-worker-blocked.html
+third_party/WebKit/Source/modules/serviceworkers/ServiceWorkerContainer.cpp

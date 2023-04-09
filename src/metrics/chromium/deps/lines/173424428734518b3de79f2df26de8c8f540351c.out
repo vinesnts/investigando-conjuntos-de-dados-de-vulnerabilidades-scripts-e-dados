@@ -1,0 +1,5 @@
+chrome/chrome_repack_locales.gni
+tools/grit/grit/format/data_pack.py 218 246
+tools/grit/pak_util.py 28 29
+tools/grit/repack.gni 56 67
+ui/base/resource/resource_bundle.cc 439

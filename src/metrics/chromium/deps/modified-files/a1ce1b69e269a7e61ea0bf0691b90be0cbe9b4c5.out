@@ -1,0 +1,5 @@
+third_party/WebKit/LayoutTests/ChangeLog
+third_party/WebKit/LayoutTests/fast/innerHTML/innerHTML-nbsp-expected.txt
+third_party/WebKit/LayoutTests/fast/innerHTML/innerHTML-nbsp.xhtml
+third_party/WebKit/WebCore/ChangeLog
+third_party/WebKit/WebCore/dom/XMLTokenizerLibxml2.cpp

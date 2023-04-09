@@ -1,0 +1,4 @@
+ios/chrome/browser/content_suggestions/content_suggestions_coordinator.mm 396 397
+ios/chrome/browser/ui/content_suggestions/content_suggestions_commands.h 30
+ios/chrome/browser/ui/content_suggestions/content_suggestions_view_controller.mm 97 115
+ios/showcase/content_suggestions/sc_content_suggestions_egtest.mm 108

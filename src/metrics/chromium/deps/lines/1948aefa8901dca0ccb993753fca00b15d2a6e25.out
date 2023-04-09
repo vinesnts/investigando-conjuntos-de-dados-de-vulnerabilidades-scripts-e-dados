@@ -1,0 +1,4 @@
+third_party/WebKit/LayoutTests/http/tests/navigation/start-load-during-provisional-loader-detach-expected.txt
+third_party/WebKit/LayoutTests/http/tests/navigation/start-load-during-provisional-loader-detach.html
+third_party/WebKit/Source/core/html/HTMLAnchorElement.cpp
+third_party/WebKit/Source/core/loader/FrameLoader.cpp 1424

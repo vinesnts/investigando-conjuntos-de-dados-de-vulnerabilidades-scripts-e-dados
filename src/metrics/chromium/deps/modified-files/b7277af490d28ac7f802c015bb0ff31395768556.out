@@ -1,0 +1,4 @@
+third_party/blink/renderer/bindings/scripts/v8_attributes.py
+third_party/blink/renderer/bindings/scripts/v8_types.py
+third_party/blink/renderer/bindings/templates/attributes.cc.tmpl
+third_party/blink/renderer/bindings/tests/results/core/v8_test_object.cc

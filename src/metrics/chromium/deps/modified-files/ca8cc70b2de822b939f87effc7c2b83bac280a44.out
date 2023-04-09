@@ -1,0 +1,6 @@
+chrome/browser/net/chrome_url_request_context.cc
+chrome/browser/net/chrome_url_request_context.h
+net/socket_stream/socket_stream.cc
+net/socket_stream/socket_stream.h
+net/socket_stream/socket_stream_unittest.cc
+net/url_request/url_request_context.h

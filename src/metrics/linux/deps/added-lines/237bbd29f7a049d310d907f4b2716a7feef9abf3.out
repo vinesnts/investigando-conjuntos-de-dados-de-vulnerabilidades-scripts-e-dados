@@ -1,0 +1,5 @@
+include/linux/key.h 190 247
+security/keys/internal.h 144
+security/keys/key.c 305 306
+security/keys/keyring.c 1100 1101 1102 1103 1108 1136 1137 1138 1139 1140 1141 1142 1143 1144
+security/keys/process_keys.c 80 81 98 99

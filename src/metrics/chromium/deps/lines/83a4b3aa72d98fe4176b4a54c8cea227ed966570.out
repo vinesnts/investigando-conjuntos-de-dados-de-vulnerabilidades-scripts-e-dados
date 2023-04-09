@@ -1,0 +1,56 @@
+chrome/browser/extensions/extension_bindings_apitest.cc
+chrome/test/data/extensions/api_test/bindings/externally_connectable_everywhere/manifest.json
+chrome/test/data/extensions/api_test/bindings/override_exports.html
+extensions/renderer/api_test_base.cc 143 146 149 150 151 152 153
+extensions/renderer/event_unittest.cc 28 29 30 33 36 37 40 41 43 44 51 52 55 56 58 60 63 64 66
+extensions/renderer/module_system.cc 645
+extensions/renderer/module_system_unittest.cc 69 80 83 95 99 143 164 186 206 219 220 256 265 306 312 347 348
+extensions/renderer/resources/app_runtime_custom_bindings.js 74
+extensions/renderer/resources/app_window_custom_bindings.js 407 408 409 410
+extensions/renderer/resources/binding.js 527
+extensions/renderer/resources/browser_test_environment_specific_bindings.js 14 15
+extensions/renderer/resources/context_menus_custom_bindings.js 26
+extensions/renderer/resources/context_menus_handlers.js 141
+extensions/renderer/resources/declarative_webrequest_custom_bindings.js 96
+extensions/renderer/resources/entry_id_manager.js 50 51 52
+extensions/renderer/resources/event.js 506 508 509 510
+extensions/renderer/resources/extension_custom_bindings.js 111
+extensions/renderer/resources/guest_view/extension_options/extension_options.js 52
+extensions/renderer/resources/guest_view/extension_options/extension_options_constants.js 13
+extensions/renderer/resources/guest_view/extension_options/extension_options_events.js 40
+extensions/renderer/resources/guest_view/extension_view/extension_view.js 139
+extensions/renderer/resources/guest_view/extension_view/extension_view_constants.js 14
+extensions/renderer/resources/guest_view/extension_view/extension_view_events.js 32
+extensions/renderer/resources/guest_view/extension_view/extension_view_internal.js 5 6
+extensions/renderer/resources/guest_view/guest_view.js 353 354 355
+extensions/renderer/resources/guest_view/guest_view_attributes.js 142
+extensions/renderer/resources/guest_view/guest_view_container.js 309
+extensions/renderer/resources/guest_view/guest_view_events.js 177 178
+extensions/renderer/resources/guest_view/web_view/web_view.js 226
+extensions/renderer/resources/guest_view/web_view/web_view_action_requests.js 296
+extensions/renderer/resources/guest_view/web_view/web_view_constants.js 40
+extensions/renderer/resources/guest_view/web_view/web_view_events.js 301
+extensions/renderer/resources/guest_view/web_view/web_view_internal.js 5 6
+extensions/renderer/resources/guest_view/web_view/web_view_request_custom_bindings.js 55
+extensions/renderer/resources/i18n_custom_bindings.js 49
+extensions/renderer/resources/image_util.js 81 82
+extensions/renderer/resources/json_schema.js 525
+extensions/renderer/resources/last_error.js 137 138 139 140 141 142
+extensions/renderer/resources/messaging.js 380 381 382 383 384 385 386 389 390 391 392
+extensions/renderer/resources/messaging_utils.js 53
+extensions/renderer/resources/mime_handler_private_custom_bindings.js 75
+extensions/renderer/resources/mojo_private_custom_bindings.js 23
+extensions/renderer/resources/permissions_custom_bindings.js 92
+extensions/renderer/resources/printer_provider_custom_bindings.js 123
+extensions/renderer/resources/runtime_custom_bindings.js 205 206
+extensions/renderer/resources/schema_utils.js 156 157 158 159
+extensions/renderer/resources/send_request.js 143 144 145 146 149
+extensions/renderer/resources/serial_custom_bindings.js 117
+extensions/renderer/resources/set_icon.js 136
+extensions/renderer/resources/storage_area.js 40
+extensions/renderer/resources/test_custom_bindings.js 364
+extensions/renderer/resources/uncaught_exception_handler.js 98 101 104 106 108 109 110
+extensions/renderer/resources/utils.js 169 170 171 172 173 174
+extensions/renderer/resources/web_request_custom_bindings.js 23
+extensions/renderer/resources/web_request_internal_custom_bindings.js 191 192
+extensions/renderer/utils_unittest.cc 21 23 24 25

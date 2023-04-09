@@ -1,0 +1,4 @@
+third_party/WebKit/Source/core/dom/Document.cpp
+third_party/WebKit/Source/core/dom/Document.h
+third_party/WebKit/Source/core/dom/SecurityContext.cpp 38 39
+third_party/WebKit/Source/core/dom/SecurityContext.h 87 88 89 90

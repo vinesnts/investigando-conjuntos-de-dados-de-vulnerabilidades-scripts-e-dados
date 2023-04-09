@@ -1,0 +1,2 @@
+build/toolchain/win/BUILD.gn
+build/toolchain/win/setup_toolchain.py

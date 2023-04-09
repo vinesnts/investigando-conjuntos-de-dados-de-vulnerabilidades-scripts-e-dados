@@ -1,0 +1,4 @@
+chrome/browser/ui/sync/one_click_signin_helper.cc 236 237 1145 1146 1150
+chrome/browser/ui/sync/one_click_signin_sync_starter.cc 51 52 56 317 318 319 320 321 322 323 324 325 326
+chrome/browser/ui/sync/one_click_signin_sync_starter.h 16 69 70 170
+chrome/browser/ui/webui/inline_login_ui.cc 16 135 136

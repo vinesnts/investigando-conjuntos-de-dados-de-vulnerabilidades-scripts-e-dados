@@ -1,0 +1,2 @@
+chrome/browser/sync/glue/sync_backend_host.cc
+chrome/browser/sync/internal_api/sync_manager.cc

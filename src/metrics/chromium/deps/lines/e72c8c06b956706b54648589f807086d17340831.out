@@ -1,0 +1,2 @@
+third_party/WebKit/LayoutTests/fast/spatial-navigation/snav-div-in-anchor-and-img-crash.html
+third_party/WebKit/Source/core/layout/LayoutInline.cpp 1147

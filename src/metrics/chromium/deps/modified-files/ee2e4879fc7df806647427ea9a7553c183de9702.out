@@ -1,0 +1,6 @@
+tools/perf/benchmarks/benchmark_smoke_unittest.py
+tools/perf/benchmarks/memory_benchmark.py
+tools/perf/benchmarks/memory_health_plan.py
+tools/perf/page_sets/blink_memory_mobile.py
+tools/perf/page_sets/data/blink_memory_mobile.json
+tools/perf/page_sets/data/blink_memory_mobile_000.wpr.sha1

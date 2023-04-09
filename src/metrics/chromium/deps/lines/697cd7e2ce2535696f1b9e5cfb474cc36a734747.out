@@ -1,0 +1,3 @@
+chrome/common/extensions/extension.cc 1800
+chrome/common/extensions/extension_manifests_unittest.cc
+chrome/test/data/extensions/manifest_tests/homepage_bad_schema.json

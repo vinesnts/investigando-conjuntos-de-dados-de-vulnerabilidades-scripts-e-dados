@@ -1,0 +1,7 @@
+ash/accelerators/accelerator_controller_unittest.cc
+ash/accelerators/nested_dispatcher_controller_unittest.cc
+chrome/browser/ui/views/task_manager_view.cc
+chrome/common/extensions/extension_commands_unittest.cc
+ui/base/accelerators/accelerator.cc
+ui/base/accelerators/accelerator.h
+ui/base/accelerators/accelerator_manager_unittest.cc

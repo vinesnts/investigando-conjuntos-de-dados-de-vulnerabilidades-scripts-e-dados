@@ -1,0 +1,29 @@
+chrome/browser/DEPS 202
+chrome/browser/ui/blocked_content/blocked_window_params.h 10
+chrome/browser/ui/blocked_content/popup_blocker.h 9
+chrome/common/chrome_render_frame.mojom 8
+content/browser/DEPS 144 145
+content/browser/devtools/devtools_frontend_host_impl.h 11
+content/browser/frame_host/render_frame_host_impl.h 82
+content/common/frame.mojom 33 36
+content/common/input/input_handler.mojom 12
+content/common/navigation_client.mojom 16
+content/public/browser/content_browser_client.h 58
+content/public/common/common_param_traits_macros.h 29
+content/public/renderer/window_features_converter.h 10
+content/renderer/navigation_state.cc 13
+content/renderer/render_frame_impl.h 89
+third_party/blink/public/BUILD.gn 662 663 664 665 719
+third_party/blink/public/mojom/BUILD.gn 166 167
+third_party/blink/public/mojom/commit_result/OWNERS
+third_party/blink/public/mojom/remote_objects/OWNERS
+third_party/blink/public/mojom/selection_menu/OWNERS
+third_party/blink/public/mojom/window_features/OWNERS
+third_party/blink/public/web/commit_result.mojom 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+third_party/blink/public/web/devtools_frontend.mojom 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34
+third_party/blink/public/web/remote_objects.mojom 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74
+third_party/blink/public/web/selection_menu_behavior.mojom 1 2 3 4 5 6 7 8 9 10 11
+third_party/blink/public/web/web_local_frame.h 23 24
+third_party/blink/public/web/window_features.mojom 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+third_party/blink/renderer/controller/dev_tools_frontend_impl.h 36
+third_party/blink/renderer/core/loader/frame_loader.cc 53

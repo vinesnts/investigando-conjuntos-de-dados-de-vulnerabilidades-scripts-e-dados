@@ -1,0 +1,2 @@
+fs/hfsplus/catalog.c 369 370 371 372
+fs/hfsplus/dir.c 153 154 155 156 157 189 190 191 192 193 194

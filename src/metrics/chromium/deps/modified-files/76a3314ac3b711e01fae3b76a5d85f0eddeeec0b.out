@@ -1,0 +1,13 @@
+chrome/browser/protector/base_prefs_change.cc
+chrome/browser/protector/base_prefs_change.h
+chrome/browser/protector/base_setting_change.cc
+chrome/browser/protector/base_setting_change.h
+chrome/browser/protector/default_search_provider_change.cc
+chrome/browser/protector/histograms.h
+chrome/browser/protector/mock_setting_change.h
+chrome/browser/protector/prefs_backup_invalid_change.cc
+chrome/browser/protector/protected_prefs_watcher.cc
+chrome/browser/protector/protected_prefs_watcher.h
+chrome/browser/protector/protector_service.cc
+chrome/browser/search_engines/template_url_service.cc
+chrome/browser/ui/browser_init.cc

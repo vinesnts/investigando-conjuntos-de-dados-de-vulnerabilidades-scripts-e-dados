@@ -1,0 +1,2 @@
+content/browser/renderer_host/pepper/browser_ppapi_host_impl.cc
+content/browser/renderer_host/pepper/pepper_renderer_connection.cc

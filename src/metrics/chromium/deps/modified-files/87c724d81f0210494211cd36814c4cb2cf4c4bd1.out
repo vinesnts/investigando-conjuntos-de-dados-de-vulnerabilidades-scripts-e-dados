@@ -1,0 +1,7 @@
+content/browser/gpu/gpu_data_manager.cc
+content/browser/renderer_host/clipboard_message_filter.cc
+content/browser/renderer_host/clipboard_message_filter.h
+content/browser/renderer_host/p2p/socket_dispatcher_host.cc
+content/browser/renderer_host/p2p/socket_dispatcher_host.h
+content/common/gpu/transport_texture.cc
+content/common/gpu/transport_texture.h

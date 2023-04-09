@@ -1,0 +1,2 @@
+third_party/blink/renderer/core/frame/location.cc
+third_party/blink/web_tests/external/wpt/content-security-policy/navigation/to-javascript-parent-initiated-parent-csp-disallow.html

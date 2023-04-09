@@ -1,0 +1,3 @@
+crypto/hmac.c 202
+crypto/shash.c 28 29
+include/crypto/internal/hash.h

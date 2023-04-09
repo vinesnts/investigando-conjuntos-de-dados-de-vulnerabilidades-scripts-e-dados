@@ -1,0 +1,6 @@
+third_party/WebKit/WebCore/ChangeLog
+third_party/WebKit/WebCore/bindings/v8/DOMObjectsInclude.h
+third_party/WebKit/WebCore/bindings/v8/DerivedSourcesAllInOne.cpp
+third_party/WebKit/WebCore/bindings/v8/V8DOMWrapper.cpp
+third_party/WebKit/WebCore/bindings/v8/V8Index.cpp
+third_party/WebKit/WebCore/bindings/v8/V8Index.h 416

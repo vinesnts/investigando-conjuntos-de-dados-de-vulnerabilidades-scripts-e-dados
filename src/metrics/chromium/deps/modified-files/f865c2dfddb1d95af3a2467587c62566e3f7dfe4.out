@@ -1,0 +1,9 @@
+chrome/browser/devtools/devtools_window.cc
+chrome/browser/ui/webui/devtools_ui.cc
+chrome/browser/ui/webui/devtools_ui.h
+chrome/browser/ui/webui/devtools_ui_unittest.cc
+chrome/test/BUILD.gn
+content/renderer/devtools/devtools_client.cc
+third_party/WebKit/Source/devtools/front_end/Runtime.js
+third_party/WebKit/Source/devtools/front_end/devtools.js
+third_party/WebKit/Source/devtools/front_end/screencast/ScreencastView.js

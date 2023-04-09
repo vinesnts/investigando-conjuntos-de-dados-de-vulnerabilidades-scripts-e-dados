@@ -1,0 +1,2 @@
+crypto/algif_hash.c
+crypto/algif_skcipher.c

@@ -1,0 +1,2 @@
+chrome/browser/extensions/api/tabs/tabs_test.cc
+chrome/test/data/extensions/api_test/tabs/pdf_extension_test.html 3 4 7 8 26

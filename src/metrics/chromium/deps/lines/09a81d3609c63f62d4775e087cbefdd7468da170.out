@@ -1,0 +1,4 @@
+DEPS 624
+content/test/gpu/gpu_tests/webgl2_conformance_expectations.py
+content/test/gpu/gpu_tests/webgl_conformance_expectations.py 166 167 227 228 344 345
+content/test/gpu/gpu_tests/webgl_conformance_revision.txt 3

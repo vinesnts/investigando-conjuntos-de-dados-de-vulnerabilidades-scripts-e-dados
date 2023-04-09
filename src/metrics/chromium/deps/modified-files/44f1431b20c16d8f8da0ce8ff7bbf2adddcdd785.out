@@ -1,0 +1,12 @@
+third_party/WebKit/LayoutTests/TestExpectations
+third_party/WebKit/Source/core/layout/svg/LayoutSVGContainer.cpp
+third_party/WebKit/Source/core/layout/svg/LayoutSVGContainer.h
+third_party/WebKit/Source/core/layout/svg/LayoutSVGResourceMarker.cpp
+third_party/WebKit/Source/core/layout/svg/LayoutSVGResourceMarker.h
+third_party/WebKit/Source/core/layout/svg/LayoutSVGTransformableContainer.cpp
+third_party/WebKit/Source/core/layout/svg/LayoutSVGTransformableContainer.h
+third_party/WebKit/Source/core/layout/svg/LayoutSVGViewportContainer.cpp
+third_party/WebKit/Source/core/layout/svg/LayoutSVGViewportContainer.h
+third_party/WebKit/Source/core/layout/svg/SVGLayoutSupport.cpp
+third_party/WebKit/Source/platform/transforms/AffineTransform.cpp
+third_party/WebKit/Source/platform/transforms/AffineTransform.h

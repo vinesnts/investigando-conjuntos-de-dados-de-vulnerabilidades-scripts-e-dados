@@ -1,0 +1,3 @@
+libavcodec/error_resilience.c 817 818
+libavcodec/h263dec.c 52 673
+libavcodec/mpeg4videodec.c 3247

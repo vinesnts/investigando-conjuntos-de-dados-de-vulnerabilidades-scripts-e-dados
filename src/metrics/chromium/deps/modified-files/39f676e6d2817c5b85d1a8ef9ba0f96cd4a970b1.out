@@ -1,0 +1,11 @@
+content/test/data/lite_js_test.mojom
+mojo/public/js/BUILD.gn
+mojo/public/js/bindings_lite.js
+mojo/public/tools/bindings/BUILD.gn
+mojo/public/tools/bindings/generators/js_templates/lite/interface_definition.tmpl
+mojo/public/tools/bindings/generators/js_templates/lite/module.externs.tmpl
+mojo/public/tools/bindings/generators/js_templates/lite/module_definition.tmpl
+mojo/public/tools/bindings/generators/js_templates/lite/union_definition.tmpl
+mojo/public/tools/bindings/generators/js_templates/lite/union_externs.tmpl
+mojo/public/tools/bindings/generators/mojom_js_generator.py
+third_party/WebKit/LayoutTests/mojo/bindings-lite.html

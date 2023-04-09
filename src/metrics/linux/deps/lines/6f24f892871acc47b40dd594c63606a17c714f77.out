@@ -1,0 +1,2 @@
+fs/hfsplus/catalog.c
+fs/hfsplus/dir.c

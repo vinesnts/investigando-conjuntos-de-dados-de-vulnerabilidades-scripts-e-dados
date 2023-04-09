@@ -1,0 +1,2 @@
+chromeos/components/drivefs/drivefs_host.cc
+chromeos/components/drivefs/mojom/drivefs.mojom

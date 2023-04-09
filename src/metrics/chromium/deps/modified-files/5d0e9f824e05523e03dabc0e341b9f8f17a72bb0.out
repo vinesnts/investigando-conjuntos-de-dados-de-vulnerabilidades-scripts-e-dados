@@ -1,0 +1,7 @@
+chrome/common/extensions/docs/templates/articles/app_csp.html
+chrome/common/extensions/docs/templates/articles/offline_apps.html
+extensions/common/manifest_handlers/csp_info.cc
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/script-src-wildcards-disallowed.html
+third_party/WebKit/Source/core/frame/csp/CSPSourceList.cpp
+third_party/WebKit/Source/core/frame/csp/CSPSourceList.h
+third_party/WebKit/Source/core/frame/csp/CSPSourceListTest.cpp

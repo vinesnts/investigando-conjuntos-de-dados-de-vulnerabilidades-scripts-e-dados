@@ -1,0 +1,11 @@
+content/browser/manifest/manifest_browsertest.cc
+content/renderer/manifest/manifest_change_notifier.cc
+content/renderer/manifest/manifest_manager.cc
+content/renderer/manifest/manifest_manager.h
+content/renderer/manifest/manifest_uma_util.cc
+content/renderer/manifest/manifest_uma_util.h
+content/test/data/manifest/dynamic-manifest.html 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+content/test/data/manifest/sandboxed.html
+content/test/data/manifest/sandboxed.html.mock-http-headers
+content/test/data/manifest/script.js
+tools/metrics/histograms/enums.xml

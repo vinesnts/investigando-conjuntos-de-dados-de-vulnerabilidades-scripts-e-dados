@@ -1,0 +1,7 @@
+third_party/WebKit/LayoutTests/http/tests/security/media-element-audio-source-node-redirect-expected.txt
+third_party/WebKit/LayoutTests/http/tests/security/media-element-audio-source-node-redirect.html
+third_party/WebKit/LayoutTests/http/tests/security/resources/webaudio/media-element-audio-source-node-test.js
+third_party/blink/renderer/modules/webaudio/base_audio_context.cc
+third_party/blink/renderer/modules/webaudio/base_audio_context.h
+third_party/blink/renderer/modules/webaudio/media_element_audio_source_node.cc 51 52 53 54 105 106 131 132 133 134 135 136 137 138 139 140 141 142 143 144 146 147 149 150 151 152 153 154 155 156 157 158 159 160 209 210 211 212 213 214 215 216 217 218 303 304 305 306
+third_party/blink/renderer/modules/webaudio/media_element_audio_source_node.h 64 81 82 83 84 85 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 145

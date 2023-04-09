@@ -1,0 +1,4 @@
+third_party/WebKit/Source/core/animation/DocumentTimeline.cpp
+third_party/WebKit/Source/core/animation/Player.cpp
+third_party/WebKit/Source/core/animation/Player.h
+third_party/WebKit/Source/core/animation/css/CSSPendingAnimations.cpp

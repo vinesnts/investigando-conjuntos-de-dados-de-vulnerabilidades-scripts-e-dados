@@ -1,0 +1,5 @@
+third_party/WebKit/Source/WebKit2/ChangeLog
+third_party/WebKit/Source/WebKit2/UIProcess/API/qt/qquickwebview.cpp
+third_party/WebKit/Source/WebKit2/UIProcess/API/qt/qquickwebview_p_p.h
+third_party/WebKit/Tools/ChangeLog
+third_party/WebKit/Tools/WebKitTestRunner/qt/PlatformWebViewQt.cpp

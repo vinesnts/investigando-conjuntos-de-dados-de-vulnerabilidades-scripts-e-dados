@@ -1,0 +1,5 @@
+content/common/gpu/gpu_command_buffer_stub.cc
+content/common/gpu/gpu_command_buffer_stub.h
+content/common/gpu/gpu_messages.h
+content/common/gpu/media/gpu_video_decode_accelerator.cc
+content/common/gpu/media/gpu_video_decode_accelerator.h

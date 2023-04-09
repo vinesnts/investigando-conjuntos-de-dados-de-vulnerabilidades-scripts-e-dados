@@ -1,0 +1,3 @@
+components/update_client/request_sender.cc
+components/update_client/url_fetcher_downloader.cc
+components/update_client/url_fetcher_downloader.h

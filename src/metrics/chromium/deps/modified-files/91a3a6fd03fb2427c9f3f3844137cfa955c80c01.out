@@ -1,0 +1,5 @@
+third_party/WebKit/ChangeLog
+third_party/WebKit/Source/cmake/OptionsBlackBerry.cmake
+third_party/WebKit/Source/cmakeconfig.h.cmake
+third_party/WebKit/Tools/ChangeLog
+third_party/WebKit/Tools/Scripts/webkitperl/FeatureList.pm

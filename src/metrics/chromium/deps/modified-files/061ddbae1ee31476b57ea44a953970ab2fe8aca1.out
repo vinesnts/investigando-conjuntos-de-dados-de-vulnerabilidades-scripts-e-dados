@@ -1,0 +1,3 @@
+third_party/WebKit/Source/WebCore/ChangeLog
+third_party/WebKit/Source/WebCore/loader/DocumentWriter.cpp
+third_party/WebKit/Source/WebCore/loader/DocumentWriter.h

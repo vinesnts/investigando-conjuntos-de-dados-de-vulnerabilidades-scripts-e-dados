@@ -1,0 +1,9 @@
+third_party/blink/renderer/controller/BUILD.gn
+third_party/blink/renderer/core/BUILD.gn
+third_party/blink/renderer/core/css/css_custom_ident_value.h 14
+third_party/blink/renderer/core/css/css_paint_value.cc 49
+third_party/blink/renderer/core/css/css_paint_value.h 18
+third_party/blink/renderer/core/css/css_paint_value_test.cc
+third_party/blink/renderer/core/css/test_data/csspaint-do-not-paint-for-link-descendant.html
+third_party/blink/renderer/core/css/test_data/csspaint-do-not-paint-for-link.html
+third_party/blink/renderer/core/style/computed_style.cc

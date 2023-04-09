@@ -1,0 +1,35 @@
+crypto/algif_hash.c
+crypto/algif_skcipher.c
+drivers/isdn/mISDN/socket.c 137 138 139 152
+drivers/net/ppp/pppoe.c
+include/linux/net.h 167 168 169 170 171 172 173 174
+net/appletalk/ddp.c 1766 1767 1768 1769 1770 1771 1772
+net/atm/common.c
+net/ax25/af_ax25.c 1639 1643
+net/bluetooth/af_bluetooth.c 227 229
+net/bluetooth/hci_sock.c
+net/bluetooth/rfcomm/sock.c
+net/bluetooth/sco.c
+net/caif/caif_socket.c
+net/compat.c 96 97
+net/core/iovec.c 51 52
+net/ipx/af_ipx.c 1833
+net/irda/af_irda.c
+net/iucv/af_iucv.c
+net/key/af_key.c
+net/l2tp/l2tp_ppp.c
+net/llc/af_llc.c
+net/netlink/af_netlink.c
+net/netrom/af_netrom.c 1182
+net/nfc/llcp_sock.c
+net/nfc/rawsock.c
+net/packet/af_packet.c 2746 2747 2748 2762 2763 2764 2765 2766 2767 2768 2769 2770 2771 2772 2775
+net/rds/recv.c
+net/rose/af_rose.c 1254 1255 1256 1257 1258
+net/rxrpc/ar-recvmsg.c 146 147 148 150 151 152
+net/socket.c 1843 1844 1845 1846 2226 2227 2231 2233 2242 2243 2244
+net/tipc/socket.c
+net/unix/af_unix.c
+net/vmw_vsock/af_vsock.c
+net/vmw_vsock/vmci_transport.c
+net/x25/af_x25.c 1343

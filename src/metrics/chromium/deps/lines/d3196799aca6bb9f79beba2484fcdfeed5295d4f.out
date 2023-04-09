@@ -1,0 +1,19 @@
+third_party/blink/renderer/core/html/forms/resources/time_picker.css
+third_party/blink/renderer/core/html/forms/resources/time_picker.js 420
+third_party/blink/web_tests/platform/linux/virtual/controls-refresh-hc/virtual/controls-refresh/color-scheme/datetimelocal-picker/datetimelocal-picker-appearance-expected.png
+third_party/blink/web_tests/platform/linux/virtual/controls-refresh-hc/virtual/controls-refresh/color-scheme/time-picker/time-picker-appearance-expected.png
+third_party/blink/web_tests/platform/mac-mac10.10/virtual/controls-refresh-hc/virtual/controls-refresh/color-scheme/datetimelocal-picker/datetimelocal-picker-appearance-expected.png
+third_party/blink/web_tests/platform/mac-mac10.10/virtual/controls-refresh-hc/virtual/controls-refresh/color-scheme/time-picker/time-picker-appearance-expected.png
+third_party/blink/web_tests/platform/mac-mac10.11/virtual/controls-refresh-hc/virtual/controls-refresh/color-scheme/datetimelocal-picker/datetimelocal-picker-appearance-expected.png
+third_party/blink/web_tests/platform/mac-mac10.11/virtual/controls-refresh-hc/virtual/controls-refresh/color-scheme/time-picker/time-picker-appearance-expected.png
+third_party/blink/web_tests/platform/mac-mac10.12/virtual/controls-refresh-hc/virtual/controls-refresh/color-scheme/datetimelocal-picker/datetimelocal-picker-appearance-expected.png
+third_party/blink/web_tests/platform/mac-mac10.12/virtual/controls-refresh-hc/virtual/controls-refresh/color-scheme/time-picker/time-picker-appearance-expected.png
+third_party/blink/web_tests/platform/mac-retina/virtual/controls-refresh-hc/virtual/controls-refresh/color-scheme/datetimelocal-picker/datetimelocal-picker-appearance-expected.png
+third_party/blink/web_tests/platform/mac-retina/virtual/controls-refresh-hc/virtual/controls-refresh/color-scheme/time-picker/time-picker-appearance-expected.png
+third_party/blink/web_tests/platform/mac/virtual/controls-refresh-hc/virtual/controls-refresh/color-scheme/datetimelocal-picker/datetimelocal-picker-appearance-expected.png
+third_party/blink/web_tests/platform/mac/virtual/controls-refresh-hc/virtual/controls-refresh/color-scheme/time-picker/time-picker-appearance-expected.png
+third_party/blink/web_tests/platform/win/virtual/controls-refresh-hc/virtual/controls-refresh/color-scheme/datetimelocal-picker/datetimelocal-picker-appearance-expected.png
+third_party/blink/web_tests/platform/win/virtual/controls-refresh-hc/virtual/controls-refresh/color-scheme/time-picker/time-picker-appearance-expected.png
+third_party/blink/web_tests/platform/win7/virtual/controls-refresh-hc/virtual/controls-refresh/color-scheme/datetimelocal-picker/datetimelocal-picker-appearance-expected.png
+third_party/blink/web_tests/platform/win7/virtual/controls-refresh-hc/virtual/controls-refresh/color-scheme/time-picker/time-picker-appearance-expected.png
+third_party/blink/web_tests/virtual/controls-refresh/time-picker/time-picker-wheel.html

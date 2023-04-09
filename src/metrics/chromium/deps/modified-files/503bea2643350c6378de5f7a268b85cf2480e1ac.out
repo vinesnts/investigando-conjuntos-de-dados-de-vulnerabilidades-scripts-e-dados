@@ -1,0 +1,3 @@
+content/browser/renderer_host/media/audio_input_renderer_host.cc
+content/browser/renderer_host/media/audio_renderer_host.cc
+content/common/media/audio_param_traits.cc

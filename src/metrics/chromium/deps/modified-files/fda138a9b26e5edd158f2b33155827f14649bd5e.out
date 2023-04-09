@@ -1,0 +1,3 @@
+build/linux/sysroot_scripts/install-sysroot.py
+build/linux/sysroot_scripts/sysroot-creator-precise.sh
+build/linux/sysroot_scripts/sysroot-creator.sh

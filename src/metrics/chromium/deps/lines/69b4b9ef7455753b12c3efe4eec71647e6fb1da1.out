@@ -1,0 +1,8 @@
+chrome/browser/data_reduction_proxy/data_reduction_proxy_browsertest.cc 295 646
+components/data_reduction_proxy/core/browser/data_reduction_proxy_config.cc 45 218 219 220 221 222 223 224 225 226
+components/data_reduction_proxy/core/browser/data_reduction_proxy_config.h 276 279
+components/data_reduction_proxy/core/browser/data_reduction_proxy_config_service_client.cc
+components/data_reduction_proxy/core/browser/data_reduction_proxy_io_data.cc 77 78 79 80 81
+components/data_reduction_proxy/core/browser/data_reduction_proxy_io_data.h
+components/data_reduction_proxy/core/browser/secure_proxy_checker.cc 27
+components/data_reduction_proxy/core/browser/warmup_url_fetcher.cc

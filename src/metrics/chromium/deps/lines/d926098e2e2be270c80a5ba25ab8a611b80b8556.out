@@ -1,0 +1,19 @@
+content/child/scoped_web_callbacks.h
+content/content_child.gypi
+content/content_renderer.gypi
+content/public/test/render_view_test.cc
+content/renderer/BUILD.gn 84
+content/renderer/DEPS
+content/renderer/render_frame_impl.cc 5006 5007 5008 5009 5010 5011 5012 5013 5014 5016
+content/renderer/render_frame_impl.h
+content/renderer/usb/DEPS
+content/renderer/usb/OWNERS
+content/renderer/usb/type_converters.cc
+content/renderer/usb/type_converters.h
+content/renderer/usb/web_usb_client_impl.cc
+content/renderer/usb/web_usb_client_impl.h
+content/renderer/usb/web_usb_device_impl.cc
+content/renderer/usb/web_usb_device_impl.h
+device/devices_app/devices_app.gyp 28
+device/devices_app/usb/device_manager_impl.cc 35
+mojo/common/weak_binding_set.h 39

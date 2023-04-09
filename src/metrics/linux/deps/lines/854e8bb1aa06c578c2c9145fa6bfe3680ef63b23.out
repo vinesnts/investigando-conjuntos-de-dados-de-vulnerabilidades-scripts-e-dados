@@ -1,0 +1,4 @@
+arch/x86/include/asm/kvm_host.h
+arch/x86/kvm/svm.c 3254
+arch/x86/kvm/vmx.c 5294
+arch/x86/kvm/x86.c 990

@@ -1,0 +1,13 @@
+chrome/browser/extensions/api/permissions/permissions_api.cc 9 10 25 26 60 62 64 65 66 84 86 88 89 90 154 155 164 165 167 168 169
+chrome/browser/extensions/api/permissions/permissions_api_helpers.cc 69 70 71 134 135 136 137
+chrome/browser/extensions/api/permissions/permissions_api_helpers.h 35 36 37
+chrome/browser/extensions/api/permissions/permissions_api_helpers_unittest.cc 73 96 108 156 170
+chrome/browser/extensions/api/permissions/permissions_apitest.cc 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157
+chrome/browser/extensions/extension_system.cc 247 248 249 250 382 383 384 385
+chrome/browser/extensions/extension_system.h 92 93 94 170 216
+chrome/browser/extensions/test_extension_system.cc 134 135 136 137
+chrome/browser/extensions/test_extension_system.h 52
+chrome/test/data/extensions/api_test/permissions/file_access_no/background.js 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+chrome/test/data/extensions/api_test/permissions/file_access_no/manifest.json 1 2 3 4 5 6 7 8 9 10
+chrome/test/data/extensions/api_test/permissions/file_access_yes/background.js 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+chrome/test/data/extensions/api_test/permissions/file_access_yes/manifest.json 1 2 3 4 5 6 7 8 9 10

@@ -1,0 +1,5 @@
+third_party/WebKit/Source/core/html/AutoplayUmaHelper.cpp 48 51 54 60 63 67 69 71 72 73 74 75 76 77 78 79 80 81 82 83 89 90 91 92 93 94 278 279 306 307 340 341 342 343 344 345 346 347 382
+third_party/WebKit/Source/core/html/AutoplayUmaHelper.h 23 25 26 27 28 82 112 113 114
+third_party/WebKit/Source/core/html/AutoplayUmaHelperTest.cpp 73
+tools/metrics/histograms/histograms.xml 82441
+tools/metrics/rappor/rappor.xml 1365 1366 1367 1368 1369 1370 1371 1372 1373 1374 1375

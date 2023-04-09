@@ -1,0 +1,7 @@
+apps/app_shim/app_shim_interactive_uitest_mac.mm
+apps/app_shim/chrome_main_app_mode_mac.mm
+chrome/browser/web_applications/web_app_mac.h
+chrome/browser/web_applications/web_app_mac.mm
+chrome/chrome_tests.gypi
+chrome/common/mac/app_mode_common.h
+chrome/common/mac/app_mode_common.mm

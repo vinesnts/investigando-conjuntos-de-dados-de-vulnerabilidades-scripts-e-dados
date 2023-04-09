@@ -1,0 +1,9 @@
+ash/virtual_keyboard_controller.cc
+ash/virtual_keyboard_controller_unittest.cc
+chrome/app/generated_resources.grd
+chrome/browser/about_flags.cc
+tools/metrics/histograms/histograms.xml
+ui/keyboard/keyboard_switches.cc
+ui/keyboard/keyboard_switches.h
+ui/keyboard/keyboard_util.cc
+ui/keyboard/keyboard_util.h

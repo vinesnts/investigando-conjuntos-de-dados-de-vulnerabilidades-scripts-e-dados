@@ -1,0 +1,28 @@
+chrome/browser/automation/testing_automation_provider_chromeos.cc 15
+chrome/browser/chromeos/audio/audio_handler.cc
+chrome/browser/chromeos/audio/audio_handler.h
+chrome/browser/chromeos/audio/audio_mixer.h
+chrome/browser/chromeos/audio/audio_mixer_alsa.cc
+chrome/browser/chromeos/audio/audio_mixer_alsa.h
+chrome/browser/chromeos/chrome_browser_main_chromeos.cc 15 16 20
+chrome/browser/chromeos/power/brightness_observer.cc
+chrome/browser/chromeos/power/brightness_observer.h
+chrome/browser/chromeos/power/low_battery_observer.cc
+chrome/browser/chromeos/power/low_battery_observer.h
+chrome/browser/chromeos/system_key_event_listener.cc 13 14 20
+chrome/browser/chromeos/ui/brightness_bubble.cc
+chrome/browser/chromeos/ui/brightness_bubble.h
+chrome/browser/chromeos/ui/brightness_bubble_browsertest.cc
+chrome/browser/chromeos/ui/setting_level_bubble.cc
+chrome/browser/chromeos/ui/setting_level_bubble.h
+chrome/browser/chromeos/ui/setting_level_bubble_browsertest.cc
+chrome/browser/chromeos/ui/setting_level_bubble_view.cc
+chrome/browser/chromeos/ui/setting_level_bubble_view.h
+chrome/browser/chromeos/ui/volume_bubble.cc
+chrome/browser/chromeos/ui/volume_bubble.h
+chrome/browser/chromeos/ui/volume_bubble_browsertest.cc
+chrome/browser/prefs/browser_prefs.cc 85
+chrome/browser/ui/browser_init.cc 110
+chrome/chrome_browser.gypi 396 397 398 399 400 409 410 411 412 701 702 763 764 765 766 835 836 5195 5196 5197
+chrome/chrome_tests.gypi 2472 2511 2514
+chrome/test/base/in_process_browser_test.cc 42

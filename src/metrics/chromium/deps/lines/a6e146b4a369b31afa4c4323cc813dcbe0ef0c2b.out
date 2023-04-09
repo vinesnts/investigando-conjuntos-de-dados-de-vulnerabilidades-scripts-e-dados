@@ -1,0 +1,6 @@
+chrome/browser/sync/glue/http_bridge.cc 219 220
+chrome/browser/sync/glue/sync_backend_host_unittest.cc 93
+chrome/common/net/test_url_fetcher_factory.cc 160 161 162
+chrome/common/net/test_url_fetcher_factory.h 179
+chrome/test/live_sync/live_sync_test.cc 343
+chrome/test/live_sync/live_sync_test.h

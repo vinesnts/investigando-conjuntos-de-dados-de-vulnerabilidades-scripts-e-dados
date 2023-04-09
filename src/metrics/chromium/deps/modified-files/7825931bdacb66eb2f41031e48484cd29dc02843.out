@@ -1,0 +1,4 @@
+chrome/app/chrome_dll.rc
+chrome/chrome_dll.gypi
+chrome/chrome_exe.gypi
+chrome/chrome_tests.gypi

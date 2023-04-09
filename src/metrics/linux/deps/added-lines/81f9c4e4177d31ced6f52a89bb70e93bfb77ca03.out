@@ -1,0 +1,5 @@
+Documentation/trace/histogram.txt 1732 1738 1745 1752 1759 1760 1769 1810 1811 1812 1814 1964
+kernel/softirq.c 142 143 144 147 148
+kernel/trace/trace.c 1376
+kernel/trace/trace_events_filter.c 81 82 554 555 556 557 558 559 560
+scripts/Makefile.build 242

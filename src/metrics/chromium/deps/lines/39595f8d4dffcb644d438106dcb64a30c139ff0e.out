@@ -1,0 +1,5 @@
+chrome/browser/chromeos/login/users/wallpaper/wallpaper_manager.cc 337 350 732 739 740 741 742 743 744 745 746 1266 1267 1268 1416 1417 1418 1430 1472 1473
+chrome/browser/chromeos/login/users/wallpaper/wallpaper_manager.h
+chrome/browser/chromeos/login/users/wallpaper/wallpaper_manager_browsertest.cc
+components/wallpaper/wallpaper_manager_base.cc 568 569 577 578 579 582 583 834
+components/wallpaper/wallpaper_manager_base.h 484 536 544

@@ -1,0 +1,15 @@
+third_party/WebKit/LayoutTests/external/wpt/pointerevents/OWNERS 1 2
+third_party/WebKit/LayoutTests/external/wpt/pointerlock/OWNERS 1 2
+third_party/WebKit/LayoutTests/external/wpt/touch-events/OWNERS 2
+third_party/WebKit/LayoutTests/fast/events/hr-timestamp/OWNERS 2
+third_party/WebKit/LayoutTests/fast/events/inputevents/OWNERS 1 2
+third_party/WebKit/LayoutTests/fast/events/pointerevents/OWNERS 2
+third_party/WebKit/LayoutTests/fast/events/touch/OWNERS 2
+third_party/WebKit/LayoutTests/fast/events/wheel/OWNERS 1 2
+third_party/WebKit/LayoutTests/fast/history/scroll-restoration/OWNERS 2
+third_party/WebKit/LayoutTests/fast/input/OWNERS 2 3
+third_party/WebKit/LayoutTests/http/tests/pointer-lock/OWNERS 1 2
+third_party/WebKit/LayoutTests/http/tests/resources/pointer-lock/OWNERS 1 2
+third_party/WebKit/LayoutTests/pointer-lock/OWNERS 1 2
+third_party/WebKit/LayoutTests/touchadjustment/OWNERS 2
+third_party/WebKit/LayoutTests/virtual/threaded/fast/scroll-behavior/smooth-scroll/OWNERS 2

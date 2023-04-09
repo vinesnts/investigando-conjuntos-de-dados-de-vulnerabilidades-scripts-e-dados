@@ -1,0 +1,7 @@
+chrome/browser/automation/automation_provider_observers.h 734 736 742
+chrome/browser/chromeos/login/login_html_dialog.cc 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 138 139 140 141 142 143 144 145 146 147
+chrome/browser/chromeos/login/login_html_dialog.h 58 59 60 62 64 67
+chrome/browser/chromeos/offline/offline_load_page.cc 78 79
+chrome/browser/chromeos/offline/offline_load_page.h 49
+chrome/browser/chromeos/plugin_selection_policy.cc 40 41
+chrome/browser/chromeos/plugin_selection_policy.h 38

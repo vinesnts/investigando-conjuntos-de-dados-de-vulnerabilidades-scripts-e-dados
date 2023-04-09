@@ -1,0 +1,13 @@
+chrome/browser/extensions/active_tab_unittest.cc 183 364 368 372 708 712 722 725
+chrome/browser/extensions/api/page_capture/page_capture_api.cc 51
+chrome/browser/extensions/api/page_capture/page_capture_api.h
+chrome/browser/extensions/api/page_capture/page_capture_apitest.cc
+chrome/browser/extensions/api/tabs/tabs_api.cc 1715
+chrome/browser/extensions/extension_apitest.cc
+chrome/browser/extensions/extension_apitest.h
+chrome/common/extensions/permissions/permissions_data_unittest.cc 394 1070 1072 1075 1084 1085 1088 1089 1141 1143 1144 1145 1146 1147 1183 1185 1186 1187 1188 1189 1209 1211 1212 1226 1227 1228 1229 1230 1249 1250 1251 1252 1253 1254 1255
+chrome/test/data/extensions/api_test/page_capture/test.js 16 20 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 60
+extensions/common/manifest_constants.cc
+extensions/common/manifest_constants.h
+extensions/common/permissions/permissions_data.cc 358 359 360 392 393 394 395 396 397 399 400 401 402 403 404 405 406 407 408 409 410 417 418 419 420 421 422 452
+extensions/common/permissions/permissions_data.h 217 218 221

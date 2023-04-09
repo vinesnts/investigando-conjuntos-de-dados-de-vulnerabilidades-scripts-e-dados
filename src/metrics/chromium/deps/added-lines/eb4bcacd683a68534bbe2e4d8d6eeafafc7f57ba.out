@@ -1,0 +1,11 @@
+chrome/browser/extensions/platform_app_browsertest.cc 44 45 46 47 48 49 50 51 52 122
+chrome/browser/renderer_host/chrome_render_message_filter.cc 38 105 106 423 424 425 426 427
+chrome/browser/renderer_host/chrome_render_message_filter.h 128
+chrome/browser/ui/extensions/shell_window.cc 12 25 32 34 40 42 43 48 49 50 51 52 53 54 55 56 57 58 100 101 102 103 104 105 106 107 108 109 110 111 112 113 117 118 318 319 320 321 322 323 324 325 326 327
+chrome/common/extensions/extension_messages.h 481 482 483
+chrome/renderer/extensions/app_window_custom_bindings.cc 15 19 22 24 96 97
+chrome/renderer/resources/extensions/app_window_custom_bindings.js 14 16 17
+chrome/test/data/extensions/platform_apps/windows_api/test.js 12 13 14
+content/browser/renderer_host/resource_dispatcher_host_impl.cc 1634
+content/browser/renderer_host/resource_dispatcher_host_impl.h 89 90 91
+content/public/browser/resource_dispatcher_host.h 56 57 58 59 60 61 62 63

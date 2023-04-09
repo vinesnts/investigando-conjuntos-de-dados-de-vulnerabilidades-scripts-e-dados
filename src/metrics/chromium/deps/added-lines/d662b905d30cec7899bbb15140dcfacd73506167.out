@@ -1,0 +1,5 @@
+chrome/browser/plugin_observer.cc 129 130 131
+chrome/tools/chromeactions.txt 129 873 1090 1142
+webkit/plugins/npapi/plugin_group.cc 28
+webkit/plugins/npapi/plugin_group.h 92
+webkit/plugins/npapi/plugin_list.cc 111 112 113 135 136 137

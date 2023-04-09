@@ -1,0 +1,24 @@
+chrome/app/generated_resources.grd 4175 4176 4177
+chrome/browser/automation/testing_automation_provider.cc 4476
+chrome/browser/background/background_contents_service.cc 1 242 253 263 317 381 383 428 430
+chrome/browser/extensions/background_scripts_apitest.cc 1 2 3 4 5 6 7 8 9
+chrome/browser/extensions/extension_event_router.cc 227 230
+chrome/browser/extensions/extension_process_manager.cc 72 73 74
+chrome/browser/extensions/extension_protocols.cc 1 15 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 261 262 263 264 265 266 267
+chrome/browser/extensions/extension_service.cc 2477 2482
+chrome/browser/extensions/extension_service_unittest.cc 1 1100
+chrome/browser/extensions/network_delay_listener.cc 1 132
+chrome/chrome_tests.gypi 2542
+chrome/common/extensions/extension.cc 376 377 378 379 380 381 382 383 384 1201 1202 1203 1204 1205 1206 1207 1208 1209 1210 1211 1212 1213 1214 1215 1216 1217 1218 1219 1220 1221 1222 1223 1224 1225 1226 1227 1247 1248 1249 1250 1251 2014 2015 2016
+chrome/common/extensions/extension.h 529 530 531 532 533 534 596 597 674 675 808 809 810 811
+chrome/common/extensions/extension_constants.cc 21 171 172 173 174 175 176 177 497 498 499
+chrome/common/extensions/extension_constants.h 22 155 156 157 332 333 334 335
+chrome/common/extensions/extension_file_util.cc 291 292 293 294 295 296 297 298 299 300 301 302 306 307 308 310
+chrome/common/extensions/extension_file_util_unittest.cc 1 16 18 264 265 266 267 268 269 270 271 272 273 274 282 283 285 286 287 288 289 290 321 322 323 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357
+chrome/common/extensions/extension_manifests_unittest.cc 987 995 1000 1001 1002 1003 1004 1005 1006 1007 1008 1009 1010 1011 1012 1013 1014 1015 1016 1017 1018 1019 1020 1021 1022 1023
+chrome/test/data/extensions/api_test/alert/manifest.json 7
+chrome/test/data/extensions/api_test/alert/test.html
+chrome/test/data/extensions/api_test/background_scripts/a.js 1 2 3 4 5
+chrome/test/data/extensions/api_test/background_scripts/b.js 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+chrome/test/data/extensions/api_test/background_scripts/manifest.json 1 2 3 4 5 6 7 8 9
+chrome/test/data/extensions/manifest_tests/background_scripts.json 1 2 3 4 5 6 7 8 9 10

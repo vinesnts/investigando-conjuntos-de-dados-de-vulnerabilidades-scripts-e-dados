@@ -1,0 +1,10 @@
+content/browser/renderer_host/offscreen_canvas_frame_receiver_impl.cc
+content/browser/renderer_host/offscreen_canvas_frame_receiver_impl.h
+content/browser/renderer_host/offscreen_canvas_surface_impl.cc
+content/browser/renderer_host/offscreen_canvas_surface_impl.h
+third_party/WebKit/Source/platform/graphics/CanvasSurfaceLayerBridge.cpp
+third_party/WebKit/Source/platform/graphics/CanvasSurfaceLayerBridgeClient.h
+third_party/WebKit/Source/platform/graphics/CanvasSurfaceLayerBridgeClientImpl.cpp
+third_party/WebKit/Source/platform/graphics/CanvasSurfaceLayerBridgeClientImpl.h
+third_party/WebKit/Source/platform/graphics/CanvasSurfaceLayerBridgeTest.cpp
+third_party/WebKit/public/platform/modules/offscreencanvas/offscreen_canvas_surface.mojom

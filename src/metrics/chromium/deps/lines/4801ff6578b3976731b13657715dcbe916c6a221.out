@@ -1,0 +1,5 @@
+third_party/WebKit/LayoutTests/http/tests/security/xss-DENIED-window-name-alert-expected.txt
+third_party/WebKit/LayoutTests/http/tests/security/xss-DENIED-window-name-alert.html
+third_party/WebKit/LayoutTests/http/tests/security/xss-DENIED-window-name-navigator-expected.txt
+third_party/WebKit/LayoutTests/http/tests/security/xss-DENIED-window-name-navigator.html
+third_party/WebKit/Source/bindings/v8/custom/V8DOMWindowCustom.cpp 510

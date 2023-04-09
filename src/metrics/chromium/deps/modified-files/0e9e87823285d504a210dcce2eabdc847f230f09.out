@@ -1,0 +1,7 @@
+chrome/browser/autocomplete/autocomplete.cc
+chrome/browser/autocomplete/autocomplete.h
+chrome/browser/autocomplete/autocomplete_edit.cc
+chrome/browser/autocomplete/search_provider.cc
+chrome/browser/autocomplete/search_provider.h
+chrome/browser/metrics/metrics_log.cc
+chrome/common/metrics/proto/omnibox_event.proto

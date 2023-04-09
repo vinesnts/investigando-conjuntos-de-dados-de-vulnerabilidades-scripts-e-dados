@@ -1,0 +1,3 @@
+components/url_formatter/spoof_checks/idn_spoof_checker.cc
+components/url_formatter/spoof_checks/idn_spoof_checker.h
+components/url_formatter/url_formatter.cc

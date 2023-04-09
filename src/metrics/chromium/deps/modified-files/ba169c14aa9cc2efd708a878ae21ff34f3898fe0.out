@@ -1,0 +1,6 @@
+content/browser/dom_storage/dom_storage_context_impl_unittest.cc
+content/browser/dom_storage/dom_storage_context_wrapper.cc
+content/browser/dom_storage/dom_storage_context_wrapper.h
+content/browser/dom_storage/dom_storage_context_wrapper_unittest.cc
+content/browser/storage_partition_impl.cc
+content/test/BUILD.gn

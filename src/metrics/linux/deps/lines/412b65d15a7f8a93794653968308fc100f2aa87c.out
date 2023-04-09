@@ -1,0 +1,4 @@
+drivers/net/ethernet/hisilicon/hns/hns_dsaf_gmac.c 669
+drivers/net/ethernet/hisilicon/hns/hns_dsaf_ppe.c 425
+drivers/net/ethernet/hisilicon/hns/hns_dsaf_rcb.c 879
+drivers/net/ethernet/hisilicon/hns/hns_dsaf_xgmac.c 784

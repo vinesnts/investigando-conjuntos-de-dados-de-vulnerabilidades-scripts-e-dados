@@ -1,0 +1,4 @@
+third_party/WebKit/LayoutTests/http/tests/security/xss-DENIED-cross-origin-stack-overflow-expected.txt
+third_party/WebKit/LayoutTests/http/tests/security/xss-DENIED-cross-origin-stack-overflow.html
+third_party/WebKit/Source/bindings/core/v8/V8DOMWrapper.cpp
+third_party/WebKit/Source/bindings/core/v8/V8DOMWrapper.h

@@ -1,0 +1,10 @@
+chrome/browser/devtools/BUILD.gn
+chrome/browser/devtools/devtools_ui_bindings.cc
+chrome/browser/devtools/devtools_ui_bindings.h
+chrome/browser/devtools/devtools_ui_bindings_unittest.cc
+chrome/browser/devtools/devtools_window.cc
+chrome/browser/devtools/url_constants.cc
+chrome/browser/devtools/url_constants.h
+chrome/browser/ui/webui/devtools_ui.cc
+chrome/browser/ui/webui/devtools_ui.h
+chrome/test/BUILD.gn

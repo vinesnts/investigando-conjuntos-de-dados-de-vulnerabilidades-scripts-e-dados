@@ -1,0 +1,6 @@
+chrome/browser/about_flags.cc
+chrome/browser/flag_descriptions.cc
+chrome/browser/flag_descriptions.h
+chromeos/chromeos_features.cc
+chromeos/chromeos_features.h
+tools/metrics/histograms/enums.xml

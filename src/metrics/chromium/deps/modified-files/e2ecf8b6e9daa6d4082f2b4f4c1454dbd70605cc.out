@@ -1,0 +1,6 @@
+third_party/WebKit/LayoutTests/http/tests/inspector/console-cd-completions.html
+third_party/WebKit/LayoutTests/http/tests/inspector/console-cd.html
+third_party/WebKit/Source/WebCore/ChangeLog
+third_party/WebKit/Source/WebCore/inspector/front-end/ConsoleView.js
+third_party/WebKit/Source/WebCore/inspector/front-end/StatusBarButton.js
+third_party/WebKit/Source/WebCore/inspector/front-end/inspector.css

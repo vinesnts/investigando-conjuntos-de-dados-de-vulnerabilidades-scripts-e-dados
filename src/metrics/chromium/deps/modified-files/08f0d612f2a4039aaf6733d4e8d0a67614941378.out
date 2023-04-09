@@ -1,0 +1,3 @@
+chrome/browser/ui/browser.cc
+chrome/browser/ui/browser.h
+chrome/test/data/reliability/known_crashes.txt

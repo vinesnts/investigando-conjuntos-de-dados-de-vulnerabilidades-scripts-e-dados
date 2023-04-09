@@ -1,0 +1,17 @@
+chrome/browser/chrome_browser_main.cc 127 982 983 986 987 988 991 992 993 999
+chrome/browser/metrics/variations/variations_request_scheduler_mobile.cc 8
+chrome/browser/metrics/variations/variations_request_scheduler_mobile_unittest.cc 11
+chrome/browser/metrics/variations/variations_seed_store.cc 15
+chrome/browser/metrics/variations/variations_seed_store_unittest.cc 10
+chrome/browser/metrics/variations/variations_service.cc 25
+chrome/browser/metrics/variations/variations_service_unittest.cc 20
+chrome/browser/policy/configuration_policy_handler_list_factory.cc 30 360
+chrome/chrome_installer_util.gypi 123 214
+chrome/common/pref_names.cc
+chrome/common/pref_names.h
+chrome/installer/util/BUILD.gn 14
+chrome/installer/util/master_preferences.cc 17 302 306 310
+components/metrics/metrics_state_manager_unittest.cc 146 147
+components/variations/caching_permuted_entropy_provider.cc 32 33 38 39 55 56 60 61 72 73 74
+components/variations/pref_names.cc 7 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 32 33 34 35 36 37 38 39 40 41 42 43
+components/variations/pref_names.h 8 14 15 16 18 19 20 21 22

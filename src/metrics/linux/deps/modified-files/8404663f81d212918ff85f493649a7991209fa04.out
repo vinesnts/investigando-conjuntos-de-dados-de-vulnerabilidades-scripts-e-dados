@@ -1,0 +1,4 @@
+arch/arm/include/asm/assembler.h
+arch/arm/include/asm/uaccess.h
+arch/arm/lib/getuser.S
+arch/arm/lib/putuser.S

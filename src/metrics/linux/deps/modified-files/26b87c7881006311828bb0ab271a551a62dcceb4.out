@@ -1,0 +1,2 @@
+net/sctp/inqueue.c
+net/sctp/sm_statefuns.c

@@ -1,0 +1,3 @@
+chrome/app/chrome_dll_main.cc
+chrome/browser/worker_host/worker_process_host.cc
+chrome/tools/chrome-process-identifier.sh

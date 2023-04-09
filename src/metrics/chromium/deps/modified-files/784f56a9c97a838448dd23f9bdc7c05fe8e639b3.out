@@ -1,0 +1,6 @@
+content/browser/frame_host/navigator_impl.cc
+content/browser/frame_host/navigator_impl_unittest.cc
+content/browser/frame_host/render_frame_host_impl.cc
+content/browser/frame_host/render_frame_host_impl.h
+content/common/feature_policy/feature_policy.h
+content/test/test_render_view_host.cc

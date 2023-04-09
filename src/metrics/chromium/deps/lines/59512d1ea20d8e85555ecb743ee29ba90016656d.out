@@ -1,0 +1,5 @@
+chrome/browser/android/ntp/content_suggestions_notifier_service.cc
+chrome/browser/ntp_snippets/ntp_snippets_features.cc
+chrome/browser/ntp_snippets/ntp_snippets_features.h
+chrome/common/pref_names.cc
+chrome/common/pref_names.h

@@ -1,0 +1,5 @@
+chrome/browser/extensions/extension_function_dispatcher.cc
+chrome/common/extensions/extension.cc
+chrome/common/extensions/permissions/permission_set.cc
+chrome/common/extensions/permissions/permission_set.h
+chrome/common/extensions/permissions/permission_set_unittest.cc

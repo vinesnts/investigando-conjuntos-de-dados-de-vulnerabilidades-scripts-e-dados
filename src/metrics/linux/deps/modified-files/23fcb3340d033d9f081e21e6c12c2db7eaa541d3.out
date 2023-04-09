@@ -1,0 +1,2 @@
+fs/xfs/libxfs/xfs_format.h
+fs/xfs/libxfs/xfs_inode_buf.c

@@ -1,0 +1,3 @@
+chrome/android/java/src/org/chromium/chrome/browser/permissions/PermissionDialogController.java
+chrome/android/javatests/src/org/chromium/chrome/browser/permissions/PermissionNavigationTest.java
+chrome/android/javatests/src/org/chromium/chrome/browser/permissions/PermissionTestRule.java

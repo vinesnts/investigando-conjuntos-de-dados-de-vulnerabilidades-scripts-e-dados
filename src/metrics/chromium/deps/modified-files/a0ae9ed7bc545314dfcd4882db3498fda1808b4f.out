@@ -1,0 +1,2 @@
+third_party/blink/renderer/core/layout/scroll_anchor.cc
+third_party/blink/web_tests/external/wpt/css/css-scroll-anchoring/scroll-padding-affects-anchoring-expected.txt

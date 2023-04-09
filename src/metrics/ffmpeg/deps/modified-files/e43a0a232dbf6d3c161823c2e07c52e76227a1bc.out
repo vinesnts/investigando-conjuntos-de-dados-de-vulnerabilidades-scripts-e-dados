@@ -1,0 +1,11 @@
+libavfilter/vf_boxblur.c
+libavfilter/vf_delogo.c
+libavfilter/vf_fieldmatch.c
+libavfilter/vf_fieldorder.c
+libavfilter/vf_gradfun.c
+libavfilter/vf_hflip.c
+libavfilter/vf_kerndeint.c
+libavfilter/vf_lut.c
+libavfilter/vf_pad.c
+libavfilter/vf_showinfo.c
+libavfilter/vf_vignette.c

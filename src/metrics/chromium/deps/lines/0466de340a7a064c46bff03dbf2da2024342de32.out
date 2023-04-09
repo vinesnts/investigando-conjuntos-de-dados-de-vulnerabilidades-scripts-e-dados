@@ -1,0 +1,11 @@
+.gitignore
+DEPS
+third_party/ow2_asm/BUILD.gn
+third_party/ow2_asm/LICENSE
+third_party/ow2_asm/OWNERS
+third_party/ow2_asm/README.chromium
+third_party/ow2_asm/lib/asm-5.0.1.jar.sha1
+third_party/ow2_asm/lib/asm-analysis-5.0.1.jar.sha1
+third_party/ow2_asm/lib/asm-commons-5.0.1.jar.sha1
+third_party/ow2_asm/lib/asm-tree-5.0.1.jar.sha1
+third_party/ow2_asm/lib/asm-util-5.0.1.jar.sha1

@@ -1,0 +1,4 @@
+third_party/WebKit/Source/WebCore/ChangeLog
+third_party/WebKit/Source/WebCore/inspector/front-end/DebuggerPresentationModel.js
+third_party/WebKit/Source/WebCore/inspector/front-end/RawSourceCode.js
+third_party/WebKit/Source/WebCore/inspector/front-end/Script.js

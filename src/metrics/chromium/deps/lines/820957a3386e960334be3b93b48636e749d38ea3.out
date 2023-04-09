@@ -1,0 +1,3 @@
+chrome/browser/ui/views/color_chooser_win.cc 55 56
+content/browser/web_contents/web_contents_impl.cc 2458
+content/public/browser/web_contents_delegate.h 338

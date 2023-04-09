@@ -1,0 +1,11 @@
+content/test/data/lite_js_test.mojom
+mojo/public/js/BUILD.gn 55 58 59 76 80
+mojo/public/js/bindings_lite.js 220 715 716 732 876 961 962 1001 1033 1161 1313 1314 1316 1385 1388 1401 1404 1407 1418 1421 1424 1435 1438 1441 1452 1455 1458 1469 1472 1475 1486 1489 1492 1503 1506 1509 1520 1523 1526 1537 1540 1543 1554 1557 1560 1571 1575 1578 1589 1593 1596 1600 1620 1624 1627 1630 1653 1657 1660 1675 1689 1693 1698 1742 1746 1749 1752 1770 1783 1786 1799 1809 1812 1826 1829 1844 1847
+mojo/public/tools/bindings/BUILD.gn
+mojo/public/tools/bindings/generators/js_templates/lite/interface_definition.tmpl
+mojo/public/tools/bindings/generators/js_templates/lite/module.externs.tmpl
+mojo/public/tools/bindings/generators/js_templates/lite/module_definition.tmpl 17 19 20 26 27 28 29 32 35 38 41 44 45 46 47
+mojo/public/tools/bindings/generators/js_templates/lite/union_definition.tmpl 1 2
+mojo/public/tools/bindings/generators/js_templates/lite/union_externs.tmpl
+mojo/public/tools/bindings/generators/mojom_js_generator.py 420 422
+third_party/WebKit/LayoutTests/mojo/bindings-lite.html 124 125

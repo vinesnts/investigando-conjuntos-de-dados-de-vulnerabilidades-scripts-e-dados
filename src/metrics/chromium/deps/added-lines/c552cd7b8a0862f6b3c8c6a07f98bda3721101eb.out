@@ -1,0 +1,9 @@
+chrome/browser/ui/browser.cc 1535 1536 1537 1538 1539 1540 1541 1542 1543 1544 1545
+chrome/browser/ui/browser_navigator.cc
+chrome/browser/ui/browser_window.h
+chrome/browser/ui/cocoa/browser_window_cocoa.h
+chrome/browser/ui/cocoa/browser_window_cocoa.mm
+chrome/browser/ui/views/frame/browser_view.cc
+chrome/browser/ui/views/frame/browser_view.h
+chrome/test/base/test_browser_window.cc
+chrome/test/base/test_browser_window.h

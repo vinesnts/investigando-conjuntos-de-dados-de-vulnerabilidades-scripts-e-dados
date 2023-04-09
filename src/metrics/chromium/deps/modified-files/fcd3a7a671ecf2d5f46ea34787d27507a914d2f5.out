@@ -1,0 +1,17 @@
+chrome/browser/about_flags.cc
+chrome/browser/sync/glue/sync_backend_host.cc
+chrome/browser/sync/profile_sync_components_factory_impl.cc
+chrome/browser/sync/profile_sync_service.cc
+chrome/browser/sync/test/integration/migration_errors_test.cc
+chrome/browser/sync/test/integration/sync_test.cc
+chrome/browser/sync/test/integration/sync_test.h
+chrome/common/chrome_switches.cc
+chrome/common/chrome_switches.h
+sync/engine/conflict_resolver.cc
+sync/engine/syncer_unittest.cc
+sync/internal_api/sync_manager.cc
+sync/internal_api/sync_manager.h
+sync/internal_api/syncapi_unittest.cc
+sync/protocol/nigori_specifics.proto
+sync/protocol/proto_value_conversions.cc
+sync/util/experiments.h

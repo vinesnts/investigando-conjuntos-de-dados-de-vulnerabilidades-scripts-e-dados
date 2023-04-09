@@ -1,0 +1,8 @@
+drivers/hid/Kconfig
+drivers/hid/Makefile
+drivers/hid/wacom.h
+drivers/hid/wacom_sys.c
+drivers/hid/wacom_wac.c
+drivers/hid/wacom_wac.h
+drivers/input/tablet/Kconfig 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91
+drivers/input/tablet/Makefile 5 6 13

@@ -1,0 +1,4 @@
+third_party/WebKit/LayoutTests/fast/forms/input-type-change-focusout-expected.txt
+third_party/WebKit/LayoutTests/fast/forms/input-type-change-focusout.html
+third_party/WebKit/Source/core/html/BaseMultipleFieldsDateAndTimeInputType.cpp
+third_party/WebKit/Source/core/html/HTMLInputElement.cpp

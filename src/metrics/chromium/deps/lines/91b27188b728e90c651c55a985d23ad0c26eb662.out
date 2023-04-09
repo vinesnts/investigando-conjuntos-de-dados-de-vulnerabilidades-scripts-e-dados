@@ -1,0 +1,3 @@
+third_party/WebKit/LayoutTests/fast/dom/Window/atob-btoa-expected.txt
+third_party/WebKit/LayoutTests/fast/dom/Window/atob-btoa.html
+third_party/WebKit/Source/wtf/text/Base64.cpp 157 158 160 161 164

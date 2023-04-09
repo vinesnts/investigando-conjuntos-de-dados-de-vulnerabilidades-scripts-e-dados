@@ -1,0 +1,9 @@
+media/capture/mojom/video_capture_types.mojom 208
+media/capture/mojom/video_capture_types_mojom_traits.cc
+media/capture/video/chromeos/camera_device_delegate.cc 192 229 230 231 232 233 234 235 236 237 238 239 240 261 285 429 432 457 458 459 461 462 463 464 465 466 467 468 469 470 471 472 473 474 475 476 477 505
+media/capture/video/chromeos/camera_device_delegate.h 127
+media/capture/video/chromeos/camera_device_delegate_unittest.cc 245 335 336 337 338 339 340 341 342 352 353 354 355 356 357 358 359 606
+media/capture/video/chromeos/stream_buffer_manager.cc 190 419 442
+media/capture/video/chromeos/stream_buffer_manager.h 119
+media/capture/video/chromeos/stream_buffer_manager_unittest.cc
+media/capture/video_capture_types.h 181

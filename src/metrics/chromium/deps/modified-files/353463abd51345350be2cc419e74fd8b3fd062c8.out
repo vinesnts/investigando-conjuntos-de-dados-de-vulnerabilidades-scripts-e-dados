@@ -1,0 +1,5 @@
+chrome/browser/resources/extensions/options_dialog.html
+chrome/browser/resources/print_preview/ui/destination_dialog.html
+chrome/browser/resources/settings/autofill_page/address_edit_dialog.html
+chrome/browser/resources/settings/clear_browsing_data_dialog/clear_browsing_data_dialog.html
+ui/webui/resources/cr_elements/cr_dialog/cr_dialog.html

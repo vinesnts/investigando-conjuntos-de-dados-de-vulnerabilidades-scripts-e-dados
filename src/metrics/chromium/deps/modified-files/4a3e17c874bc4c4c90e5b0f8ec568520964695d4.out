@@ -1,0 +1,14 @@
+content/browser/notifications/notification_database_data.proto
+content/browser/notifications/notification_database_data_conversions.cc
+content/browser/notifications/notification_database_data_unittest.cc
+content/child/notifications/notification_data_conversions.cc
+content/child/notifications/notification_data_conversions_unittest.cc
+content/common/platform_notification_messages.h
+content/public/common/platform_notification_data.h
+third_party/WebKit/LayoutTests/http/tests/notifications/serviceworker-notification-properties.html
+third_party/WebKit/Source/modules/notifications/Notification.cpp
+third_party/WebKit/Source/modules/notifications/NotificationAction.idl
+third_party/WebKit/Source/modules/notifications/NotificationData.cpp
+third_party/WebKit/Source/modules/notifications/NotificationDataTest.cpp
+third_party/WebKit/Source/platform/RuntimeEnabledFeatures.in
+third_party/WebKit/public/platform/modules/notifications/WebNotificationAction.h

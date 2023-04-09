@@ -1,0 +1,3 @@
+content/browser/indexed_db/indexed_db_database.cc
+content/browser/indexed_db/indexed_db_transaction.cc
+content/browser/indexed_db/indexed_db_transaction.h

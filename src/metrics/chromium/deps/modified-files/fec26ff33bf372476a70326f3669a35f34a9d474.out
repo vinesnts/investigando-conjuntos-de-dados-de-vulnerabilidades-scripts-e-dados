@@ -1,0 +1,14 @@
+chrome/browser/predictors/loading_data_collector.cc
+chrome/browser/predictors/loading_data_collector.h
+chrome/browser/predictors/loading_predictor.cc
+chrome/browser/predictors/loading_predictor_browsertest.cc
+chrome/browser/predictors/loading_predictor_unittest.cc
+chrome/browser/predictors/loading_stats_collector.cc
+chrome/browser/predictors/loading_stats_collector_unittest.cc
+chrome/browser/predictors/preconnect_manager.cc
+chrome/browser/predictors/preconnect_manager.h
+chrome/browser/predictors/preconnect_manager_unittest.cc
+chrome/browser/predictors/resource_prefetch_predictor.cc
+chrome/browser/predictors/resource_prefetch_predictor.h
+chrome/browser/predictors/resource_prefetch_predictor.proto
+chrome/browser/predictors/resource_prefetch_predictor_unittest.cc

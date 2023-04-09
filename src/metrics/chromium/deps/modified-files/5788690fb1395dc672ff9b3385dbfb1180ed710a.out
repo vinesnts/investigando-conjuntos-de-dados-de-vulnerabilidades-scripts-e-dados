@@ -1,0 +1,6 @@
+content/browser/renderer_host/browser_compositor_view_mac.h
+content/browser/renderer_host/browser_compositor_view_mac.mm
+content/browser/renderer_host/delegated_frame_host.cc
+content/browser/renderer_host/render_widget_host_view_mac.h
+content/browser/renderer_host/render_widget_host_view_mac.mm
+content/browser/renderer_host/render_widget_host_view_mac_unittest.mm

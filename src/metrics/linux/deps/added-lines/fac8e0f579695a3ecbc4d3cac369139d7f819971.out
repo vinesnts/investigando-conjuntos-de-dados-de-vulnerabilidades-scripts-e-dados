@@ -1,0 +1,6 @@
+include/linux/netdevice.h 2099 2100
+net/core/dev.c 4441
+net/ipv4/af_inet.c 1383 1384 1385 1386 1387 1388 1389 1390 1391 1392 1393 1394 1395 1698
+net/ipv4/gre_offload.c 129 130 131 132 133
+net/ipv4/udp_offload.c 314 320 321
+net/ipv6/ip6_offload.c 261 262 263 264 265 266 267 268 269 270 271 272 273 318

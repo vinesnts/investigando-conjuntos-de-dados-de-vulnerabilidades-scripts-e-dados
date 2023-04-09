@@ -1,0 +1,4 @@
+third_party/WebKit/WebCore/ChangeLog
+third_party/WebKit/WebCore/html/HTMLConstructionSite.cpp
+third_party/WebKit/WebCore/html/HTMLLinkElement.cpp
+third_party/WebKit/WebCore/html/HTMLLinkElement.h

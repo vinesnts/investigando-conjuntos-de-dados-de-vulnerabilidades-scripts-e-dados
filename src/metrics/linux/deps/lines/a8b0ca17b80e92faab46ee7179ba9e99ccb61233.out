@@ -1,0 +1,46 @@
+arch/alpha/kernel/perf_event.c 850
+arch/arm/kernel/perf_event_v6.c 482
+arch/arm/kernel/perf_event_v7.c 790
+arch/arm/kernel/perf_event_xscale.c 254 586
+arch/arm/kernel/ptrace.c 399
+arch/arm/kernel/swp_emulate.c 186
+arch/arm/mm/fault.c 321 323 325
+arch/mips/kernel/perf_event.c 530
+arch/mips/kernel/traps.c 581 586 605 643
+arch/mips/kernel/unaligned.c 114 115 520
+arch/mips/math-emu/cp1emu.c 275 276
+arch/mips/mm/fault.c 148 157 158 161 162
+arch/powerpc/include/asm/emulated_ops.h 81 88
+arch/powerpc/kernel/perf_event.c 1210 1261 1349
+arch/powerpc/kernel/perf_event_fsl_emb.c 571 619 647
+arch/powerpc/kernel/ptrace.c 885
+arch/powerpc/mm/fault.c 176 322 333
+arch/s390/mm/fault.c 302 348 352
+arch/sh/kernel/ptrace_32.c 66
+arch/sh/kernel/traps_32.c 396
+arch/sh/kernel/traps_64.c 437 515 591 668
+arch/sh/math-emu/math.c 623
+arch/sh/mm/fault_32.c 163 213 217
+arch/sh/mm/tlbflush_64.c 119 203 207
+arch/sparc/kernel/perf_event.c 1280
+arch/sparc/kernel/unaligned_32.c 250 341
+arch/sparc/kernel/unaligned_64.c 320 387 434 557 589 650
+arch/sparc/kernel/visemul.c 805
+arch/sparc/math-emu/math_32.c 167
+arch/sparc/math-emu/math_64.c 187
+arch/sparc/mm/fault_32.c 254 304 305 308 309
+arch/sparc/mm/fault_64.c 328 436 437 440 441
+arch/x86/kernel/cpu/perf_event.c 1342
+arch/x86/kernel/cpu/perf_event_intel.c 1006
+arch/x86/kernel/cpu/perf_event_intel_ds.c 343 619
+arch/x86/kernel/cpu/perf_event_p4.c 973
+arch/x86/kernel/kgdb.c 611
+arch/x86/kernel/ptrace.c 531
+arch/x86/mm/fault.c 1062 1164 1168
+include/linux/perf_event.h 685 928 996 1015 1037 1046 1060 1122 1146 1147
+kernel/events/core.c 3975 3987 4027 4070 4207 4354 4549 4562 4605 4606 4607 4608 4609 4613 4615 4618 4619 4620 4621 4622 4628 4632 4681 4695 4708 4722 4727 4815 4831 4852 4853 4865 5113 5206 5235
+kernel/events/internal.h 30
+kernel/events/ring_buffer.c 41 42 43 44 45 105 130
+kernel/sched.c 2223
+kernel/watchdog.c 214
+samples/hw_breakpoint/data_breakpoint.c 44

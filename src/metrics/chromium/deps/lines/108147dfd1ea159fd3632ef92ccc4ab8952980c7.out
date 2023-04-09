@@ -1,0 +1,19 @@
+third_party/blink/renderer/core/dom/document.cc 6374 6392 6400 6432 6433 6494 6495 6496 6497 6502 6503 6504 6505 6506 6507 6508 6509 6510 6511 6513 6514 6521 6522 6525 6526 6527 6528 6529 6530 6531 6532 6533 6534 6535 6536 6537 6538 6539 6540 6541
+third_party/blink/renderer/core/dom/document.h 1118 1119 1120 1121
+third_party/blink/renderer/core/dom/document_init.cc 205 206 207 208 209 210 211
+third_party/blink/renderer/core/dom/document_init.h 104 105 106 107 108 129 130
+third_party/blink/renderer/core/frame/csp/content_security_policy.cc 663 664 665 666 667 668 669 670 671 672 673 674 675 676 677 678
+third_party/blink/renderer/core/loader/document_loader.cc 981 982 983 986 987 1172 1175 1198 1199 1229
+third_party/blink/renderer/core/loader/document_loader.h 292
+third_party/blink/renderer/core/loader/frame_loader.cc
+third_party/blink/renderer/core/loader/frame_loader.h
+third_party/blink/web_tests/external/wpt/content-security-policy/inheritance/blob-url-in-child-frame-self-navigate-inherits.sub.html
+third_party/blink/web_tests/external/wpt/content-security-policy/inheritance/blob-url-in-main-window-self-navigate-inherits.sub.html
+third_party/blink/web_tests/external/wpt/content-security-policy/inheritance/sandboxed-blob-scheme.html
+third_party/blink/web_tests/external/wpt/content-security-policy/inheritance/sandboxed-blob-scheme.html.sub.headers
+third_party/blink/web_tests/external/wpt/content-security-policy/inheritance/sandboxed-data-scheme.html
+third_party/blink/web_tests/external/wpt/content-security-policy/inheritance/sandboxed-data-scheme.html.sub.headers
+third_party/blink/web_tests/external/wpt/content-security-policy/inheritance/unsandboxed-blob-scheme.html
+third_party/blink/web_tests/external/wpt/content-security-policy/inheritance/unsandboxed-blob-scheme.html.sub.headers
+third_party/blink/web_tests/external/wpt/content-security-policy/inheritance/unsandboxed-data-scheme.html
+third_party/blink/web_tests/external/wpt/content-security-policy/inheritance/unsandboxed-data-scheme.html.sub.headers

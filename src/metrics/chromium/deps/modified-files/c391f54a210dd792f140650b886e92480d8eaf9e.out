@@ -1,0 +1,3 @@
+third_party/WebKit/Source/modules/webaudio/AudioParam.cpp
+third_party/WebKit/Source/modules/webaudio/BiquadDSPKernel.cpp
+third_party/WebKit/Source/modules/webaudio/BiquadDSPKernel.h

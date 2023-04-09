@@ -1,0 +1,3 @@
+DEPS 916
+third_party/libvpx/README.chromium 8 10
+third_party/libvpx/source/config/vpx_version.h 5 7 8

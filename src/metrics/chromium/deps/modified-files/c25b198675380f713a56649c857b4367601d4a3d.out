@@ -1,0 +1,7 @@
+ash/login/ui/lock_screen_media_controls_view.cc
+ash/login/ui/lock_screen_media_controls_view.h
+ash/login/ui/lock_screen_media_controls_view_unittest.cc
+ash/login/ui/media_controls_header_view.cc
+ash/login/ui/media_controls_header_view.h
+components/media_message_center/media_controls_progress_view.cc
+components/media_message_center/media_controls_progress_view.h

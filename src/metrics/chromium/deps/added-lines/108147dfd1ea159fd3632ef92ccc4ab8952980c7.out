@@ -1,0 +1,19 @@
+third_party/blink/renderer/core/dom/document.cc 6374 6375 6393 6394 6402 6403 6435 6496 6497 6502 6503 6504 6505 6506 6507 6508 6509 6510 6512 6513 6514 6515 6516 6517 6518 6519 6520 6521 6528 6529 6532
+third_party/blink/renderer/core/dom/document.h 1118 1119
+third_party/blink/renderer/core/dom/document_init.cc
+third_party/blink/renderer/core/dom/document_init.h
+third_party/blink/renderer/core/frame/csp/content_security_policy.cc
+third_party/blink/renderer/core/loader/document_loader.cc 981 984 985 986 1195 1225
+third_party/blink/renderer/core/loader/document_loader.h 292
+third_party/blink/renderer/core/loader/frame_loader.cc 223 905 906
+third_party/blink/renderer/core/loader/frame_loader.h 256 257 341 342
+third_party/blink/web_tests/external/wpt/content-security-policy/inheritance/blob-url-in-child-frame-self-navigate-inherits.sub.html 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+third_party/blink/web_tests/external/wpt/content-security-policy/inheritance/blob-url-in-main-window-self-navigate-inherits.sub.html 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+third_party/blink/web_tests/external/wpt/content-security-policy/inheritance/sandboxed-blob-scheme.html 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+third_party/blink/web_tests/external/wpt/content-security-policy/inheritance/sandboxed-blob-scheme.html.sub.headers 1 2 3 4 5
+third_party/blink/web_tests/external/wpt/content-security-policy/inheritance/sandboxed-data-scheme.html 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+third_party/blink/web_tests/external/wpt/content-security-policy/inheritance/sandboxed-data-scheme.html.sub.headers 1 2 3 4 5
+third_party/blink/web_tests/external/wpt/content-security-policy/inheritance/unsandboxed-blob-scheme.html 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+third_party/blink/web_tests/external/wpt/content-security-policy/inheritance/unsandboxed-blob-scheme.html.sub.headers 1 2 3 4 5
+third_party/blink/web_tests/external/wpt/content-security-policy/inheritance/unsandboxed-data-scheme.html 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+third_party/blink/web_tests/external/wpt/content-security-policy/inheritance/unsandboxed-data-scheme.html.sub.headers 1 2 3 4 5

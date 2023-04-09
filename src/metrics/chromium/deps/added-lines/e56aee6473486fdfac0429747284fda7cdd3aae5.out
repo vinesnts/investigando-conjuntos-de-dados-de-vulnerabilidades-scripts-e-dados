@@ -1,0 +1,5 @@
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/embed-src-image-url-blocked-expected.txt 1 2 3
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/embed-src-image-url-blocked.html 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/object-src-image-url-blocked-expected.txt 1 2 3
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/object-src-image-url-blocked.html 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+third_party/WebKit/Source/core/loader/ImageLoader.cpp 26 27 396 398 401 402 403 404 405

@@ -1,0 +1,3 @@
+third_party/WebKit/LayoutTests/fast/forms/image/image-error-event-crash-expected.txt
+third_party/WebKit/LayoutTests/fast/forms/image/image-error-event-crash.html
+third_party/WebKit/Source/core/loader/ImageLoader.cpp

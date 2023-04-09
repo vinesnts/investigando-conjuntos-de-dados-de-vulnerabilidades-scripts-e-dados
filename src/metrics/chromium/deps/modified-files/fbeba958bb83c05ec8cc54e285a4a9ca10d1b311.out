@@ -1,0 +1,5 @@
+chrome/browser/devtools/global_confirm_info_bar.cc
+chrome/browser/extensions/api/debugger/extension_dev_tools_infobar.cc
+chrome/browser/ui/views/infobars/confirm_infobar.cc
+components/infobars/core/confirm_infobar_delegate.cc
+components/infobars/core/confirm_infobar_delegate.h

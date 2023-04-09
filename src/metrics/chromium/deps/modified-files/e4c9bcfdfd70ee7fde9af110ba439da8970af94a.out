@@ -1,0 +1,6 @@
+third_party/ink/README.chromium
+third_party/ink/build/ink_lib_binary.js.sha1
+third_party/ink/build/ink_lib_externs.js.sha1
+third_party/ink/build/wasm/glcore_base.js.sha1
+third_party/ink/build/wasm/glcore_base.wasm.sha1
+third_party/ink/build/wasm/glcore_wasm_bootstrap_compiled.js.sha1

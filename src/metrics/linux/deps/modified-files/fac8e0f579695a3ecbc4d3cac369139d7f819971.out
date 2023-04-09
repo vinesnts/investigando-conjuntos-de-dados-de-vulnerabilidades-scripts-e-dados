@@ -1,0 +1,6 @@
+include/linux/netdevice.h
+net/core/dev.c
+net/ipv4/af_inet.c
+net/ipv4/gre_offload.c
+net/ipv4/udp_offload.c
+net/ipv6/ip6_offload.c

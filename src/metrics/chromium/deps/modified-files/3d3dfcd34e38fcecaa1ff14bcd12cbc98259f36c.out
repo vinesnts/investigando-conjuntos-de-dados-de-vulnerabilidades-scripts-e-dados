@@ -1,0 +1,5 @@
+third_party/WebKit/Source/core/html/AutoplayUmaHelper.cpp
+third_party/WebKit/Source/core/html/AutoplayUmaHelper.h
+third_party/WebKit/Source/core/html/AutoplayUmaHelperTest.cpp
+tools/metrics/histograms/histograms.xml
+tools/metrics/rappor/rappor.xml

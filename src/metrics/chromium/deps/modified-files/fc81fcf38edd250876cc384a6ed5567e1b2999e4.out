@@ -1,0 +1,3 @@
+third_party/WebKit/LayoutTests/security/lazy-event-listener-expected.txt
+third_party/WebKit/LayoutTests/security/lazy-event-listener.html
+third_party/WebKit/Source/bindings/core/v8/V8LazyEventListener.cpp

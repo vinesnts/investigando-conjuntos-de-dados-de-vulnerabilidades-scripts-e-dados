@@ -1,0 +1,4 @@
+third_party/WebKit/LayoutTests/http/tests/devtools/console/console-format-style-expected.txt 10
+third_party/WebKit/LayoutTests/http/tests/devtools/console/console-format-style.js
+third_party/WebKit/Source/devtools/front_end/console/ConsoleViewMessage.js 370 847 848 865
+third_party/WebKit/Source/devtools/front_end/console/consoleView.css

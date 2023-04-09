@@ -1,0 +1,8 @@
+chrome/browser/ui/page_info/page_info.cc
+chrome/browser/ui/page_info/page_info.h
+chrome/browser/ui/page_info/page_info_ui.cc
+chrome/browser/ui/page_info/page_info_ui.h
+chrome/browser/ui/page_info/page_info_unittest.cc
+chrome/browser/ui/views/hover_button.h
+chrome/browser/ui/views/page_info/page_info_bubble_view.h
+chrome/browser/ui/views/page_info/page_info_bubble_view_browsertest.cc

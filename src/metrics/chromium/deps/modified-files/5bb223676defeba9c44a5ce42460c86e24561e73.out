@@ -1,0 +1,6 @@
+chrome/browser/chrome_content_browser_client.cc
+extensions/browser/BUILD.gn
+extensions/browser/guest_view/extensions_guest_view_message_filter.cc
+extensions/browser/guest_view/extensions_guest_view_message_filter.h
+extensions/browser/guest_view/mime_handler_view/mime_handler_view_attach_helper.cc
+extensions/browser/guest_view/mime_handler_view/mime_handler_view_attach_helper.h

@@ -1,0 +1,2 @@
+extensions/renderer/render_frame_observer_natives.cc
+extensions/renderer/render_frame_observer_natives.h

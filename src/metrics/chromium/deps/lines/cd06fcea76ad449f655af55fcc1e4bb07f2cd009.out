@@ -1,0 +1,5 @@
+third_party/WebKit/LayoutTests/ChangeLog
+third_party/WebKit/LayoutTests/animations/animation-border-overflow-expected.txt
+third_party/WebKit/LayoutTests/animations/animation-border-overflow.html
+third_party/WebKit/Source/WebCore/ChangeLog
+third_party/WebKit/Source/WebCore/platform/animation/AnimationUtilities.h 40

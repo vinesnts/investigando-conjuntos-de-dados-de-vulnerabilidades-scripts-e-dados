@@ -1,0 +1,12 @@
+chrome/browser/extensions/api/webstore/webstore_api.cc
+chrome/browser/extensions/api/webstore/webstore_api.h
+chrome/browser/extensions/browser_context_keyed_service_factories.cc
+chrome/browser/extensions/tab_helper.cc
+chrome/browser/extensions/tab_helper.h
+chrome/browser/extensions/webstore_inline_installer_browsertest.cc
+chrome/browser/extensions/webstore_standalone_installer.cc
+chrome/chrome_browser_extensions.gypi
+chrome/chrome_common.gypi
+chrome/common/extensions/webstore_install_result.cc
+chrome/common/extensions/webstore_install_result.h
+chrome/test/data/extensions/api_test/webstore_inline_install/double_install.html

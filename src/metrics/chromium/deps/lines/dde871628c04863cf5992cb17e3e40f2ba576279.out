@@ -1,0 +1,13 @@
+remoting/client/plugin/chromoting_instance.cc
+remoting/client/plugin/chromoting_instance.h 209
+remoting/client/plugin/pepper_video_renderer.h
+remoting/client/plugin/pepper_video_renderer_2d.cc
+remoting/client/plugin/pepper_video_renderer_2d.h
+remoting/client/plugin/pepper_video_renderer_3d.cc
+remoting/client/plugin/pepper_video_renderer_3d.h
+remoting/webapp/base/html/client_plugin.html
+remoting/webapp/base/html/main.css
+remoting/webapp/crd/js/client_plugin.js
+remoting/webapp/crd/js/client_plugin_impl.js 108
+remoting/webapp/crd/js/client_session.js
+remoting/webapp/crd/js/desktop_connected_view.js

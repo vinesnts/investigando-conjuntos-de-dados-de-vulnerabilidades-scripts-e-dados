@@ -1,0 +1,9 @@
+base/metrics/histogram_unittest.cc
+base/metrics/persistent_histogram_allocator.cc 322 428 429
+base/metrics/persistent_histogram_allocator.h
+base/metrics/persistent_histogram_allocator_unittest.cc
+base/metrics/sparse_histogram_unittest.cc
+base/metrics/statistics_recorder_unittest.cc
+chrome/browser/metrics/subprocess_metrics_provider_unittest.cc
+components/metrics/file_metrics_provider_unittest.cc
+tools/metrics/histograms/histograms.xml 96559 96560 96561

@@ -1,0 +1,5 @@
+ash/ash.gyp
+ash/wm/user_activity_detector.cc 35 54
+ash/wm/user_activity_detector.h
+ash/wm/user_activity_detector_unittest.cc
+ash/wm/video_detector_unittest.cc

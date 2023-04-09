@@ -1,0 +1,3 @@
+third_party/WebKit/LayoutTests/inspector/elements/elements-panel-structure-expected.txt 3 17
+third_party/WebKit/LayoutTests/inspector/elements/elements-panel-structure.html 28
+third_party/WebKit/Source/devtools/front_end/ElementsTreeOutline.js

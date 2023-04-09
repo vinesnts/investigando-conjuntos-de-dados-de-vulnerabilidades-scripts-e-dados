@@ -1,0 +1,7 @@
+third_party/WebKit/Source/core/core.gypi
+third_party/WebKit/Source/core/html/forms/BaseButtonInputType.h
+third_party/WebKit/Source/core/html/forms/ChooserOnlyTemporalInputTypeView.h
+third_party/WebKit/Source/core/html/forms/ColorInputType.h
+third_party/WebKit/Source/core/html/forms/FileInputType.h
+third_party/WebKit/Source/core/html/forms/KeyboardClickableInputTypeView.cpp
+third_party/WebKit/Source/core/html/forms/KeyboardClickableInputTypeView.h

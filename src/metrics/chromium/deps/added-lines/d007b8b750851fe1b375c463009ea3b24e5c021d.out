@@ -1,0 +1,3 @@
+content/browser/indexed_db/cursor_impl.cc 99
+content/browser/indexed_db/indexed_db_cursor.cc 73 74
+content/browser/indexed_db/indexed_db_cursor.h

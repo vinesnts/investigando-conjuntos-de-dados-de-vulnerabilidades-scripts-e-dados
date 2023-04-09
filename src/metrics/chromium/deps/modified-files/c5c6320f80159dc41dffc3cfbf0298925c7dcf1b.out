@@ -1,0 +1,2 @@
+extensions/browser/api/bluetooth_socket/bluetooth_socket_api.cc
+extensions/browser/api/bluetooth_socket/bluetooth_socket_api.h

@@ -1,0 +1,3 @@
+third_party/WebKit/LayoutTests/external/wpt/html/syntax/parsing/html-integration-point.html
+third_party/WebKit/Source/core/html/parser/HTMLTreeBuilderSimulator.cpp
+third_party/WebKit/Source/core/html/parser/HTMLTreeBuilderSimulator.h

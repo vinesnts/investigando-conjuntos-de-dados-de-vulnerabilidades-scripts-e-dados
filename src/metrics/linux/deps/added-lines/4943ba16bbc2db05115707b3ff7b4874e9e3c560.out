@@ -1,0 +1,23 @@
+arch/x86/crypto/fpu.c 20 163 164
+crypto/algapi.c 512 513
+crypto/authenc.c 724
+crypto/authencesn.c 817
+crypto/cbc.c 292
+crypto/ccm.c 884
+crypto/chainiv.c 362
+crypto/cmac.c 316
+crypto/cryptd.c 958
+crypto/ctr.c 470
+crypto/cts.c 354
+crypto/ecb.c 188
+crypto/eseqiv.c 270
+crypto/gcm.c 1447
+crypto/hmac.c 271
+crypto/lrw.c 403
+crypto/mcryptd.c 706
+crypto/pcbc.c 298
+crypto/pcrypt.c 568
+crypto/seqiv.c 365
+crypto/vmac.c 716
+crypto/xcbc.c 289
+crypto/xts.c 365

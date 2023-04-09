@@ -1,0 +1,10 @@
+third_party/WebKit/LayoutTests/TestExpectations
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/fetch-canvas-tainting-image-cache.https.html
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/fetch-canvas-tainting-image.https.html
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/fetch-canvas-tainting-video-cache.https-expected.txt
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/fetch-canvas-tainting-video-cache.https.html
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/fetch-canvas-tainting-video.https-expected.txt
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/fetch-canvas-tainting-video.https.html
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/resources/fetch-access-control.py
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/resources/fetch-canvas-tainting-iframe.html
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/resources/fetch-canvas-tainting-tests.js

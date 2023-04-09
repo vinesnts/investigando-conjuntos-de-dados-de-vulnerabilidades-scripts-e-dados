@@ -1,0 +1,6 @@
+device/usb/usb_device.cc 33 34 35 36 37 38 39
+device/usb/usb_device.h 49 50 51 52 53
+device/usb/usb_device_impl.cc 148 149 150 151 152 153 154 155 156 157 158 159 160 161 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287
+device/usb/usb_device_impl.h 42 88
+extensions/browser/api/usb/usb_api.cc 495 496 497 498 525 526 527
+extensions/browser/api/usb/usb_api.h 82

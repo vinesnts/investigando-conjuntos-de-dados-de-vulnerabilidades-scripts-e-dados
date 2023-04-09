@@ -1,0 +1,13 @@
+chrome/browser/chromeos/tab_closeable_state_watcher.cc
+chrome/browser/chromeos/tab_closeable_state_watcher.h
+chrome/browser/tab_closeable_state_watcher.cc
+chrome/browser/tab_closeable_state_watcher.h
+chrome/browser/tabs/default_tab_handler.cc
+chrome/browser/tabs/default_tab_handler.h
+chrome/browser/tabs/tab_strip_model.cc
+chrome/browser/tabs/tab_strip_model.h
+chrome/browser/tabs/tab_strip_model_delegate.h
+chrome/browser/tabs/tab_strip_model_unittest.cc
+chrome/browser/ui/browser.cc
+chrome/browser/ui/browser.h
+chrome/browser/ui/cocoa/tabs/tab_strip_controller_unittest.mm

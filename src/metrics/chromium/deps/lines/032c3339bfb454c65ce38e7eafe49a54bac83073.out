@@ -1,0 +1,2 @@
+third_party/blink/renderer/core/svg/svg_element.cc 1037 1038 1039 1040
+third_party/blink/web_tests/svg/foreignObject/shadow-dom-v0-crash.html

@@ -1,0 +1,7 @@
+chrome/browser/chromeos/gdata/drive_api_parser.cc
+chrome/browser/chromeos/gdata/drive_api_parser.h
+chrome/browser/chromeos/gdata/drive_api_parser_unittest.cc
+chrome/chrome_browser.gypi
+chrome/chrome_tests.gypi
+chrome/test/data/chromeos/drive/about.json
+chrome/test/data/chromeos/drive/applist.json

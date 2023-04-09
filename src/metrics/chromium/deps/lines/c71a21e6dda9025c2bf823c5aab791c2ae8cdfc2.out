@@ -1,0 +1,3 @@
+third_party/WebKit/LayoutTests/fast/parser/scriptexec-during-parserInsertBefore-expected.txt
+third_party/WebKit/LayoutTests/fast/parser/scriptexec-during-parserInsertBefore.html
+third_party/WebKit/Source/core/dom/ContainerNode.cpp

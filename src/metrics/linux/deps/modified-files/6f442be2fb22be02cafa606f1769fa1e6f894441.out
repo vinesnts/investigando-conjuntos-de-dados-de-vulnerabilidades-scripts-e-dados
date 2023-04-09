@@ -1,0 +1,6 @@
+arch/x86/include/asm/page_32_types.h
+arch/x86/include/asm/page_64_types.h
+arch/x86/include/asm/traps.h
+arch/x86/kernel/dumpstack_64.c
+arch/x86/kernel/entry_64.S
+arch/x86/kernel/traps.c

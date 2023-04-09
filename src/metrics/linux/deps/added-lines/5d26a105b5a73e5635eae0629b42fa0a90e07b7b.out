@@ -1,0 +1,95 @@
+arch/arm/crypto/aes_glue.c 96 97
+arch/arm/crypto/sha1_glue.c 174
+arch/arm/crypto/sha1_neon_glue.c 197
+arch/arm/crypto/sha512_neon_glue.c 304 305
+arch/arm64/crypto/aes-ce-ccm-glue.c 297
+arch/arm64/crypto/aes-glue.c 41 42 43 44
+arch/powerpc/crypto/sha1.c 157
+arch/s390/crypto/aes_s390.c 982
+arch/s390/crypto/des_s390.c 622 623
+arch/s390/crypto/ghash_s390.c 163
+arch/s390/crypto/sha1_s390.c 106
+arch/s390/crypto/sha256_s390.c 146 147
+arch/s390/crypto/sha512_s390.c 89 129
+arch/sparc/crypto/aes_glue.c 502
+arch/sparc/crypto/camellia_glue.c 325
+arch/sparc/crypto/crc32c_glue.c 179
+arch/sparc/crypto/des_glue.c 535
+arch/sparc/crypto/md5_glue.c 188
+arch/sparc/crypto/sha1_glue.c 183
+arch/sparc/crypto/sha256_glue.c 240 241
+arch/sparc/crypto/sha512_glue.c 225 226
+arch/x86/crypto/aes_glue.c 69 70
+arch/x86/crypto/aesni-intel_glue.c 1549
+arch/x86/crypto/blowfish_glue.c 481 482
+arch/x86/crypto/camellia_aesni_avx2_glue.c 585 586
+arch/x86/crypto/camellia_aesni_avx_glue.c 577 578
+arch/x86/crypto/camellia_glue.c 1728 1729
+arch/x86/crypto/cast5_avx_glue.c 494
+arch/x86/crypto/cast6_avx_glue.c 614
+arch/x86/crypto/crc32-pclmul_glue.c 200 201
+arch/x86/crypto/crc32c-intel_glue.c 283 284
+arch/x86/crypto/crct10dif-pclmul_glue.c 150 151
+arch/x86/crypto/des3_ede_glue.c 505 506 507 508
+arch/x86/crypto/ghash-clmulni-intel_glue.c 344
+arch/x86/crypto/salsa20_glue.c 122 123
+arch/x86/crypto/serpent_avx2_glue.c 561 562
+arch/x86/crypto/serpent_avx_glue.c 620
+arch/x86/crypto/serpent_sse2_glue.c 621
+arch/x86/crypto/sha1_ssse3_glue.c 281
+arch/x86/crypto/sha256_ssse3_glue.c 321 322
+arch/x86/crypto/sha512_ssse3_glue.c 329 330
+arch/x86/crypto/twofish_avx_glue.c 582
+arch/x86/crypto/twofish_glue.c 99 100
+arch/x86/crypto/twofish_glue_3way.c 498 499
+crypto/842.c 183
+crypto/aes_generic.c 1477
+crypto/ansi_cprng.c 479
+crypto/anubis.c 707
+crypto/api.c 219 223
+crypto/arc4.c 169
+crypto/blowfish_generic.c 141
+crypto/camellia_generic.c 1101
+crypto/cast5_generic.c 552
+crypto/cast6_generic.c 294
+crypto/ccm.c 882 883
+crypto/crc32.c 159
+crypto/crc32c_generic.c 173
+crypto/crct10dif_generic.c 127
+crypto/crypto_null.c 148 149 150
+crypto/ctr.c 469
+crypto/deflate.c 225
+crypto/des_generic.c 986
+crypto/fcrypt.c 423
+crypto/gcm.c 1444 1445 1446
+crypto/ghash-generic.c 175
+crypto/khazad.c 883
+crypto/krng.c 65
+crypto/lz4.c 107
+crypto/lz4hc.c 107
+crypto/lzo.c 110
+crypto/md4.c 258
+crypto/md5.c 171
+crypto/michael_mic.c 187
+crypto/rmd128.c 330
+crypto/rmd160.c 374
+crypto/rmd256.c 349
+crypto/rmd320.c 398
+crypto/salsa20_generic.c 251
+crypto/seed.c 479
+crypto/serpent_generic.c 668 669
+crypto/sha1_generic.c 156
+crypto/sha256_generic.c 387 388
+crypto/sha512_generic.c 291 292
+crypto/tea.c 273 274
+crypto/tgr192.c 679 680
+crypto/twofish_generic.c 214
+crypto/wp512.c 1170 1171
+crypto/zlib.c 381
+drivers/crypto/padlock-aes.c 566
+drivers/crypto/padlock-sha.c 596 597 598 599
+drivers/crypto/qat/qat_common/adf_ctl_drv.c 55 491
+drivers/crypto/ux500/cryp/cryp_core.c 1815 1816
+drivers/crypto/ux500/hash/hash_core.c 2000 2001 2002 2003
+drivers/s390/crypto/ap_bus.c 47 75
+include/linux/crypto.h 28 29 30 31 32 33 34 35 36 37 38 39 40

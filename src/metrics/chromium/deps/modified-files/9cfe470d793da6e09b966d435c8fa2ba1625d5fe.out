@@ -1,0 +1,10 @@
+base/containers/span.h
+base/containers/span_unittest.cc
+base/containers/span_unittest.nc
+content/browser/webauth/virtual_authenticator.cc
+device/fido/cable/fido_cable_handshake_handler.cc
+device/fido/ctap_response_unittest.cc
+device/fido/device_response_converter.cc
+device/fido/make_credential_task_unittest.cc
+net/ntlm/ntlm.cc
+net/ntlm/ntlm_client.cc

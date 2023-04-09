@@ -1,0 +1,12 @@
+third_party/blink/renderer/platform/heap/BUILD.gn
+third_party/blink/renderer/platform/heap/gc_info.cc 7 12 13 14 16 17 23 24 25 33 36 39 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 62 63
+third_party/blink/renderer/platform/heap/gc_info.h 154 155 156 157 162 163 164 166 167 168 169 170 171 172 179 182 184 185 201 203
+third_party/blink/renderer/platform/heap/gc_info_test.cc
+third_party/blink/renderer/platform/heap/heap.cc 630 680 681 741
+third_party/blink/renderer/platform/heap/heap.h 372 373 374 375 376 377 378 379 380 722
+third_party/blink/renderer/platform/heap/heap_page.cc 101
+third_party/blink/renderer/platform/heap/incremental_marking_test.cc 37
+third_party/blink/renderer/platform/heap/marking_verifier.h 25
+third_party/blink/renderer/platform/heap/marking_visitor.cc 82
+third_party/blink/renderer/platform/heap/marking_visitor.h 217
+third_party/blink/renderer/platform/heap/process_heap.cc 32 33

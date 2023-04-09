@@ -1,0 +1,2 @@
+third_party/WebKit/LayoutTests/fast/dom/location-toprimitive.html
+third_party/WebKit/Source/bindings/templates/interface_base.cpp.tmpl

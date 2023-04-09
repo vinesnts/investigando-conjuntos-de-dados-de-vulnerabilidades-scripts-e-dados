@@ -1,0 +1,10 @@
+content/browser/renderer_host/resource_dispatcher_host_impl.cc 323 324 1520 1521 1522 1804 1805 1806 1807 1922 1923 1924
+content/browser/renderer_host/resource_dispatcher_host_impl.h 65 479 480 481 482 483 484
+content/browser/renderer_host/socket_stream_dispatcher_host.cc 24 25 114 115
+content/browser/renderer_host/socket_stream_dispatcher_host.h 32 33 34 84 85 86
+content/browser/ssl/ssl_cert_error_handler.cc 16
+content/browser/ssl/ssl_cert_error_handler.h 21
+content/browser/ssl/ssl_error_handler.cc 22
+content/browser/ssl/ssl_error_handler.h 109
+content/browser/ssl/ssl_manager.cc 39
+content/browser/ssl/ssl_manager.h 55

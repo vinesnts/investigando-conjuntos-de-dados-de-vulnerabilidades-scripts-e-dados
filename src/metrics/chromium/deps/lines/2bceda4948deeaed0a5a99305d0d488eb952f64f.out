@@ -1,0 +1,7 @@
+third_party/WebKit/Source/modules/bluetooth/BluetoothRemoteGATTCharacteristic.cpp 351 372 373 374 376
+third_party/WebKit/Source/modules/bluetooth/BluetoothRemoteGATTServer.cpp 190 191 192 193 195
+third_party/WebKit/Source/modules/bluetooth/BluetoothRemoteGATTService.cpp 149 150 151 152 154
+third_party/WebKit/Source/platform/mojo/BluetoothStructTraits.cpp
+third_party/WebKit/Source/platform/mojo/BluetoothStructTraits.h
+third_party/WebKit/public/platform/modules/bluetooth/Bluetooth.typemap 15
+third_party/WebKit/public/platform/modules/bluetooth/OWNERS

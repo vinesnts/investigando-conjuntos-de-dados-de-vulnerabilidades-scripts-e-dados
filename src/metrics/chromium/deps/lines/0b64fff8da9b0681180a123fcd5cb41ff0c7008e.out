@@ -1,0 +1,5 @@
+third_party/WebKit/LayoutTests/ChangeLog
+third_party/WebKit/LayoutTests/platform/qt-arm/Skipped
+third_party/WebKit/Tools/ChangeLog
+third_party/WebKit/Tools/Scripts/old-run-webkit-tests
+third_party/WebKit/Tools/Scripts/webkitdirs.pm

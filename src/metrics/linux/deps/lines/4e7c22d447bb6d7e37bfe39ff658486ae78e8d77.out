@@ -1,0 +1,2 @@
+arch/x86/mm/mmap.c 38 40 43
+fs/binfmt_elf.c 648 652

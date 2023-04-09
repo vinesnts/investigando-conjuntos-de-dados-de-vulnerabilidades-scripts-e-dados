@@ -1,0 +1,5 @@
+ash/wm/tablet_mode/tablet_mode_window_manager.cc
+ash/wm/tablet_mode/tablet_mode_window_manager.h
+ash/wm/tablet_mode/tablet_mode_window_manager_unittest.cc
+ash/wm/tablet_mode/tablet_mode_window_state.cc
+ash/wm/tablet_mode/tablet_mode_window_state.h

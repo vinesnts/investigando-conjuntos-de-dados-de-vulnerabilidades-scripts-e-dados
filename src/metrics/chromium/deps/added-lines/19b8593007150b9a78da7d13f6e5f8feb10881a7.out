@@ -1,0 +1,6 @@
+chrome/browser/metrics/chrome_metrics_service_client.cc 68 629 630 631 751 752 753 754 755 756 757 758 759
+components/metrics/BUILD.gn 18 19
+components/metrics/cpu_metrics_provider.cc 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28
+components/metrics/cpu_metrics_provider.h 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+components/metrics/metrics_log.cc
+components/metrics/metrics_log_unittest.cc 21 241 242

@@ -1,0 +1,3 @@
+ui/aura/gestures/gesture_recognizer_unittest.cc
+ui/events/gestures/gesture_provider_aura.cc 26
+ui/events/gestures/gesture_provider_aura.h

@@ -1,0 +1,13 @@
+third_party/WebKit/Source/core/inspector/InspectorBaseAgent.cpp
+third_party/WebKit/Source/core/inspector/InspectorBaseAgent.h
+third_party/WebKit/Source/core/inspector/InspectorController.cpp
+third_party/WebKit/Source/core/inspector/InspectorController.h
+third_party/WebKit/Source/core/inspector/InspectorInstrumentation.h
+third_party/WebKit/Source/core/inspector/InspectorPageAgent.cpp
+third_party/WebKit/Source/core/inspector/InspectorPageAgent.h
+third_party/WebKit/Source/devtools/protocol.json
+third_party/WebKit/Source/modules/device_orientation/DeviceOrientationController.cpp
+third_party/WebKit/Source/modules/device_orientation/DeviceOrientationInspectorAgent.cpp
+third_party/WebKit/Source/modules/device_orientation/DeviceOrientationInspectorAgent.h
+third_party/WebKit/Source/modules/geolocation/GeolocationInspectorAgent.cpp
+third_party/WebKit/Source/modules/modules.gypi

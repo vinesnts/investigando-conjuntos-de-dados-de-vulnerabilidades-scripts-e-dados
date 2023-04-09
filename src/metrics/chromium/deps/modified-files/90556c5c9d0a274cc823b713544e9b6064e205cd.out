@@ -1,0 +1,4 @@
+chrome/browser/chromeos/login/reset_browsertest.cc
+chrome/browser/ui/webui/chromeos/login/reset_screen_handler.cc
+chromeos/chromeos_switches.cc
+chromeos/chromeos_switches.h

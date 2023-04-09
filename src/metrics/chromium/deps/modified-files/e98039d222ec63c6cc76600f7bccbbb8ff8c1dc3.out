@@ -1,0 +1,3 @@
+DEPS
+third_party/libvpx/README.chromium
+third_party/libvpx/source/config/vpx_version.h

@@ -1,0 +1,4 @@
+chrome/app/chrome_dll.rc 249 250
+chrome/chrome_dll.gypi 63
+chrome/chrome_exe.gypi 440
+chrome/chrome_tests.gypi 691 2379 3162 3409 3522 3887 4011 4097

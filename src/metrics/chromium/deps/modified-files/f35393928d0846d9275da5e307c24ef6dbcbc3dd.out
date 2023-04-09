@@ -1,0 +1,11 @@
+webkit/data/layout_tests/platform/chromium-linux/LayoutTests/fast/backgrounds/bgCompositeCopy-expected.checksum
+webkit/data/layout_tests/platform/chromium-linux/LayoutTests/fast/backgrounds/bgCompositeCopy-expected.png
+webkit/data/layout_tests/platform/chromium-linux/LayoutTests/fast/canvas/canvas-composite-expected.checksum
+webkit/data/layout_tests/platform/chromium-linux/LayoutTests/fast/canvas/canvas-composite-expected.png
+webkit/data/layout_tests/platform/chromium-win/LayoutTests/fast/backgrounds/bgCompositeCopy-expected.checksum
+webkit/data/layout_tests/platform/chromium-win/LayoutTests/fast/backgrounds/bgCompositeCopy-expected.png
+webkit/data/layout_tests/platform/chromium-win/LayoutTests/fast/backgrounds/bgCompositeCopy-expected.txt
+webkit/data/layout_tests/platform/chromium-win/LayoutTests/fast/canvas/canvas-composite-expected.checksum
+webkit/data/layout_tests/platform/chromium-win/LayoutTests/fast/canvas/canvas-composite-expected.png
+webkit/data/layout_tests/platform/chromium-win/LayoutTests/fast/canvas/canvas-composite-expected.txt
+webkit/tools/layout_tests/test_expectations.txt

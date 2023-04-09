@@ -1,0 +1,3 @@
+block/scsi_ioctl.c
+drivers/scsi/sd.c 1281 1282
+include/linux/blkdev.h

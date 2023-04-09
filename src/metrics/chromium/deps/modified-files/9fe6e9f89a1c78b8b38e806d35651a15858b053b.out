@@ -1,0 +1,3 @@
+ui/gfx/ipc/skia/gfx_skia_param_traits.cc
+ui/gfx/ipc/skia/gfx_skia_param_traits.h
+ui/gfx/ipc/skia/gfx_skia_param_traits_macros.h

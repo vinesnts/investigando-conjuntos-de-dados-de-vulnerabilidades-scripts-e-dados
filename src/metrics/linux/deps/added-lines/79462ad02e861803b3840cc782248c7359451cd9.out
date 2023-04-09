@@ -1,0 +1,6 @@
+include/net/sock.h 406
+net/ax25/af_ax25.c 808 809 810
+net/decnet/af_decnet.c 681 682 683
+net/ipv4/af_inet.c 260 261 262
+net/ipv6/af_inet6.c 112 113 114
+net/irda/af_irda.c 1089 1090 1091

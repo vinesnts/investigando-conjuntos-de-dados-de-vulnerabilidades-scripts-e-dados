@@ -1,0 +1,224 @@
+net/base/chunked_upload_data_stream.cc 52
+net/base/elements_upload_data_stream_unittest.cc 167 192 229 272 307 346 351 542 585 586 630 631 672 673 730 731 778 779
+net/base/file_stream.cc 16 20
+net/base/network_activity_monitor_unittest.cc 99
+net/base/network_change_notifier_mac.cc 52 55
+net/base/network_interfaces_getifaddrs.cc 228
+net/base/network_throttle_manager_impl.cc 157 194
+net/cert/caching_cert_verifier_unittest.cc 54
+net/cert/cert_verifier.cc 84 85
+net/cert/cert_verify_proc_android_unittest.cc 69 75 81
+net/cert/internal/cert_error_params.cc 106 117 123 133
+net/cert/internal/cert_issuer_source_aia_unittest.cc 108 116
+net/cert/internal/path_builder.cc 490 616
+net/cert/internal/signature_algorithm.cc 685
+net/cert/internal/system_trust_store.cc 100 133 147
+net/cert/multi_threaded_cert_verifier.cc 360
+net/cert/test_root_certs_nss.cc 59
+net/cert_net/cert_net_fetcher_impl.cc 806
+net/cert_net/cert_net_fetcher_impl_unittest.cc 69 71 74
+net/cookies/canonical_cookie.cc 245
+net/cookies/canonical_cookie_unittest.cc 22 34 115 127 201 210 219 229 237 245 253 262 273 285 298 306 314
+net/cookies/cookie_monster.cc 637 714 1508
+net/cookies/cookie_monster_store_test.cc 137 162 249 257
+net/cookies/cookie_monster_unittest.cc 108 2777
+net/cookies/cookie_store_unittest.h 498 507 516 526 534 545 555 563 572
+net/disk_cache/backend_unittest.cc 70 657 2302 2322 2346 2379 2391 2398 3352 3368
+net/disk_cache/memory/mem_backend_impl.cc 65 258
+net/disk_cache/simple/simple_backend_impl.cc 283 286
+net/disk_cache/simple/simple_experiment_unittest.cc 28 29
+net/disk_cache/simple/simple_index_file.cc 485
+net/disk_cache/simple/simple_index_unittest.cc 128 129
+net/dns/dns_config_service.cc 66 68 73
+net/dns/dns_config_service_posix_unittest.cc 273
+net/dns/dns_session.cc 139
+net/dns/dns_transaction_unittest.cc 103 914 929 943 962
+net/dns/host_cache.cc 335
+net/dns/host_resolver_impl.cc 1989 2162
+net/dns/host_resolver_impl_unittest.cc 568
+net/dns/host_resolver_mojo.cc 97
+net/dns/mdns_client_impl.cc 354
+net/dns/mojo_host_resolver_impl_unittest.cc 145
+net/dns/mojo_host_struct_traits.cc 64
+net/extras/sqlite/sqlite_persistent_cookie_store.cc 826
+net/extras/sqlite/sqlite_persistent_cookie_store_unittest.cc 552
+net/ftp/ftp_network_layer.cc 28
+net/ftp/ftp_network_transaction.cc 264 350
+net/ftp/ftp_network_transaction_unittest.cc 784 785 819
+net/http/bidirectional_stream.cc 42 51 76
+net/http/bidirectional_stream_unittest.cc 91
+net/http/broken_alternative_services_unittest.cc 340 345 413 422 568 574
+net/http/http_auth_handler_factory.cc 89 92
+net/http/http_auth_handler_negotiate_unittest.cc 380
+net/http/http_basic_state_unittest.cc 29 47 55 66 78
+net/http/http_cache.cc 298 327 516 550 616 747 777
+net/http/http_cache_lookup_manager.cc 75
+net/http/http_cache_lookup_manager_unittest.cc 44 91 111 121 152 189 197 234 251 269
+net/http/http_cache_unittest.cc 756 817 864 1366 1434 1500 1586 1669 1768 1853 1953 2046 2101 2169 2230 2280 2331 2372 2429 2502 2567 2635 2685 2765 2845 2896 2944 3001 3047 3076 3192 3193 3201 3234 3280 3320 3324 3362 4367 4400 4421 4461 4501 4526 4533 4563 4875 4905 4942 4981 5012 5042 6599 6644 6689 6716 6870 7068 7098 7141 7183 7237 7291 7317 7344 7466 7475 7559 7594 7645 7704 8050 9320 9336 9575
+net/http/http_cache_writers_unittest.cc 121 143 166
+net/http/http_network_session.cc 314 319 324
+net/http/http_network_transaction_unittest.cc 132 371 867 890 1339 1907 1947 2053 2154 2176 2230 2252 2306 2328 2371 3059 3183 3536 3907 3909 3970 4023 4025 4089 4144 4146 4203 4241 4243 4249 4301 4341 4345 4355 4420 4515 4537 4615 4637 5372 5394 5472 6324 6516 6545 6766 8181 8239 8298 8308 8356 8408 8436 8495 9395 9456 9524 9579 9863 9910 9975 10982 10998 11166 11182 11234 11250 11253 11258 11334 11335 11336 11399 11417 11486 11509 12364 12419 12499 12787 13535 13620 13702 13830 13969 14568 14569 14588 14729 14747 14780 14810 14839 15240 15300 15329 15481 15767 15851 15873 15905 16014 16066 16107 16149 16188 16284 16383 16409 16453 16557 16606 16651 16691 16741 16753 16808 16852 16948 16974
+net/http/http_proxy_client_socket.cc 103
+net/http/http_proxy_client_socket_pool.cc 358
+net/http/http_proxy_client_socket_pool_unittest.cc 86 123
+net/http/http_request_headers.cc 194 196
+net/http/http_response_headers.cc 1269 1270
+net/http/http_server_properties_impl_unittest.cc 120 146 153 171 200 441 502 526 561 1151 1161 1185 1264 1271 1303
+net/http/http_server_properties_manager.cc 94 543 596 598 1069 1074 1120 1137 1150 1166 1178 1267 1273 1274 1349 1369 1379 1392 1397 1414
+net/http/http_server_properties_manager_unittest.cc 276 284 287 290 297 302 308 310 314 320 323 330 355 364 365 368 371 472 478 481 487 492 497 515 516 561 567 570 576 581 1063 1066 1070 1073 1075 1088 1093 1120 1513 1514 1524
+net/http/http_stream_factory_impl.cc 115 142
+net/http/http_stream_factory_impl_job.cc 132 148 1142 1153 1194 1474 1497 1519
+net/http/http_stream_factory_impl_job_controller.cc 55 134
+net/http/http_stream_factory_impl_job_controller_unittest.cc 207 234 323 358 418 456 578 607 630 654 681 684 714 739 741 770 775 813 818 839 861 940 946 983 993 1000 1026 1041 1044 1085 1087 1127 1132 1161 1172 1177 1229 1295 1351 1414 1438 1467 1522 1524 1572 1574 1621 1649 1686 1707 1780 1852 1887 1905 1951 1983 1986 2047 2052 2100
+net/http/http_stream_factory_impl_request_unittest.cc 31 44
+net/http/http_stream_factory_impl_unittest.cc 326 506 538 572 611 641 741 831 913 1039 1138 1153 1192 1215 1284 1302 1699 1962 2026 2047 2344 2408 2470
+net/http/http_stream_factory_test_util.cc 77 104 129
+net/http/http_stream_parser_unittest.cc 345 376 398 412 557
+net/http/mock_http_cache.cc 609 614
+net/http/transport_security_persister.cc 33
+net/http/transport_security_state.cc 104 110
+net/http/transport_security_state_unittest.cc 2881
+net/log/file_net_log_observer_unittest.cc 180 439 465 819 854
+net/log/net_log.cc 204 227
+net/log/net_log_unittest.cc 46
+net/log/net_log_util.cc 269 309 315 356 363 380 386 387 417 452 453
+net/nqe/event_creator_unittest.cc 41
+net/nqe/network_quality_estimator_test_util.cc 45 72 93
+net/nqe/network_quality_estimator_unittest.cc 663 779 1627 2228 2997 3109
+net/nqe/network_quality_estimator_util_unittest.cc 31 104 144
+net/nqe/socket_watcher_factory.cc 36
+net/nqe/throughput_analyzer_unittest.cc 49
+net/proxy/dhcp_proxy_script_fetcher_factory.cc 24 26
+net/proxy/mock_proxy_resolver.cc 113
+net/proxy/mojo_proxy_resolver_factory_impl.cc 61 78 103
+net/proxy/mojo_proxy_resolver_factory_impl_unittest.cc 102
+net/proxy/mojo_proxy_resolver_impl.cc 58 84 85 86
+net/proxy/proxy_bypass_rules.cc 54 76 115 200 206 290
+net/proxy/proxy_config.cc 265
+net/proxy/proxy_config_service_win.cc 100
+net/proxy/proxy_resolver_factory_mojo.cc 278
+net/proxy/proxy_resolver_factory_mojo_unittest.cc 279 285 422 429 447 453 534 542
+net/proxy/proxy_resolver_v8_tracing_unittest.cc 98
+net/proxy/proxy_script_fetcher_impl_unittest.cc 105 107 111 114 529
+net/proxy/proxy_service.cc 226 228 303 304 965 983 1017 1490 1492 1494 1519 1524
+net/proxy/proxy_service_mojo.cc 38
+net/proxy/proxy_service_mojo_unittest.cc 135 136 137 138 148
+net/proxy/proxy_service_unittest.cc 372 408 464 1079 1698 1739 1760 1773 1786 1800 1822 1838 1853 2622 2636 2713
+net/proxy/proxy_service_v8.cc 37
+net/proxy/test_mojo_proxy_resolver_factory.cc 28
+net/quic/chromium/bidirectional_stream_quic_impl_unittest.cc 77 167
+net/quic/chromium/crypto/channel_id_chromium.cc 209
+net/quic/chromium/crypto/proof_verifier_chromium.cc 560 587
+net/quic/chromium/crypto/proof_verifier_chromium_test.cc 154
+net/quic/chromium/crypto_test_utils_chromium.cc 105
+net/quic/chromium/quic_chromium_client_session.cc 298 337 641 646 647 648 779 780 1673 1808
+net/quic/chromium/quic_connection_logger.cc 112 118 131 135 194 195 205 206 252 253
+net/quic/chromium/quic_end_to_end_unittest.cc 214
+net/quic/chromium/quic_http_stream_test.cc 1104 1107 1175 1178 1250 1324 1393 1562 1594 1624 2132 2168
+net/quic/chromium/quic_network_transaction_unittest.cc 1920 2018 2120 2125 2292 2409 2522 2649 2762 2767 4803
+net/quic/chromium/quic_proxy_client_socket.cc 61
+net/quic/chromium/quic_stream_factory.cc 666 674 970 1535
+net/quic/chromium/quic_stream_factory_test.cc 513 552
+net/quic/chromium/quic_test_packet_maker.cc 312 395
+net/quic/core/crypto/crypto_server_config_protobuf.h 59
+net/quic/platform/impl/quic_ptr_util_impl.h 13
+net/reporting/reporting_browsing_data_remover_unittest.cc 69 72 89 92 109 112 129 132 149 152 173 176
+net/reporting/reporting_cache.cc 74 220 466
+net/reporting/reporting_cache_unittest.cc 86 120 122 138 169 433 441 461 475
+net/reporting/reporting_context.cc 40 41 52
+net/reporting/reporting_delegate.cc 59
+net/reporting/reporting_delivery_agent.cc 39 58 166 220
+net/reporting/reporting_delivery_agent_unittest.cc 101 135 165 208 211 235 243 273 281 312 315
+net/reporting/reporting_endpoint_manager.cc 81 110
+net/reporting/reporting_garbage_collector.cc 28 87
+net/reporting/reporting_garbage_collector_unittest.cc 45 57 66 76
+net/reporting/reporting_network_change_observer.cc 60
+net/reporting/reporting_network_change_observer_unittest.cc 62 83 104 125
+net/reporting/reporting_persister.cc 28 90 144 164 218 240 317
+net/reporting/reporting_service.cc 72 79
+net/reporting/reporting_service_unittest.cc 47
+net/reporting/reporting_test_util.cc 103 131 132 133 134 173
+net/reporting/reporting_uploader.cc 100 173
+net/reporting/reporting_uploader_unittest.cc 51 60 181 259 290
+net/sdch/sdch_owner.cc 128
+net/server/http_server.cc 163 248
+net/server/http_server_fuzzer.cc 99
+net/server/web_socket_encoder.cc 221 223 267 269
+net/socket/client_socket_pool_base.cc 696 709 713 725 735
+net/socket/client_socket_pool_manager_impl.cc 233 241 275 283 291 303 326
+net/socket/fuzzed_server_socket.cc 52
+net/socket/fuzzed_socket_factory.cc 142 163
+net/socket/socket_bio_adapter_unittest.cc 180 221 284 300 323 368 483 510 543 578 613 638
+net/socket/ssl_client_socket_pool.cc 729
+net/spdy/chromium/bidirectional_stream_spdy_impl_unittest.cc 71 137 156 260 307 360 362 407 459
+net/spdy/chromium/buffered_spdy_framer.cc 65 103 164 195 253 266 276 286 298 310
+net/spdy/chromium/header_coalescer.cc 25
+net/spdy/chromium/spdy_buffer.cc 33 35
+net/spdy/chromium/spdy_buffer_unittest.cc 37 124
+net/spdy/chromium/spdy_http_stream.cc 40 319
+net/spdy/chromium/spdy_http_stream_unittest.cc 149 201 264 273 548 643 727 787 840
+net/spdy/chromium/spdy_log_util.cc 29
+net/spdy/chromium/spdy_network_transaction_unittest.cc 113 136 226 305 307 326 329 351 354 376 378 381 384 398 592 596 1269 1271 1273 4241 4261 4301 4317 4347 4355 4388 4415 4447 4528 4536 5034 5035 5240 5246 5557 5596 5728 5790 5817 5958 6117 6281 6677 6685 6697 6711
+net/spdy/chromium/spdy_proxy_client_socket.cc 98
+net/spdy/chromium/spdy_proxy_client_socket_unittest.cc 185 209
+net/spdy/chromium/spdy_read_queue_unittest.cc 52 119
+net/spdy/chromium/spdy_session.cc 112 133 144 153 162 173 174 192 204 214 225 236 249 263 277 294 305 318 333 887 971 1072 1235 1241 1428 1641 1676 1778 1779 2147 2163 2317 2319 2474 2747 2814
+net/spdy/chromium/spdy_session_fuzzer.cc 87
+net/spdy/chromium/spdy_session_pool.cc 104 357 430 437
+net/spdy/chromium/spdy_session_pool_unittest.cc 56 876
+net/spdy/chromium/spdy_session_unittest.cc 158 291 649 1903 3349 3429 3508 5082 5600
+net/spdy/chromium/spdy_stream.cc 41 53 82 708 875
+net/spdy/chromium/spdy_test_util_common.cc 73 171 325 384 462 478 482 513 630 631
+net/spdy/chromium/spdy_write_queue_unittest.cc 36 38 39 40 41 55 72 73 74 103 104 105 293 320 341 362
+net/spdy/core/spdy_header_block.cc 334 335
+net/spdy/platform/impl/spdy_ptr_util_impl.h 17
+net/ssl/client_cert_identity_test_util.cc 51 55 77
+net/ssl/client_cert_identity_unittest.cc 31 41 49 57
+net/ssl/client_cert_store_mac.cc 311 314
+net/ssl/client_cert_store_mac_unittest.cc 40
+net/ssl/client_cert_store_nss.cc 196
+net/ssl/client_cert_store_win.cc 201
+net/ssl/default_channel_id_store_unittest.cc 106 151 156 191 194 237 239 241 257 259 261 321 326 400 402 404 406 427 429
+net/ssl/ssl_client_session_cache_unittest.cc 24
+net/ssl/ssl_platform_key_android.cc 216
+net/ssl/ssl_platform_key_mac.cc 360 373
+net/ssl/ssl_platform_key_nss.cc 172
+net/ssl/ssl_platform_key_win.cc 240 258
+net/ssl/test_ssl_private_key.cc 108
+net/test/embedded_test_server/default_handlers.cc 179 621 642
+net/test/embedded_test_server/embedded_test_server.cc 395
+net/test/embedded_test_server/request_handler_util.cc 203
+net/test/net_test_suite.cc 71
+net/test/spawned_test_server/base_test_server.cc 91 93 95 98 497 501 506 526 553 557 586 593 601 604 621 624 627
+net/test/spawned_test_server/remote_test_server.cc 85
+net/test/url_request/url_request_hanging_read_job.cc 100 102
+net/test/url_request/url_request_mock_data_job.cc 180 182
+net/tools/cert_verify_tool/verify_using_path_builder.cc 154
+net/tools/get_server_time/get_server_time.cc 151
+net/tools/transport_security_state_generator/huffman/huffman_builder.cc 127 140
+net/url_request/report_sender.cc 62
+net/url_request/url_fetcher_impl_unittest.cc 194 533
+net/url_request/url_request_context_builder.cc 400 465 503 510 515 547 557 611
+net/url_request/url_request_context_builder_mojo.cc 38
+net/url_request/url_request_context_builder_mojo_unittest.cc 38 62 88
+net/url_request/url_request_context_builder_unittest.cc 67 123
+net/url_request/url_request_context_unittest.cc 36
+net/url_request/url_request_data_job_fuzzer.cc 35
+net/url_request/url_request_ftp_fuzzer.cc 43 73
+net/url_request/url_request_ftp_job.cc 375
+net/url_request/url_request_ftp_job_unittest.cc 90 258 272
+net/url_request/url_request_http_job_unittest.cc 148 173 200 254 876 890 905 920 930 1011 1113 1370
+net/url_request/url_request_job.cc 692
+net/url_request/url_request_quic_perftest.cc 96 163
+net/url_request/url_request_simple_job_unittest.cc 115
+net/url_request/url_request_test_job.cc 141
+net/url_request/url_request_test_util.cc 82 86 105 111 138 139 145 150
+net/url_request/url_request_unittest.cc 816 6096 6137 10246
+net/url_request/view_cache_helper_unittest.cc 39
+net/websockets/websocket_channel_test.cc 488 498 503 950 1218 1389 1400
+net/websockets/websocket_deflate_predictor_impl_test.cc 23
+net/websockets/websocket_deflate_stream_fuzzer.cc 75 118 119
+net/websockets/websocket_handshake_stream_create_helper.cc 39
+net/websockets/websocket_stream.cc 444
+net/websockets/websocket_stream_cookie_test.cc 125 160
+net/websockets/websocket_stream_test.cc 1055

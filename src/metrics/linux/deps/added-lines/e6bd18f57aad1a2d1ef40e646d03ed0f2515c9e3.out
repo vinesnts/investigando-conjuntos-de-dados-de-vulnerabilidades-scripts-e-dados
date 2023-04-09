@@ -1,0 +1,7 @@
+drivers/infiniband/core/ucm.c 51 1107 1108 1109
+drivers/infiniband/core/ucma.c 1577 1578 1579
+drivers/infiniband/core/uverbs_main.c 51 52 714 715 716
+drivers/infiniband/hw/qib/qib_file_ops.c 48 49 2072 2073 2074
+drivers/staging/rdma/hfi1/TODO 6
+drivers/staging/rdma/hfi1/file_ops.c 52 53 195 196 197 198
+include/rdma/ib.h 37 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104

@@ -1,0 +1,4 @@
+fs/binfmt_misc.c
+fs/binfmt_script.c
+fs/exec.c
+include/linux/binfmts.h

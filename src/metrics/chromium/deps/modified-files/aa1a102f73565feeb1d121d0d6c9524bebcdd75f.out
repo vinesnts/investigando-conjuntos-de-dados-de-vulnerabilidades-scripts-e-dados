@@ -1,0 +1,8 @@
+third_party/WebKit/LayoutTests/http/tests/xmlhttprequest/connection-error-sync.html
+third_party/WebKit/LayoutTests/http/tests/xmlhttprequest/cross-site-denied-response-sync-2.html
+third_party/WebKit/LayoutTests/http/tests/xmlhttprequest/onloadend-event-after-sync-requests-expected.txt
+third_party/WebKit/LayoutTests/http/tests/xmlhttprequest/onloadend-event-after-sync-requests.html
+third_party/WebKit/LayoutTests/http/tests/xmlhttprequest/xmlhttprequest-sync-no-progress-events-expected.txt
+third_party/WebKit/LayoutTests/http/tests/xmlhttprequest/xmlhttprequest-unsafe-redirect-expected.txt
+third_party/WebKit/Source/core/xml/XMLHttpRequest.cpp
+third_party/WebKit/Source/core/xml/XMLHttpRequest.h

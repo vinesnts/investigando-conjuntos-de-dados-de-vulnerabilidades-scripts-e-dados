@@ -1,0 +1,2 @@
+chrome/browser/ui/cocoa/browser_window_controller.h
+chrome/browser/ui/cocoa/browser_window_controller_private.mm

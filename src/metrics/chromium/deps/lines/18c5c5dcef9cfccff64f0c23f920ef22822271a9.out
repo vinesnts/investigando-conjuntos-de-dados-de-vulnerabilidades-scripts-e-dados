@@ -1,0 +1,17 @@
+chrome/browser/chrome_content_browser_client.cc 3941 3943
+chrome/browser/chrome_content_browser_client.h 410 412 413
+chrome/browser/chrome_content_browser_client_unittest.cc 106 107
+content/browser/service_worker/service_worker_client_utils.cc 211 212 213 214 215 216 217 218 230 232 240 263 264 265 268 269 272 273 274 478
+content/browser/service_worker/service_worker_client_utils.h
+content/browser/service_worker/service_worker_clients_api_browsertest.cc
+content/browser/service_worker/service_worker_context_wrapper.h
+content/browser/service_worker/service_worker_process_manager.cc
+content/browser/service_worker/service_worker_process_manager.h
+content/browser/service_worker/service_worker_version.cc 1391
+content/public/browser/content_browser_client.cc 600 603
+content/public/browser/content_browser_client.h 384 1036 1038
+content/shell/browser/shell_content_browser_client.cc 380 383 384 385 386
+content/shell/browser/shell_content_browser_client.h 77
+content/test/BUILD.gn 14
+content/test/data/service_worker/client_api_worker.js
+content/test/data/service_worker/create_service_worker.html

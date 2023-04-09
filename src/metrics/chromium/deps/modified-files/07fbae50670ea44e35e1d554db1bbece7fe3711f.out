@@ -1,0 +1,4 @@
+content/browser/frame_host/navigation_request.cc
+third_party/WebKit/LayoutTests/http/tests/cookies/resources/frame.php
+third_party/WebKit/LayoutTests/http/tests/cookies/resources/post-cookies-to-top.php
+third_party/WebKit/LayoutTests/http/tests/cookies/same-site/framed.html

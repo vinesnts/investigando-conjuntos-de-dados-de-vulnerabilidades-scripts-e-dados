@@ -1,0 +1,4 @@
+chrome/test/data/webui/webui_resource_browsertest.cc
+ui/webui/resources/js/BUILD.gn
+ui/webui/resources/js/cr/ui/BUILD.gn
+ui/webui/resources/webui_resources.grd

@@ -1,0 +1,9 @@
+chrome/browser/devtools/devtools_window.cc 208 209 210 211 908
+chrome/browser/ui/webui/devtools_ui.cc 254 255
+chrome/browser/ui/webui/devtools_ui.h 13 14 24
+chrome/browser/ui/webui/devtools_ui_unittest.cc
+chrome/test/BUILD.gn
+content/renderer/devtools/devtools_client.cc
+third_party/WebKit/Source/devtools/front_end/Runtime.js 1104 1105 1106 1107 1108 1109 1110 1111 1112 1113 1114
+third_party/WebKit/Source/devtools/front_end/devtools.js 995 996 997 998 999 1000 1001 1002 1003 1004 1005 1006 1007 1008 1009 1010 1011 1012 1013 1014 1015 1016 1017 1018 1097 1098 1173 1179 1180
+third_party/WebKit/Source/devtools/front_end/screencast/ScreencastView.js 711 712

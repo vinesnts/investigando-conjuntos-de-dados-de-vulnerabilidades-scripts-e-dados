@@ -1,0 +1,3 @@
+third_party/WebKit/LayoutTests/svg/as-image/zero-size-buffered-image-nopaint-expected.html
+third_party/WebKit/LayoutTests/svg/as-image/zero-size-buffered-image-nopaint.html
+third_party/WebKit/Source/core/rendering/svg/RenderSVGImage.cpp 142 146

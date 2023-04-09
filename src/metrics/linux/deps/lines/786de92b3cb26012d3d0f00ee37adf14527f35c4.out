@@ -1,0 +1,2 @@
+drivers/usb/storage/uas-detect.h 12 20 23 61 62 65 68
+drivers/usb/storage/uas.c 876 879 880 882 883

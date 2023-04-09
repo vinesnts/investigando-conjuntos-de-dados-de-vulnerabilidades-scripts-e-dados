@@ -1,0 +1,3 @@
+content/browser/renderer_host/render_widget_host_impl.cc
+content/browser/renderer_host/render_widget_host_impl.h
+content/browser/web_contents/web_contents_impl.cc

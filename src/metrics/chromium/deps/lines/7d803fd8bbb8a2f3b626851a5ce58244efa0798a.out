@@ -1,0 +1,3 @@
+third_party/WebKit/LayoutTests/external/wpt/content-security-policy/script-src/javascript-window-open-blocked.html
+third_party/WebKit/LayoutTests/external/wpt/content-security-policy/script-src/javascript-window-open-blocked.html.sub.headers
+third_party/WebKit/Source/core/page/CreateWindow.cpp

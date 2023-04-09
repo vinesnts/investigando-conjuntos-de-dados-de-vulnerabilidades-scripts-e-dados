@@ -1,0 +1,4 @@
+third_party/WebKit/LayoutTests/svg/custom/draw-image-crash-expected.txt
+third_party/WebKit/LayoutTests/svg/custom/draw-image-crash.html
+third_party/WebKit/LayoutTests/svg/custom/resources/draw-image-crash.svg
+third_party/WebKit/Source/core/svg/graphics/SVGImage.cpp

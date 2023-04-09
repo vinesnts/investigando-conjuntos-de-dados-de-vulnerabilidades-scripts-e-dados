@@ -1,0 +1,10 @@
+content/browser/frame_host/render_frame_host_impl.cc 1834 1835 1839 1840 1841 1842 1843 1844 1845 1846 1847 1848 1849 1850 1851 1852 1853 1854 1857 1858 1860 1862 1871
+content/browser/frame_host/render_frame_host_impl.h 1205 1206 1207 1208 1209
+content/browser/service_worker/service_worker_context_core.cc 789
+content/common/frame.mojom 24 477 478 479 480 481 482 483 484
+content/common/frame_messages.h
+content/renderer/render_frame_impl.cc 4548 4549 4550
+content/renderer/render_view_browsertest.cc 7 21 2498 2500 2501 2502 2503 2504 2505 2506 2507 2508 2509 2510 2511 2512 2513 2514 2515 2519 2520
+content/test/test_render_frame.cc 50 51 52 53 54 164 165 166 167 168 169 170 171 172 185 186 187 349 350 351 352 353
+content/test/test_render_frame.h 71 72 73 74 75
+third_party/blink/renderer/core/frame/navigation_rate_limiter.cc 47

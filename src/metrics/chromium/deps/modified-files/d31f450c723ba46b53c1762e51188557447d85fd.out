@@ -1,0 +1,6 @@
+third_party/WebKit/Source/WebKit2/ChangeLog
+third_party/WebKit/Source/WebKit2/Shared/ShareableBitmap.h
+third_party/WebKit/Source/WebKit2/WebProcess/WebPage/CoordinatedGraphics/LayerTreeCoordinator.cpp
+third_party/WebKit/Source/WebKit2/WebProcess/WebPage/CoordinatedGraphics/LayerTreeCoordinator.h
+third_party/WebKit/Source/WebKit2/WebProcess/WebPage/UpdateAtlas.cpp
+third_party/WebKit/Source/WebKit2/WebProcess/WebPage/UpdateAtlas.h

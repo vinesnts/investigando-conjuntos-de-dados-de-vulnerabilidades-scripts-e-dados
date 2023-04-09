@@ -1,0 +1,5 @@
+drivers/infiniband/core/uverbs_main.c
+fs/proc/task_mmu.c
+fs/userfaultfd.c
+include/linux/sched/mm.h
+mm/mmap.c

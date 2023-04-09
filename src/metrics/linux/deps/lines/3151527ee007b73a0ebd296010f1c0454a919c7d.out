@@ -1,0 +1,3 @@
+fs/namespace.c
+include/linux/fs_struct.h
+kernel/user_namespace.c

@@ -1,0 +1,9 @@
+chrome/browser/ui/browser.cc
+chrome/browser/ui/browser_navigator.cc 467 468 469 470 471 472 473
+chrome/browser/ui/browser_window.h 62 326 327 328 329
+chrome/browser/ui/cocoa/browser_window_cocoa.h 136 137
+chrome/browser/ui/cocoa/browser_window_cocoa.mm 639 640 641 642 643 644 645 646
+chrome/browser/ui/views/frame/browser_view.cc 1501 1502 1503 1504 1505
+chrome/browser/ui/views/frame/browser_view.h 378 379
+chrome/test/base/test_browser_window.cc 183 184 185 186 187
+chrome/test/base/test_browser_window.h 138 139

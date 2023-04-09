@@ -1,0 +1,10 @@
+third_party/WebKit/Source/WebCore/ChangeLog
+third_party/WebKit/Source/WebCore/platform/blackberry/PlatformTouchPointBlackBerry.cpp 32 33 34 36
+third_party/WebKit/Source/WebKit/blackberry/Api/WebPage.cpp 4061 4062 4063 4064 4065 4135 4136 4137 4138 4168 4169 4170 4171 4172 4173 4174 4196 4210 4211
+third_party/WebKit/Source/WebKit/blackberry/ChangeLog
+third_party/WebKit/Source/WebKit/blackberry/WebKitSupport/InputHandler.cpp 710 729
+third_party/WebKit/Source/WebKit/blackberry/WebKitSupport/InputHandler.h 146
+third_party/WebKit/Source/WebKit/blackberry/WebKitSupport/TouchEventHandler.cpp 69 71 73 75 90 99 113 155 156
+third_party/WebKit/Source/WebKit/blackberry/WebKitSupport/TouchEventHandler.h 38 39
+third_party/WebKit/Tools/ChangeLog
+third_party/WebKit/Tools/DumpRenderTree/blackberry/EventSender.cpp 224 225 227 228 229 253 254 255 291 323 337 338

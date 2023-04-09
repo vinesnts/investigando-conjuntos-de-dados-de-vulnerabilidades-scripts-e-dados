@@ -1,0 +1,14 @@
+include/linux/key.h 179 180 181 182 183 184 185 186 187 188 189 190 216 357 363 365 366
+net/dns_resolver/dns_key.c 227
+security/keys/big_key.c 250 282
+security/keys/encrypted-keys/encrypted.c 857
+security/keys/gc.c 138 139 140 154
+security/keys/key.c 427 434 580 583 584 585 586 755 756 989 990
+security/keys/keyctl.c 769 770 771 772 904
+security/keys/keyring.c 417 556 600 601 602
+security/keys/proc.c 244 249
+security/keys/process_keys.c 733
+security/keys/request_key.c 598 599 600 601
+security/keys/request_key_auth.c 76
+security/keys/trusted.c 1069
+security/keys/user_defined.c 117 165

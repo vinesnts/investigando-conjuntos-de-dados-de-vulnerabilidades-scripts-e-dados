@@ -1,0 +1,3 @@
+third_party/WebKit/Source/web/WebPageSerializerImpl.cpp
+third_party/WebKit/Source/web/tests/WebPageSerializerTest.cpp
+third_party/WebKit/Source/web/tests/data/pageserialization/url_attribute_values.html

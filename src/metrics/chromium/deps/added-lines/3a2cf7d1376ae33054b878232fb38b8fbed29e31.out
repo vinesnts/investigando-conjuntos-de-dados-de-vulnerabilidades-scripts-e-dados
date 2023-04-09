@@ -1,0 +1,7 @@
+content/renderer/pepper/pepper_device_enumeration_host_helper.cc 49 58 95
+content/renderer/pepper/pepper_device_enumeration_host_helper.h 13 62 97
+content/renderer/pepper/pepper_device_enumeration_host_helper_unittest.cc 10 28 29 81
+content/renderer/pepper/pepper_media_device_manager.cc 28 29 35
+content/renderer/pepper/pepper_media_device_manager.h 26 27
+content/renderer/pepper/pepper_platform_audio_input.cc 292
+content/renderer/pepper/pepper_platform_video_capture.cc 155

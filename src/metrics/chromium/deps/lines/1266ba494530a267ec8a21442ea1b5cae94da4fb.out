@@ -1,0 +1,9 @@
+chrome/browser/ui/window_snapshot/window_snapshot_aura.cc
+ui/aura/root_window.cc
+ui/aura/root_window.h
+ui/aura/root_window_host.h
+ui/aura/root_window_host_linux.cc
+ui/aura/root_window_host_linux.h
+ui/aura/root_window_host_mac.mm
+ui/aura/root_window_host_win.cc
+ui/aura/root_window_host_win.h

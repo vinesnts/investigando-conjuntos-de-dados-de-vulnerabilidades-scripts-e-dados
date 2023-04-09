@@ -1,0 +1,3 @@
+third_party/WebKit/LayoutTests/fast/forms/ua-shadow-select-all-crash-expected.txt
+third_party/WebKit/LayoutTests/fast/forms/ua-shadow-select-all-crash.html
+third_party/WebKit/Source/core/editing/VisibleSelection.cpp

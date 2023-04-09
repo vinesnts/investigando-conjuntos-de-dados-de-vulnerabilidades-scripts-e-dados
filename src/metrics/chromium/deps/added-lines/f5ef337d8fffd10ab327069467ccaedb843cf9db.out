@@ -1,0 +1,3 @@
+content/renderer/media_recorder/media_recorder_handler.cc 136 140
+third_party/WebKit/LayoutTests/fast/mediarecorder/MediaRecorder-detached-context.html 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+third_party/blink/renderer/modules/mediarecorder/media_recorder.cc 178 179 180 181 182 184

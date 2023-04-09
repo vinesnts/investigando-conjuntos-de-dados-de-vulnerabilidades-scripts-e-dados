@@ -1,0 +1,15 @@
+third_party/WebKit/LayoutTests/external/wpt/content-security-policy/sandbox/sandbox-allow-scripts.sub.html
+third_party/WebKit/LayoutTests/external/wpt/content-security-policy/sandbox/support/sandboxed-post-message-to-parent.html
+third_party/WebKit/LayoutTests/external/wpt/content-security-policy/sandbox/support/sandboxed-post-property-to-opener.html
+third_party/WebKit/LayoutTests/external/wpt/content-security-policy/sandbox/support/sandboxed-post-property-to-opener.html.sub.headers
+third_party/WebKit/LayoutTests/external/wpt/content-security-policy/sandbox/support/unsandboxed-post-property-to-opener.html
+third_party/WebKit/LayoutTests/external/wpt/content-security-policy/sandbox/window-reuse-sandboxed.html
+third_party/WebKit/LayoutTests/external/wpt/content-security-policy/sandbox/window-reuse-unsandboxed.html
+third_party/blink/renderer/core/dom/document.cc
+third_party/blink/renderer/core/execution_context/security_context.h
+third_party/blink/renderer/core/frame/csp/content_security_policy.h
+third_party/blink/renderer/core/frame/local_frame.cc
+third_party/blink/renderer/core/frame/local_frame.h
+third_party/blink/renderer/core/loader/document_loader.cc
+third_party/blink/renderer/core/loader/document_loader.h
+third_party/blink/renderer/core/loader/frame_loader.cc

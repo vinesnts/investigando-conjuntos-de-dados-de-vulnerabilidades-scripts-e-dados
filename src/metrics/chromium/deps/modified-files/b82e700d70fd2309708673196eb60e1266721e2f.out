@@ -1,0 +1,6 @@
+third_party/WebKit/LayoutTests/ChangeLog
+third_party/WebKit/LayoutTests/fast/dom/HTMLTemplateElement/inertContents-expected.txt
+third_party/WebKit/LayoutTests/fast/dom/HTMLTemplateElement/inertContents.html
+third_party/WebKit/Source/WebCore/ChangeLog
+third_party/WebKit/Source/WebCore/html/parser/HTMLPreloadScanner.cpp
+third_party/WebKit/Source/WebCore/html/parser/HTMLPreloadScanner.h

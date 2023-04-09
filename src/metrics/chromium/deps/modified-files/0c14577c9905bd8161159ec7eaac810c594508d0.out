@@ -1,0 +1,2 @@
+chrome/browser/ui/cocoa/toolbar/toolbar_controller.mm
+chrome/browser/ui/views/omnibox/omnibox_view_win.cc

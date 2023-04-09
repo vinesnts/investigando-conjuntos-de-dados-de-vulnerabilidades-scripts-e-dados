@@ -1,0 +1,3 @@
+include/net/net_namespace.h
+include/net/netns/hash.h
+net/core/net_namespace.c

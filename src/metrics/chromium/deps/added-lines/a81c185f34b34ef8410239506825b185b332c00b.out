@@ -1,0 +1,12 @@
+components/captive_portal/BUILD.gn 18
+components/captive_portal/DEPS 2
+components/captive_portal/captive_portal_detector.cc 9 41 42 43
+components/data_use_measurement/core/data_use_user_data.cc 115 116 117 118 119 120
+components/data_use_measurement/core/data_use_user_data.h 59 60 61
+components/signin/core/browser/BUILD.gn 86
+components/signin/core/browser/DEPS 2
+components/signin/core/browser/gaia_cookie_manager_service.cc 18 219 220
+components/web_resource/BUILD.gn 19
+components/web_resource/DEPS 2
+components/web_resource/web_resource_service.cc 17 133 134 135
+tools/metrics/histograms/histograms.xml 83366 83367 83368

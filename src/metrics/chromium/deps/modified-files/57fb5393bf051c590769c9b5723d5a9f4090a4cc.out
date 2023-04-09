@@ -1,0 +1,3 @@
+chrome/browser/chromeos/drive/drive_file_stream_reader.cc
+chrome/browser/chromeos/drive/drive_file_stream_reader.h
+chrome/browser/chromeos/drive/drive_file_stream_reader_unittest.cc

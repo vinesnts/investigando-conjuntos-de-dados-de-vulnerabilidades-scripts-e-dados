@@ -1,0 +1,10 @@
+third_party/WebKit/LayoutTests/external/wpt/html/semantics/scripting-1/the-script-element/cacheable-script-throw.py
+third_party/WebKit/LayoutTests/external/wpt/html/semantics/scripting-1/the-script-element/muted-errors-iframe.html
+third_party/WebKit/LayoutTests/external/wpt/html/semantics/scripting-1/the-script-element/muted-errors.sub.html
+third_party/WebKit/Source/core/loader/modulescript/DocumentModuleScriptFetcher.cpp 95
+third_party/WebKit/Source/core/loader/resource/ImageResource.cpp 668 669 675
+third_party/WebKit/Source/core/loader/resource/ScriptResource.cpp 91 92 93 95
+third_party/WebKit/Source/core/loader/resource/ScriptResource.h 71
+third_party/WebKit/Source/core/script/ClassicPendingScript.cpp 252 253
+third_party/WebKit/Source/platform/loader/fetch/Resource.cpp
+third_party/WebKit/Source/platform/loader/fetch/Resource.h

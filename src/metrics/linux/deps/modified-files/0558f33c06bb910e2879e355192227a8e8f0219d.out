@@ -1,0 +1,7 @@
+drivers/scsi/libsas/sas_ata.c
+drivers/scsi/libsas/sas_discover.c
+drivers/scsi/libsas/sas_expander.c
+drivers/scsi/libsas/sas_internal.h
+drivers/scsi/libsas/sas_port.c
+include/scsi/libsas.h
+include/scsi/scsi_transport_sas.h

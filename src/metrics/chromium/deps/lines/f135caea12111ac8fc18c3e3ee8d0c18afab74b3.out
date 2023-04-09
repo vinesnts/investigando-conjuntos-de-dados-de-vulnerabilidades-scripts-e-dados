@@ -1,0 +1,16 @@
+third_party/WebKit/Source/core/core.gypi 3052 3053
+third_party/WebKit/Source/core/platform/ScrollbarThemeWin.cpp 36
+third_party/WebKit/Source/core/platform/graphics/chromium/FontCacheChromiumWin.cpp 40
+third_party/WebKit/Source/core/platform/graphics/chromium/FontPlatformDataChromiumWin.cpp 42
+third_party/WebKit/Source/core/platform/graphics/chromium/FontUtilsChromiumWin.cpp 39
+third_party/WebKit/Source/core/platform/graphics/chromium/GlyphPageTreeNodeChromiumWin.cpp 40 41
+third_party/WebKit/Source/core/platform/graphics/chromium/SimpleFontDataChromiumWin.cpp 43
+third_party/WebKit/Source/core/platform/graphics/chromium/UniscribeHelper.cpp 39
+third_party/WebKit/Source/core/platform/graphics/skia/SimpleFontDataSkia.cpp 45
+third_party/WebKit/Source/core/rendering/RenderThemeChromiumFontProviderWin.cpp 33 34
+third_party/WebKit/Source/core/rendering/RenderThemeChromiumWin.cpp 41
+third_party/WebKit/Source/platform/blink_platform.gyp
+third_party/WebKit/Source/platform/blink_platform.gypi
+third_party/WebKit/Source/platform/win/HWndDC.h
+third_party/WebKit/Source/platform/win/SystemInfo.cpp
+third_party/WebKit/Source/platform/win/SystemInfo.h

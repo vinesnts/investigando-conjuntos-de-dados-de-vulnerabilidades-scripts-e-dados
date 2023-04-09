@@ -1,0 +1,16 @@
+remoting/host/chromoting_host.cc
+remoting/host/chromoting_host.h
+remoting/host/chromoting_host_unittest.cc
+remoting/host/client_session.cc
+remoting/host/client_session.h
+remoting/host/client_session_unittest.cc
+remoting/host/host_status_observer.h
+remoting/host/plugin/host_script_object.cc
+remoting/host/screen_recorder.cc
+remoting/host/screen_recorder.h
+remoting/host/screen_recorder_unittest.cc
+remoting/protocol/connection_to_client.cc
+remoting/protocol/connection_to_client.h
+remoting/protocol/connection_to_client_unittest.cc
+remoting/protocol/jingle_session_manager.cc
+remoting/protocol/session.h

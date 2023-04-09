@@ -1,0 +1,4 @@
+chrome/browser/component_updater/sw_reporter_installer_win.cc 237
+chrome/browser/metrics/chrome_metrics_service_accessor.h
+chrome/browser/safe_browsing/srt_field_trial_win.cc 9 23 24 25 39 40 44 45 46 47 48 49 50 51 52 56 57 59
+chrome/browser/safe_browsing/srt_field_trial_win.h 57 58 59 60

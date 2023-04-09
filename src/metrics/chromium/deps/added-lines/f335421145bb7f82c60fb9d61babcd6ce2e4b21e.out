@@ -1,0 +1,5 @@
+chrome/browser/extensions/extension_function_dispatcher.cc 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 369 370 371 372 373 374 375 376 377 378 379 380 381 382
+chrome/common/extensions/extension.cc 714
+chrome/common/extensions/permissions/permission_set.cc 254 364 369 370 371 372 373 387 388 389 390 391
+chrome/common/extensions/permissions/permission_set.h 107 108 109 110 111
+chrome/common/extensions/permissions/permission_set_unittest.cc 801

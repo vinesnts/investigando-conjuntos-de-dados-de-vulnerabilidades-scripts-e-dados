@@ -1,0 +1,2 @@
+testing/buildbot/filters/isolate-extensions.browser_tests.filter
+testing/buildbot/filters/site-per-process.browser_tests.filter

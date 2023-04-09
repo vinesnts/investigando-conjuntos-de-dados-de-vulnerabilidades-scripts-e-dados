@@ -1,0 +1,4 @@
+drivers/usb/core/hub.c 2254
+drivers/usb/core/usb.c 835 842 851
+drivers/usb/host/hwa-hc.c 643
+include/linux/usb.h 410 414

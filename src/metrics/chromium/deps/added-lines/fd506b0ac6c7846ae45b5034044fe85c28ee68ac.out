@@ -1,0 +1,5 @@
+third_party/WebKit/LayoutTests/fast/loader/document-open-iframe-then-detach-expected.txt 1
+third_party/WebKit/LayoutTests/fast/loader/document-open-iframe-then-detach.html 1 2 3 4 5 6 7 8 9 10 11
+third_party/WebKit/Source/core/loader/DocumentLoader.cpp 776 780 781 782 783 784
+third_party/WebKit/Source/core/loader/DocumentLoader.h 175
+third_party/WebKit/Source/core/loader/FrameLoader.cpp 991 1001 1005

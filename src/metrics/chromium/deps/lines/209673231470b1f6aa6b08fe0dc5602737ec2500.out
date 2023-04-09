@@ -1,0 +1,2 @@
+chrome/renderer/safe_browsing/phishing_classifier.h 6 7
+chrome/renderer/safe_browsing/phishing_term_feature_extractor.h 14 15 16 17

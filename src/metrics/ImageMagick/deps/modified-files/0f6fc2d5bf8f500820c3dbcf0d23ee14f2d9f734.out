@@ -1,0 +1,9 @@
+MagickCore/memory.c
+MagickCore/studio.h
+MagickCore/version.c
+MagickCore/version.h
+MagickWand/studio.h
+coders/icon.c
+coders/pict.c
+configure
+configure.ac

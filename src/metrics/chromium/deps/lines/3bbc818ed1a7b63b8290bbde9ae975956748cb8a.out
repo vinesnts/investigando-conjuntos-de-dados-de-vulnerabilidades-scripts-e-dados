@@ -1,0 +1,4 @@
+third_party/WebKit/Source/WebKit2/ChangeLog
+third_party/WebKit/Source/WebKit2/UIProcess/API/gtk/WebKitWebViewBase.cpp 104 105 106 193 776 777 781
+third_party/WebKit/Source/WebKit2/UIProcess/API/gtk/tests/TestInspector.cpp 25 26
+third_party/WebKit/Source/WebKit2/UIProcess/gtk/WebInspectorProxyGtk.cpp

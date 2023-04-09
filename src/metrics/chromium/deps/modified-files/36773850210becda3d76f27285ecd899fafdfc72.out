@@ -1,0 +1,6 @@
+third_party/WebKit/LayoutTests/fast/dom/id-attribute-shared-expected.txt
+third_party/WebKit/LayoutTests/fast/dom/id-attribute-shared.html
+third_party/WebKit/Source/bindings/v8/V8WindowShell.cpp
+third_party/WebKit/Source/bindings/v8/custom/V8WindowCustom.cpp
+third_party/WebKit/Source/core/html/HTMLDocument.cpp
+third_party/WebKit/Source/core/html/HTMLDocument.h

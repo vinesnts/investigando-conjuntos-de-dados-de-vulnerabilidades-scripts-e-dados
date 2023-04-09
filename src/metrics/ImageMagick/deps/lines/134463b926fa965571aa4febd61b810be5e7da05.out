@@ -1,0 +1,3 @@
+MagickCore/memory.c
+MagickCore/quantum-import.c
+coders/viff.c 478 502 504 698

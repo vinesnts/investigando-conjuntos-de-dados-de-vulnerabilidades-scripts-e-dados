@@ -1,0 +1,4 @@
+content/browser/accessibility/dump_accessibility_tree_browsertest.cc
+content/test/data/accessibility/aria/aria-set-counts-with-hidden-items-expected-blink.txt
+content/test/data/accessibility/aria/aria-set-counts-with-hidden-items.html
+ui/accessibility/ax_tree.cc

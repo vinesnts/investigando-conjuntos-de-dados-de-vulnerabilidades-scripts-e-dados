@@ -1,0 +1,5 @@
+cc/cc_tests.gyp
+cc/layers/layer.cc
+cc/trees/layer_tree_host.cc
+cc/trees/layer_tree_host.h
+cc/trees/layer_tree_host_unittest_pinch_zoom.cc

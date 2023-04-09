@@ -1,0 +1,17 @@
+chrome/browser/chromeos/extensions/file_manager/private_api_drive.cc
+chrome/browser/chromeos/file_manager/url_util.cc
+chrome/browser/chromeos/file_manager/url_util.h
+chrome/browser/chromeos/file_manager/url_util_unittest.cc
+chrome/test/data/extensions/api_test/file_manager_browsertest/gallery/photo_editor.js
+ui/file_manager/file_manager/foreground/css/file_manager.css
+ui/file_manager/file_manager/foreground/css/share_dialog.css
+ui/file_manager/file_manager/foreground/js/share_client.js
+ui/file_manager/file_manager/foreground/js/share_dialog.js
+ui/file_manager/file_manager/main.html
+ui/file_manager/gallery/css/gallery.css
+ui/file_manager/gallery/gallery.html
+ui/file_manager/gallery/js/background.js
+ui/file_manager/gallery/js/gallery.js
+ui/file_manager/gallery/js/gallery_item.js
+ui/file_manager/gallery/js/gallery_scripts.js
+ui/file_manager/gallery/manifest.json

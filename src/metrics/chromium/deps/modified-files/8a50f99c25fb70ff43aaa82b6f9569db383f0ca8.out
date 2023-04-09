@@ -1,0 +1,13 @@
+sync/notifier/chrome_invalidation_client.cc
+sync/notifier/chrome_invalidation_client.h
+sync/notifier/chrome_invalidation_client_unittest.cc
+sync/notifier/fake_invalidation_state_tracker.cc
+sync/notifier/fake_invalidation_state_tracker.h
+sync/notifier/invalidation_notifier.cc
+sync/notifier/invalidation_notifier_unittest.cc
+sync/notifier/mock_invalidation_state_tracker.cc
+sync/notifier/mock_invalidation_state_tracker.h
+sync/notifier/registration_manager.cc
+sync/notifier/registration_manager.h
+sync/notifier/registration_manager_unittest.cc
+sync/sync.gyp

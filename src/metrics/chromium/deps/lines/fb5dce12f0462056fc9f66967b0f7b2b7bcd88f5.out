@@ -1,0 +1,17 @@
+chrome/browser/browser_resources.grd 73
+chrome/browser/media_router_resources.grdp 9
+chrome/browser/resources/chromeos/login/login_resources.html 64
+chrome/browser/resources/md_settings/md_settings.html 6
+chrome/browser/resources/media_router/media_router.html 7
+chrome/browser/resources/media_router/polymer_config.js 1 2 3 4 5
+chrome/browser/resources/settings/polymer_config.js 1 2 3 4 5
+chrome/browser/resources/settings/settings_resources.grd 140 141 142
+chrome/browser/ui/webui/chromeos/login/oobe_ui.cc 86 116
+chrome/browser/ui/webui/media_router/media_router_resources_provider.cc 29 30
+ui/file_manager/audio_player/audio_player.html 17
+ui/file_manager/file_manager/common/js/polymer_config.js 1 2 3 4 5
+ui/file_manager/file_manager/main.html 30
+ui/file_manager/file_manager/manifest.json 159
+ui/file_manager/file_manager_resources.grd 32
+ui/webui/resources/js/polymer_config.js
+ui/webui/resources/webui_resources.grd

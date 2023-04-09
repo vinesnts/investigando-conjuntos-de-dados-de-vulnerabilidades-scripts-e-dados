@@ -1,0 +1,10 @@
+chrome/browser/extensions/app_process_apitest.cc
+chrome/browser/extensions/chrome_content_browser_client_extensions_part.cc
+chrome/browser/extensions/extension_browsertest.cc
+chrome/browser/extensions/extension_browsertest.h
+chrome/browser/extensions/isolated_app_browsertest.cc
+chrome/browser/extensions/process_management_browsertest.cc
+chrome/browser/extensions/window_open_apitest.cc
+chrome/common/extensions/extension_process_policy.cc
+chrome/common/extensions/extension_process_policy_unittest.cc
+chrome/test/BUILD.gn

@@ -1,0 +1,3 @@
+chrome/browser/ui/views/app_list/app_list_controller_win.cc
+chrome/installer/launcher_support/chrome_launcher_support.cc
+chrome/installer/launcher_support/chrome_launcher_support.h

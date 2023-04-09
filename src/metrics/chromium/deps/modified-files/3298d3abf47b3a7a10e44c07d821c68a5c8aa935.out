@@ -1,0 +1,4 @@
+third_party/WebKit/Source/modules/webgl/WebGLRenderingContextBase.cpp
+third_party/WebKit/Source/modules/webgl/WebGLRenderingContextBase.h
+third_party/WebKit/Source/platform/geometry/IntRect.cpp
+third_party/WebKit/Source/platform/geometry/IntRect.h

@@ -1,0 +1,8 @@
+third_party/WebKit/Source/platform/blink_platform.gypi
+third_party/WebKit/Source/platform/v8_inspector/V8Console.cpp 687 688 689
+third_party/WebKit/Source/platform/v8_inspector/V8Debugger.cpp 584 592 594 595 596 598 600 601 602 632 642 658 659 660 661 663 665 668 676 678 679 681
+third_party/WebKit/Source/platform/v8_inspector/V8Debugger.h 79 105
+third_party/WebKit/Source/platform/v8_inspector/V8InjectedScriptHost.cpp
+third_party/WebKit/Source/platform/v8_inspector/V8ValueCopier.cpp
+third_party/WebKit/Source/platform/v8_inspector/V8ValueCopier.h
+third_party/WebKit/Source/platform/v8_inspector/v8_inspector.gyp

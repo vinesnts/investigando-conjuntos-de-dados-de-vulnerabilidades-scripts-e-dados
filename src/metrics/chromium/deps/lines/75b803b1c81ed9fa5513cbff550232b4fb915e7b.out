@@ -1,0 +1,4 @@
+chrome/browser/extensions/extension_bindings_apitest.cc
+chrome/test/data/extensions/api_test/bindings/function_interceptions.html
+extensions/renderer/module_system.cc 254 259
+extensions/renderer/v8_helpers.h

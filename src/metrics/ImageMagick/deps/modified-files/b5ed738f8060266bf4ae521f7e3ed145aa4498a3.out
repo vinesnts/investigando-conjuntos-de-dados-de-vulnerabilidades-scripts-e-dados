@@ -1,0 +1,5 @@
+MagickCore/memory.c
+coders/pict.c
+coders/rle.c
+coders/sun.c
+coders/viff.c

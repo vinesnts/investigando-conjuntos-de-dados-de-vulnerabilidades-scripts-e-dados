@@ -1,0 +1,4 @@
+o3d/core/cross/gpu2d/interval_tree.h
+o3d/core/cross/gpu2d/path_processor.cc
+o3d/samples/gpu2d/regression-tests/orientation-bug-3.html
+o3d/samples/gpu2d/regression-tests/orientation-bug-3.svg

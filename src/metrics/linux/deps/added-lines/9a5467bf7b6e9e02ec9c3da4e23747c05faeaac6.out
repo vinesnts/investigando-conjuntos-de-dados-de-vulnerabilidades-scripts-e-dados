@@ -1,0 +1,8 @@
+crypto/ablkcipher.c 391 392 393 472 473 474
+crypto/aead.c 120 121 205 206
+crypto/ahash.c 407
+crypto/blkcipher.c 502 503 504
+crypto/crypto_user.c 78 97 110 111 112 113 114 115 116 117 126
+crypto/pcompress.c 56
+crypto/rng.c 68
+crypto/shash.c 533 534

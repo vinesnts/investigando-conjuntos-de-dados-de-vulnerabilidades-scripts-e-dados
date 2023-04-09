@@ -1,0 +1,13 @@
+chrome/browser/sync/glue/data_type_manager_impl.cc 163
+chrome/browser/sync/glue/data_type_manager_impl_unittest.cc 123 293 329 360 397 432 460 495 516 534 559 560 599 600
+chrome/browser/sync/glue/sync_backend_host.cc 9 54 55 56 60 61 321 322 323 324 338 339 460 461 462 463 464 465 470 472 473 474 476
+chrome/browser/sync/glue/sync_backend_host.h 74 75 76 77 78 79 80 81 82 83 84 85 86 110 152 153 154 155
+chrome/browser/sync/glue/sync_backend_host_mock.cc 9 10 11 12 13 25
+chrome/browser/sync/glue/sync_backend_host_mock.h 24 25 26
+chrome/browser/sync/profile_sync_service.cc 426 500 526 527 528 529 576 598 615 639 659 672 683 687 688 689 690 691 692 693 694 695 696 697 698 699 700 701 702 703 704 705 706 707 708 709 710 711 712 713 714 715 716 717 718 719 720 721 722 744 864 929 1076 1104 1119
+chrome/browser/sync/profile_sync_service.h 188 189 475 476
+chrome/browser/sync/profile_sync_service_password_unittest.cc 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 166 167
+chrome/browser/sync/profile_sync_test_util.h 51
+chrome/browser/sync/test_profile_sync_service.cc 19 44 45 46 48 49 50 51 53 54 55 56 57 59 60 61 63 64 65 68 71 72 74 76 77 78 79 80 81 82 83
+chrome/browser/sync/test_profile_sync_service.h 94 95 96 99 100 168 214 215 216
+chrome/common/notification_type.h

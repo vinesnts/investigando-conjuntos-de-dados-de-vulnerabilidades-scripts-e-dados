@@ -1,0 +1,4 @@
+arch/arm/include/asm/assembler.h
+arch/arm/include/asm/uaccess.h 104 109 110 119 120 122 125 138 143 153 156 159 162
+arch/arm/lib/getuser.S 20 40 41 42 44 45 48 50
+arch/arm/lib/putuser.S

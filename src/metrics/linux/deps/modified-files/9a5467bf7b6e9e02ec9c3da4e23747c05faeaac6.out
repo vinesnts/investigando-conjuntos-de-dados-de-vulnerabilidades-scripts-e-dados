@@ -1,0 +1,8 @@
+crypto/ablkcipher.c
+crypto/aead.c
+crypto/ahash.c
+crypto/blkcipher.c
+crypto/crypto_user.c
+crypto/pcompress.c
+crypto/rng.c
+crypto/shash.c

@@ -1,0 +1,11 @@
+chrome/browser/aeropeek_manager.cc
+chrome/browser/autocomplete/autocomplete_popup_view_gtk.cc
+chrome/browser/automation/automation_provider_gtk.cc
+chrome/browser/chromeos/wm_overview_snapshot.cc
+chrome/browser/extensions/extension_tabs_module.cc
+chrome/browser/gtk/tabs/dragged_tab_gtk.cc
+chrome/browser/renderer_host/backing_store_win.cc
+chrome/browser/tab_contents/thumbnail_generator.cc
+chrome/renderer/render_widget.cc
+chrome/renderer/webplugin_delegate_pepper.cc
+chrome/renderer/webplugin_delegate_proxy.cc

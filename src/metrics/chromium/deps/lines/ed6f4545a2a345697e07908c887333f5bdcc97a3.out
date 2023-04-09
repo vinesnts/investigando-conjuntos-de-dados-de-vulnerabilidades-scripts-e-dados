@@ -1,0 +1,3 @@
+third_party/WebKit/LayoutTests/http/tests/security/contentTypeOptions/nosniff-dynamic-script-blocked-expected.txt
+third_party/WebKit/LayoutTests/http/tests/security/contentTypeOptions/nosniff-dynamic-script-blocked.html
+third_party/WebKit/Source/core/dom/ScriptLoader.cpp 311 312 313

@@ -1,0 +1,4 @@
+third_party/WebKit/LayoutTests/http/tests/serviceworker/resources/test-helpers.js
+third_party/WebKit/LayoutTests/http/tests/serviceworker/resources/update-no-controllee-worker.js
+third_party/WebKit/LayoutTests/http/tests/serviceworker/update-no-controllee.https-expected.txt
+third_party/WebKit/LayoutTests/http/tests/serviceworker/update-no-controllee.https.html

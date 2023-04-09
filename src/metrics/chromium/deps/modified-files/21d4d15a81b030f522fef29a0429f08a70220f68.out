@@ -1,0 +1,5 @@
+extensions/browser/guest_view/guest_view.h
+extensions/browser/guest_view/guest_view_base.cc
+extensions/browser/guest_view/guest_view_base.h
+extensions/browser/guest_view/guest_view_manager.cc
+extensions/browser/guest_view/guest_view_manager.h

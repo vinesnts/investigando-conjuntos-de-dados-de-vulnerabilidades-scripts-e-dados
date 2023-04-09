@@ -1,0 +1,2 @@
+third_party/WebKit/LayoutTests/external/wpt/navigation-timing/nav2_test_redirect_server.html
+third_party/WebKit/Source/core/timing/PerformanceNavigationTiming.cpp

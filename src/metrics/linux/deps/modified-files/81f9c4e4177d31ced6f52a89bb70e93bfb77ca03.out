@@ -1,0 +1,5 @@
+Documentation/trace/histogram.txt
+kernel/softirq.c
+kernel/trace/trace.c
+kernel/trace/trace_events_filter.c
+scripts/Makefile.build

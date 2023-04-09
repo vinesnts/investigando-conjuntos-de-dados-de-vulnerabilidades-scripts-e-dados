@@ -1,0 +1,6 @@
+third_party/WebKit/Source/core/page/PageSerializer.cpp
+third_party/WebKit/Source/core/page/PageSerializer.h
+third_party/WebKit/Source/web/WebPageSerializer.cpp
+third_party/WebKit/Source/web/tests/PageSerializerTest.cpp
+third_party/WebKit/Source/web/tests/WebPageSerializerTest.cpp
+third_party/WebKit/Source/web/tests/data/pageserialization/text_only_page.html

@@ -1,0 +1,19 @@
+crypto/asymmetric_keys/asymmetric_type.c 62 63 227
+crypto/asymmetric_keys/pkcs7_key_type.c 78
+fs/cifs/cifs_spnego.c 65
+fs/cifs/cifsacl.c 87
+fs/nfs/idmap.c 180 404
+include/keys/user-type.h 39 44 45
+include/linux/key-type.h 116 117 118 119
+net/ceph/crypto.c 479
+net/dns_resolver/dns_key.c 179 180 181 246
+net/rxrpc/ar-key.c 47 64
+security/keys/big_key.c 39
+security/keys/encrypted-keys/encrypted.c 973
+security/keys/internal.h
+security/keys/key.c 802
+security/keys/keyring.c 92 887 895 896 897
+security/keys/request_key.c 534
+security/keys/request_key_auth.c 249
+security/keys/trusted.c 1099
+security/keys/user_defined.c 33 54 139 140 141 142 143 144 145 146 147 148

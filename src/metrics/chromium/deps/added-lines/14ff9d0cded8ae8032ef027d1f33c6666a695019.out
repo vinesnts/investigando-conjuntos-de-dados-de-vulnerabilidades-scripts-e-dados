@@ -1,0 +1,12 @@
+chrome/renderer/extensions/automation_internal_custom_bindings.cc 421 422 424
+chrome/renderer/extensions/cast_streaming_native_handler.cc 190 193 197 200 203 206 210 214 217 220 223 224 225 226
+chrome/renderer/extensions/file_browser_handler_custom_bindings.cc 22 23 24 25 29 30 31 32 52 66 68
+chrome/renderer/extensions/file_browser_handler_custom_bindings.h 19 20 21 22 23 24 26 27
+chrome/renderer/extensions/file_manager_private_custom_bindings.cc 10 12 22 23 24 26 27 28 29 30 31 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67
+chrome/renderer/extensions/file_manager_private_custom_bindings.h 19 21 22
+chrome/renderer/extensions/media_galleries_custom_bindings.cc 23
+chrome/renderer/extensions/notifications_native_handler.cc 21
+chrome/renderer/extensions/page_capture_custom_bindings.cc 19 20 21 22 23 24
+chrome/renderer/resources/extensions/file_manager_private_custom_bindings.js 20 61 74 80 85 92 100 106 111 116 123 131 139 145 150 156 162 170 177 178 185 187 195
+extensions/renderer/object_backed_native_handler.cc 12 106 107 108
+extensions/renderer/object_backed_native_handler.h 46 47 48 49 50

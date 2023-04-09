@@ -1,0 +1,5 @@
+base/profiler/native_stack_sampler_win.cc
+base/profiler/stack_sampling_profiler_unittest.cc
+base/profiler/win32_stack_frame_unwinder.cc
+base/profiler/win32_stack_frame_unwinder.h
+base/profiler/win32_stack_frame_unwinder_unittest.cc

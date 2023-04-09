@@ -1,0 +1,12 @@
+chrome/browser/safe_browsing/download_protection_service.cc 269 554 563 565 571 576 751 881
+chrome/browser/safe_browsing/sandboxed_dmg_analyzer_mac.cc
+chrome/browser/safe_browsing/sandboxed_dmg_analyzer_mac.h
+chrome/browser/safe_browsing/sandboxed_dmg_analyzer_mac_unittest.cc
+chrome/chrome_browser.gypi
+chrome/chrome_tests_unit.gypi
+chrome/common/chrome_utility_messages.h 179 246
+chrome/test/data/safe_browsing/dmg/generate_test_data.sh
+chrome/utility/chrome_content_utility_client.cc
+chrome/utility/chrome_content_utility_client.h
+chrome/utility/safe_browsing/mac/hfs.cc 414
+tools/metrics/histograms/histograms.xml

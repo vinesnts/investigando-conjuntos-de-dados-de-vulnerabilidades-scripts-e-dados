@@ -1,0 +1,12 @@
+chrome/browser/extensions/api/webstore/webstore_api.cc 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141
+chrome/browser/extensions/api/webstore/webstore_api.h 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104
+chrome/browser/extensions/browser_context_keyed_service_factories.cc 45 141
+chrome/browser/extensions/tab_helper.cc 15 385 386 387 388 390 391 392 396 397 398 399 400 401 402 403 498 519 520 521 522
+chrome/browser/extensions/tab_helper.h
+chrome/browser/extensions/webstore_inline_installer_browsertest.cc
+chrome/browser/extensions/webstore_standalone_installer.cc 32 33 34 35 36 37 38 39 40 61 116 195 221 243 274 285 296 306 313 406
+chrome/chrome_browser_extensions.gypi 538 539
+chrome/chrome_common.gypi
+chrome/common/extensions/webstore_install_result.cc
+chrome/common/extensions/webstore_install_result.h
+chrome/test/data/extensions/api_test/webstore_inline_install/double_install.html

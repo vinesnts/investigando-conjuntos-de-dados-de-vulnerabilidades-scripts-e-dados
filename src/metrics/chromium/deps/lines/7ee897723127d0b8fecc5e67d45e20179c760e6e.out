@@ -1,0 +1,3 @@
+third_party/WebKit/Source/modules/serviceworkers/NavigatorServiceWorker.cpp 57
+third_party/WebKit/Source/modules/serviceworkers/NavigatorServiceWorker.h 29
+third_party/WebKit/Source/modules/serviceworkers/NavigatorServiceWorker.idl 7

@@ -1,0 +1,3 @@
+third_party/WebKit/WebKitTools/ChangeLog
+third_party/WebKit/WebKitTools/Scripts/modules/cpp_style.py
+third_party/WebKit/WebKitTools/Scripts/modules/cpp_style_unittest.py

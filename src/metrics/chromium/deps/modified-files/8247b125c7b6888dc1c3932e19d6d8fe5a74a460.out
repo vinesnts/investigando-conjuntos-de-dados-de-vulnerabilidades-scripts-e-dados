@@ -1,0 +1,6 @@
+chrome/browser/extensions/content_script_apitest.cc
+chrome/renderer/extensions/renderer_permissions_policy_delegate.cc
+chrome/test/data/extensions/api_test/ntp_content_script/background.js
+chrome/test/data/extensions/api_test/ntp_content_script/content_script.js
+chrome/test/data/extensions/api_test/ntp_content_script/fake_ntp.html
+chrome/test/data/extensions/api_test/ntp_content_script/manifest.json

@@ -1,0 +1,4 @@
+chrome/browser/prerender/prerender_browsertest.cc
+chrome/browser/prerender/prerender_contents.cc 147 148 154 155 158 159 161 165 166 169 170 251 252 258 262 263 265 266 269 270 273 274
+chrome/browser/prerender/prerender_contents.h 86 144 297
+chrome/browser/prerender/prerender_manager.cc 24 443

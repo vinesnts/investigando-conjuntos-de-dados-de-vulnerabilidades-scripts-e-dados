@@ -1,0 +1,6 @@
+content/common/sandbox_policy.cc
+sandbox/src/restricted_token_utils.cc
+sandbox/src/security_level.h
+sandbox/tests/validation_tests/commands.cc
+sandbox/tests/validation_tests/commands.h
+sandbox/tests/validation_tests/suite.cc

@@ -1,0 +1,17 @@
+remoting/host/daemon_process.cc
+remoting/host/daemon_process.h
+remoting/host/daemon_process_unittest.cc
+remoting/host/desktop_session_win.cc
+remoting/host/desktop_session_win.h
+remoting/host/win/launch_process_with_token.cc
+remoting/host/win/launch_process_with_token.h
+remoting/host/win/unprivileged_process_delegate.cc
+remoting/host/win/unprivileged_process_delegate.h
+remoting/host/win/worker_process_launcher.cc
+remoting/host/win/worker_process_launcher.h
+remoting/host/win/worker_process_launcher_unittest.cc
+remoting/host/win/wts_console_session_process_driver.cc
+remoting/host/win/wts_console_session_process_driver.h
+remoting/host/win/wts_session_process_delegate.cc
+remoting/host/win/wts_session_process_delegate.h
+remoting/host/worker_process_ipc_delegate.h

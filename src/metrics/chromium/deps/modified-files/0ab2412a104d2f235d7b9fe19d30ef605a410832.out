@@ -1,0 +1,9 @@
+third_party/WebKit/LayoutTests/external/wpt/content-security-policy/navigation/javascript-url-navigation-inherits-csp.html
+third_party/WebKit/LayoutTests/external/wpt/content-security-policy/navigation/support/test_csp_self_window.sub.html
+third_party/WebKit/LayoutTests/external/wpt/content-security-policy/navigation/support/test_csp_self_window.sub.html.sub.headers
+third_party/WebKit/LayoutTests/http/tests/security/contentSecurityPolicy/script-src-in-iframe-expected.txt
+third_party/WebKit/Source/core/dom/Document.cpp
+third_party/WebKit/Source/core/dom/Document.h
+third_party/WebKit/Source/core/frame/WebLocalFrameImpl.cpp
+third_party/WebKit/Source/core/loader/DocumentLoader.cpp
+third_party/WebKit/Source/core/loader/DocumentLoader.h

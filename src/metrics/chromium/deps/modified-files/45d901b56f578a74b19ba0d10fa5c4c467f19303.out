@@ -1,0 +1,11 @@
+chrome/browser/ui/tabs/tab_group_data.cc
+chrome/browser/ui/tabs/tab_group_data.h
+chrome/browser/ui/views/tabs/tab.cc
+chrome/browser/ui/views/tabs/tab.h
+chrome/browser/ui/views/tabs/tab_controller.h
+chrome/browser/ui/views/tabs/tab_group_header.cc
+chrome/browser/ui/views/tabs/tab_group_header.h
+chrome/browser/ui/views/tabs/tab_strip.cc
+chrome/browser/ui/views/tabs/tab_strip.h
+chrome/browser/ui/views/tabs/tab_style_views.cc
+chrome/browser/ui/views/tabs/tab_unittest.cc

@@ -1,0 +1,8 @@
+chrome/browser/chromeos/audio_handler.cc
+chrome/browser/chromeos/audio_handler.h
+chrome/browser/chromeos/audio_mixer.h
+chrome/browser/chromeos/audio_mixer_alsa.cc
+chrome/browser/chromeos/audio_mixer_alsa.h
+chrome/browser/chromeos/audio_mixer_pulse.cc
+chrome/browser/chromeos/audio_mixer_pulse.h
+chrome/chrome_browser.gypi

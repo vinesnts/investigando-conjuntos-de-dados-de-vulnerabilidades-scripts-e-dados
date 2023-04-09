@@ -1,0 +1,4 @@
+third_party/WebKit/LayoutTests/fast/dom/marquee-named-property-crash-expected.txt 1 2
+third_party/WebKit/LayoutTests/fast/dom/marquee-named-property-crash.html 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+third_party/WebKit/Source/bindings/core/v8/PrivateScriptRunner.cpp 60 61 62 63 64 65
+third_party/WebKit/Source/bindings/core/v8/PrivateScriptRunner.js 142

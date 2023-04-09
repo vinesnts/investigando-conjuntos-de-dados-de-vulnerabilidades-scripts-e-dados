@@ -1,0 +1,3 @@
+chrome/browser/chrome_navigation_browsertest.cc
+chrome/test/data/frame_tree/invalid_link_to_new_window.html
+content/browser/frame_host/navigator_impl.cc

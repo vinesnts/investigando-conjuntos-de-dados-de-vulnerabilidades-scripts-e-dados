@@ -1,0 +1,4 @@
+third_party/WebKit/LayoutTests/http/tests/security/xssAuditor/report-script-tag-cross-origin-expected.txt
+third_party/WebKit/LayoutTests/http/tests/security/xssAuditor/report-script-tag-cross-origin.html
+third_party/WebKit/LayoutTests/http/tests/security/xssAuditor/resources/echo-intertag.pl
+third_party/WebKit/Source/core/html/parser/XSSAuditor.cpp

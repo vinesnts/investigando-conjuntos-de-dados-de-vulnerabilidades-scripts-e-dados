@@ -1,0 +1,6 @@
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/embed-and-object-are-not-intercepted.https.html 37 50
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/resources/embed-and-object-are-not-intercepted-worker.js
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/resources/embed-image-is-not-intercepted-iframe.html
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/resources/embed-is-not-intercepted-iframe.html 18
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/resources/object-image-is-not-intercepted-iframe.html
+third_party/WebKit/Source/core/loader/ImageLoader.cpp

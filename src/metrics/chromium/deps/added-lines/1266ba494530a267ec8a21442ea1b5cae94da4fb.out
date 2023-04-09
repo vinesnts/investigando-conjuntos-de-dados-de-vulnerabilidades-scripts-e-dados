@@ -1,0 +1,9 @@
+chrome/browser/ui/window_snapshot/window_snapshot_aura.cc 9 22 23 24 25 26 27 28 29
+ui/aura/root_window.cc 535 536 537 538 539 540
+ui/aura/root_window.h 9 10 246 247 248 249
+ui/aura/root_window_host.h 9 10 93 94 95 96 97
+ui/aura/root_window_host_linux.cc 9 34 800 801 802 803 804 805 806 807 808 809 810 811 812 813 814 815 816 817 818 819 820 821 822 823 824 825 826 827 828 829 830 831 832 833 834 835 836 837 838 839 840 841
+ui/aura/root_window_host_linux.h 53 54 55
+ui/aura/root_window_host_mac.mm 48 49 50 175 176 177 178 179 180 181
+ui/aura/root_window_host_win.cc 270 271 272 273 274 275 276
+ui/aura/root_window_host_win.h 42 43 44

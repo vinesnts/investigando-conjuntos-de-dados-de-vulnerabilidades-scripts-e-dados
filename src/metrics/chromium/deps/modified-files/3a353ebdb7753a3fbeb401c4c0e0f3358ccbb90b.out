@@ -1,0 +1,11 @@
+third_party/blink/renderer/core/html/media/html_media_element.cc
+third_party/blink/renderer/core/html/media/html_media_element.h
+third_party/blink/renderer/core/html/media/html_media_element_test.cc
+third_party/blink/renderer/modules/webaudio/audio_context_test.cc
+third_party/blink/renderer/modules/webaudio/audio_destination_node.h
+third_party/blink/renderer/modules/webaudio/base_audio_context.cc
+third_party/blink/renderer/modules/webaudio/base_audio_context.h
+third_party/blink/renderer/modules/webaudio/default_audio_destination_node.cc
+third_party/blink/renderer/modules/webaudio/default_audio_destination_node.h
+third_party/blink/renderer/modules/webaudio/offline_audio_destination_node.cc
+third_party/blink/renderer/modules/webaudio/offline_audio_destination_node.h

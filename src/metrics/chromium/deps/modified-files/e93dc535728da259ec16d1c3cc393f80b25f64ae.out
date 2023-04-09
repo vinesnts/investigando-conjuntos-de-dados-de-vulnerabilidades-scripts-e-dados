@@ -1,0 +1,9 @@
+base/win/scoped_hglobal.h
+printing/backend/print_backend_win.cc
+remoting/host/clipboard_win.cc
+ui/base/clipboard/clipboard_util_win.cc
+ui/base/clipboard/clipboard_util_win.h
+ui/base/dragdrop/os_exchange_data_provider_win.cc
+ui/base/dragdrop/os_exchange_data_unittest.cc
+ui/base/dragdrop/os_exchange_data_win_unittest.cc
+ui/ui_unittests.gyp

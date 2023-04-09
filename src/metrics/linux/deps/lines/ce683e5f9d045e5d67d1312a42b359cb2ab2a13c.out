@@ -1,0 +1,5 @@
+include/linux/netfilter/x_tables.h 245 497
+net/ipv4/netfilter/arp_tables.c 595 1257
+net/ipv4/netfilter/ip_tables.c 757 1516
+net/ipv6/netfilter/ip6_tables.c 769 1528
+net/netfilter/x_tables.c 549 550

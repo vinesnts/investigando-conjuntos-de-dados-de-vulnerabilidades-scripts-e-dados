@@ -1,0 +1,2 @@
+third_party/libusb/src/libusb/os/windows_usb.c
+third_party/libusb/src/libusb/os/windows_usb.h

@@ -1,0 +1,19 @@
+third_party/WebKit/Source/core/core.gypi 2970 2971 3480 3482
+third_party/WebKit/Source/core/platform/chromium/support/WebMediaStream.cpp 31
+third_party/WebKit/Source/core/platform/chromium/support/WebMediaStreamTrack.cpp 30
+third_party/WebKit/Source/core/platform/mediastream/MediaStreamComponent.cpp 37
+third_party/WebKit/Source/core/platform/mediastream/MediaStreamDescriptor.cpp 37
+third_party/WebKit/Source/core/platform/mediastream/MediaStreamDescriptor.h 36
+third_party/WebKit/Source/modules/mediastream/MediaStream.cpp 33
+third_party/WebKit/Source/modules/mediastream/MediaStreamTrack.h 33
+third_party/WebKit/Source/modules/mediastream/UserMediaRequest.h 35
+third_party/WebKit/Source/platform/blink_platform.gypi
+third_party/WebKit/Source/platform/exported/WebMediaConstraints.cpp
+third_party/WebKit/Source/platform/exported/WebMediaStreamSource.cpp
+third_party/WebKit/Source/platform/mediastream/MediaStreamSource.cpp
+third_party/WebKit/Source/platform/mediastream/MediaStreamSource.h
+third_party/WebKit/Source/web/AssertMatchingEnums.cpp 81
+third_party/WebKit/Source/web/UserMediaClientImpl.h 34
+third_party/WebKit/Source/web/WebUserMediaRequest.cpp 45
+third_party/WebKit/public/platform/WebMediaConstraints.h 58 59 78 80 83 84 86 87 89 90 91
+third_party/WebKit/public/platform/WebMediaStreamSource.h 55 57 58 86 88 89 92 93 94 96 97 103 104 106 108 109 114 115 116 117 118 119 120 121 122

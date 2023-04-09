@@ -1,0 +1,5 @@
+ui/aura/aura.gyp
+ui/aura/gestures/gesture_configuration.cc
+ui/aura/gestures/gesture_configuration.h
+ui/aura/gestures/gesture_point.cc
+ui/aura/gestures/gesture_sequence.cc

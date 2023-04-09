@@ -1,0 +1,7 @@
+content/browser/service_worker/service_worker_browsertest.cc
+content/renderer/service_worker/embedded_worker_context_client.cc
+content/renderer/service_worker/embedded_worker_context_client.h
+content/renderer/service_worker/service_worker_script_context.cc
+content/test/data/service_worker/worker.js
+content/test/data/service_worker/worker_install_fulfilled.js
+content/test/data/service_worker/worker_install_rejected.js

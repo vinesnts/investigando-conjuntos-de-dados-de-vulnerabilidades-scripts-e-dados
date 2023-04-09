@@ -1,0 +1,4 @@
+MagickCore/composite.c
+MagickCore/pixel-accessor.h
+MagickCore/threshold.c
+coders/sun.c

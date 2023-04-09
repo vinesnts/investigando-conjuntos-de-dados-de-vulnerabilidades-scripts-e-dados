@@ -1,0 +1,5 @@
+third_party/WebKit/LayoutTests/ChangeLog
+third_party/WebKit/LayoutTests/fast/tokenizer/image-empty-crash-expected.txt
+third_party/WebKit/LayoutTests/fast/tokenizer/image-empty-crash.html
+third_party/WebKit/WebCore/ChangeLog
+third_party/WebKit/WebCore/loader/ImageDocument.cpp 104 109

@@ -1,0 +1,16 @@
+chrome/browser/extensions/extension_webstore_private_api.cc
+chrome/browser/extensions/extension_webstore_private_api.h
+chrome/browser/extensions/extension_webstore_private_apitest.cc
+chrome/chrome_tests.gypi
+chrome/test/data/extensions/api_test/webstore_private/accepted.html
+chrome/test/data/extensions/api_test/webstore_private/accepted.js
+chrome/test/data/extensions/api_test/webstore_private/cancelled.html
+chrome/test/data/extensions/api_test/webstore_private/common.js
+chrome/test/data/extensions/api_test/webstore_private/extension.crx
+chrome/test/data/extensions/api_test/webstore_private/extension.pem
+chrome/test/data/extensions/api_test/webstore_private/extension/icon.png
+chrome/test/data/extensions/api_test/webstore_private/extension/manifest.json
+chrome/test/data/extensions/api_test/webstore_private/incorrect_manifest.js
+chrome/test/data/extensions/api_test/webstore_private/incorrect_manifest1.html
+chrome/test/data/extensions/api_test/webstore_private/incorrect_manifest2.html
+chrome/test/data/extensions/api_test/webstore_private/no_user_gesture.html

@@ -1,0 +1,6 @@
+MAINTAINERS
+drivers/watchdog/Kconfig
+drivers/watchdog/booke_wdt.c
+drivers/watchdog/hpwdt.c
+drivers/watchdog/pnx4008_wdt.c
+drivers/watchdog/s3c2410_wdt.c

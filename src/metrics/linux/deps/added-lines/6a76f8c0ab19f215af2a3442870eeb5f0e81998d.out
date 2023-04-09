@@ -1,0 +1,3 @@
+include/linux/ftrace.h 399
+kernel/trace/ftrace.c 2700 3573 3581 3786 4442
+kernel/trace/trace_stack.c 325

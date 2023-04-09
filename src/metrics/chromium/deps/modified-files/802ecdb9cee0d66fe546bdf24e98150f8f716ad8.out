@@ -1,0 +1,3 @@
+media/filters/audio_renderer_algorithm.cc
+media/filters/audio_renderer_algorithm.h
+media/filters/audio_renderer_algorithm_unittest.cc

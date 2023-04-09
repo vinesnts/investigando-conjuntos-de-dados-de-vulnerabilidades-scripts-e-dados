@@ -1,0 +1,10 @@
+arch/x86/include/asm/paravirt.h 786
+arch/x86/include/asm/paravirt_types.h 391 392 393 394 395
+arch/x86/include/asm/thread_info.h 166 167 168 169 170
+arch/x86/kernel/kvm.c 676
+arch/x86/kernel/vsmp_64.c 36 46 56 64
+arch/x86/lguest/boot.c 236 242 256 257 1294 1296
+arch/x86/xen/irq.c
+arch/x86/xen/mmu.c
+arch/x86/xen/setup.c
+arch/x86/xen/spinlock.c 109

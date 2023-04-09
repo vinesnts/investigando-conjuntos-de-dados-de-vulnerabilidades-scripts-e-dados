@@ -1,0 +1,2 @@
+chrome/browser/devtools/devtools_window.cc
+third_party/WebKit/Source/devtools/front_end/inspector.html

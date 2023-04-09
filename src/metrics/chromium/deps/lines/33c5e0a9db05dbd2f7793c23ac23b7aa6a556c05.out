@@ -1,0 +1,6 @@
+chrome/browser/about_flags.cc 3429
+components/password_manager/core/browser/password_autofill_manager.cc 304
+components/password_manager/core/browser/password_autofill_manager_unittest.cc 176 179 195 201
+components/password_manager/core/common/password_manager_features.cc 28 29
+components/password_manager/core/common/password_manager_features.h 22
+tools/metrics/histograms/enums.xml

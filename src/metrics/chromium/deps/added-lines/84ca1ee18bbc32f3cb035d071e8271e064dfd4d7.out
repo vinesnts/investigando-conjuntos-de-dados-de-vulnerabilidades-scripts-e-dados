@@ -1,0 +1,3 @@
+third_party/WebKit/LayoutTests/imagecapture/MediaStreamTrack-applyConstraints.html 57 58 59
+third_party/WebKit/Source/modules/imagecapture/ImageCapture.cpp 544 545 546 547 548 549 839
+third_party/WebKit/Source/modules/imagecapture/ImageCapture.h 99

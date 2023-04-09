@@ -1,0 +1,7 @@
+Magick++/lib/Image.cpp
+Magick++/lib/Magick++/Image.h
+MagickCore/threshold.c
+MagickCore/threshold.h
+MagickWand/magick-image.c
+MagickWand/mogrify.c
+MagickWand/operation.c

@@ -1,0 +1,17 @@
+chrome/browser/chromeos/extensions/file_manager/private_api_drive.cc 823
+chrome/browser/chromeos/file_manager/url_util.cc
+chrome/browser/chromeos/file_manager/url_util.h
+chrome/browser/chromeos/file_manager/url_util_unittest.cc
+chrome/test/data/extensions/api_test/file_manager_browsertest/gallery/photo_editor.js 123
+ui/file_manager/file_manager/foreground/css/file_manager.css 1 651
+ui/file_manager/file_manager/foreground/css/share_dialog.css 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35
+ui/file_manager/file_manager/foreground/js/share_client.js
+ui/file_manager/file_manager/foreground/js/share_dialog.js 230 273 274 286
+ui/file_manager/file_manager/main.html 25
+ui/file_manager/gallery/css/gallery.css 291 430 431
+ui/file_manager/gallery/gallery.html 11 65 66
+ui/file_manager/gallery/js/background.js 139
+ui/file_manager/gallery/js/gallery.js 406 407 414 415 531 770 776 777 778 779 780 803 804 805 806 895 896 897 898 899
+ui/file_manager/gallery/js/gallery_item.js 117 118 119 120 121 122 123 124
+ui/file_manager/gallery/js/gallery_scripts.js 57 58 59 60
+ui/file_manager/gallery/manifest.json 20 21 22 23 26 30

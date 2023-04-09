@@ -1,0 +1,4 @@
+components/autofill/core/browser/autofill_manager.cc 548
+components/autofill/core/browser/autofill_manager.h
+components/autofill/core/browser/autofill_manager_unittest.cc 1000 1001 1002 1003 1025 1551 1566 1567 1568 1619 1620
+components/autofill/core/browser/autofill_metrics_unittest.cc 2719 2724

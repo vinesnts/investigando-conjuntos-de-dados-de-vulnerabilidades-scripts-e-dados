@@ -1,0 +1,14 @@
+chrome/browser/predictors/loading_data_collector.cc 105 106 107 111 113 114
+chrome/browser/predictors/loading_data_collector.h 31 51 55
+chrome/browser/predictors/loading_predictor.cc 31 42 43 44 45 46 47
+chrome/browser/predictors/loading_predictor_browsertest.cc 686 687 721 722 728 729 753 754 774 775 776 784 785 786
+chrome/browser/predictors/loading_predictor_unittest.cc 344 345 346 347 348 360 361 362 367 368 369 370 371 372 385 386 387 392 393 394 395 396 397 398
+chrome/browser/predictors/loading_stats_collector.cc 78 138 139 165 166
+chrome/browser/predictors/loading_stats_collector_unittest.cc 81 111 112 113 114 179 180 182 183 262 263 265 266
+chrome/browser/predictors/preconnect_manager.cc 23 25 26 60 96 292 293
+chrome/browser/predictors/preconnect_manager.h 36 37 41
+chrome/browser/predictors/preconnect_manager_unittest.cc 207 210 214 216 223 226 229 232 233 235 243 246 249 252 253 255 270 271 272 291 292 298 299 324 325 326 339 340 341 342 380 384 385 408 409 410 420 421 424 426 430 431 432 438 444 446 450 451 454 455 458 459 461 463 474 475 478 480 484 485 489 491 497 499 502 503 506 507 511 512 513 515 523 527 530 535 542 544 547 551 562 563 564 569 570 584 588 591 593 596 599 607 608 610 613 622 626 629 632 637 641 642 644 720 721 722 727 728 741 744 757 761 765 766 768 777 778 782 783 785 787 789 792 797 798 801 802 804 805 813 817 820 821 825
+chrome/browser/predictors/resource_prefetch_predictor.cc 47 70 200 337 338 340 341 482 508 512 519
+chrome/browser/predictors/resource_prefetch_predictor.h 64 68 250 251 252
+chrome/browser/predictors/resource_prefetch_predictor.proto
+chrome/browser/predictors/resource_prefetch_predictor_unittest.cc 782 783 784 785 786 804 824 825 826 831 832 875 876 877 878 879 901 928 930

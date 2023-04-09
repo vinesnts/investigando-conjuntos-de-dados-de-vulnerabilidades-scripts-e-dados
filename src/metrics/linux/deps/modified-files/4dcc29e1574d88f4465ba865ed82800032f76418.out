@@ -1,0 +1,8 @@
+arch/ia64/kernel/ivt.S
+arch/ia64/kernel/minstate.h
+arch/ia64/kernel/patch.c
+arch/ia64/kernel/setup.c
+arch/ia64/kernel/vmlinux.lds.S
+include/asm-ia64/patch.h
+include/asm-ia64/ptrace.h
+include/asm-ia64/sections.h

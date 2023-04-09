@@ -1,0 +1,7 @@
+third_party/WebKit/LayoutTests/editing/selection/selection-change-in-blur-event-by-remove-children-expected.txt
+third_party/WebKit/LayoutTests/editing/selection/selection-change-in-blur-event-by-remove-children.html
+third_party/WebKit/LayoutTests/editing/selection/selection-change-in-mutation-event-by-remove-children-expected.txt
+third_party/WebKit/LayoutTests/editing/selection/selection-change-in-mutation-event-by-remove-children.html
+third_party/WebKit/LayoutTests/fast/dom/Range/range-created-during-remove-children-expected.txt
+third_party/WebKit/LayoutTests/fast/dom/Range/range-created-during-remove-children.html
+third_party/WebKit/Source/core/dom/ContainerNode.cpp 405 406

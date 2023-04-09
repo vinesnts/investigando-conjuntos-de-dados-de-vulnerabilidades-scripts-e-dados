@@ -1,0 +1,8 @@
+chrome/browser/extensions/navigation_observer.cc
+chrome/test/data/extensions/api_test/webrequest/test_blocking.js
+chrome/test/data/extensions/api_test/webrequest/test_declarative1.js
+content/browser/browser_side_navigation_browsertest.cc
+content/browser/frame_host/data_url_navigation_browsertest.cc
+content/browser/frame_host/navigation_controller_impl.cc
+content/browser/frame_host/navigation_controller_impl_browsertest.cc
+content/browser/frame_host/navigation_handle_impl_browsertest.cc

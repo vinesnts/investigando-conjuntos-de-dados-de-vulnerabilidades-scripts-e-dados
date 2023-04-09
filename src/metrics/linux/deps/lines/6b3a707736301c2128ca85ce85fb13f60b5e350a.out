@@ -1,0 +1,8 @@
+fs/fuse/dev.c
+fs/pipe.c
+fs/splice.c
+include/linux/mm.h
+include/linux/pipe_fs_i.h
+kernel/trace/trace.c
+mm/gup.c
+mm/hugetlb.c

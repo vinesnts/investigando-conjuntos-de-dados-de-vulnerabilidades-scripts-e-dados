@@ -1,0 +1,17 @@
+remoting/host/daemon_process.cc 40
+remoting/host/daemon_process.h 56
+remoting/host/daemon_process_unittest.cc 178
+remoting/host/desktop_session_win.cc 49
+remoting/host/desktop_session_win.h 48
+remoting/host/win/launch_process_with_token.cc 18 24 416 417 418 461 462 463 464 465 466
+remoting/host/win/launch_process_with_token.h 17 18 19 20 21 22 23 24 25 33 34 35 39 40 41
+remoting/host/win/unprivileged_process_delegate.cc 60 61 72 95 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185
+remoting/host/win/unprivileged_process_delegate.h 41 48 49 50 51 52 53 54 55 56 57
+remoting/host/win/worker_process_launcher.cc 15 138 139 140 141 216 217 218 219 220 221 222 223 224 225 286 287 288 295 296 298 307 311 312 313 314 315 316 317 318 319 320 321 322 324 325 326 327
+remoting/host/win/worker_process_launcher.h 38 39
+remoting/host/win/worker_process_launcher_unittest.cc 48 63 109 110 111 131 143 144 150 152 171 184 185 189 246 254 255 266 268 274 275 286 288 290 297 298 310 312 313 320 321 332 333 334 335 336 338 339 342 347
+remoting/host/win/wts_console_session_process_driver.cc 49
+remoting/host/win/wts_console_session_process_driver.h 46
+remoting/host/win/wts_session_process_delegate.cc 69 179 180 191 238 240 241 420 460 461 462 464
+remoting/host/win/wts_session_process_delegate.h 44
+remoting/host/worker_process_ipc_delegate.h 24

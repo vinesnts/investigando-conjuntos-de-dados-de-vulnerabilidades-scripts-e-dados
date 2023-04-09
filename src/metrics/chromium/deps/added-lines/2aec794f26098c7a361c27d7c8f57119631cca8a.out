@@ -1,0 +1,20 @@
+chrome/browser/extensions/api/debugger/debugger_api.cc 107 110 143 167 185 187 189 190 194 200 201 202 203 204 206 209 212 225 256 261 262 263 264 265 266 469 470 471 472 473 474 475 476 477 478 500 547 548 549 550
+chrome/browser/extensions/api/debugger/debugger_api.h 80
+chrome/browser/extensions/api/debugger/debugger_api_constants.cc 20 21
+chrome/browser/extensions/api/debugger/debugger_api_constants.h 23 24
+chrome/test/data/extensions/api_test/debugger/background.js 17 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171
+chrome/test/data/extensions/api_test/debugger_extension/background.js 13 14 15 16 17 18 19 20 21
+content/browser/devtools/browser_devtools_agent_host.cc 51 52 53 54 59 73
+content/browser/devtools/browser_devtools_agent_host.h 22
+content/browser/devtools/devtools_agent_host_impl.cc 179 180 182 185 186 187 188 189 190 196 202 203 204 205 206 207 208 209 217 219 315 317 318 319 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 341 342 360
+content/browser/devtools/devtools_agent_host_impl.h 40 67 68 75 76 84
+content/browser/devtools/devtools_session.cc 33 34 38
+content/browser/devtools/devtools_session.h 28 29 32 33 34 90
+content/browser/devtools/render_frame_devtools_agent_host.cc 345 346 347 386 493 496 497 498 499 505 599 860 861 862 863 864
+content/browser/devtools/render_frame_devtools_agent_host.h 117 138
+content/browser/devtools/service_worker_devtools_agent_host.cc 118 131
+content/browser/devtools/service_worker_devtools_agent_host.h 50
+content/browser/devtools/shared_worker_devtools_agent_host.cc 69 76
+content/browser/devtools/shared_worker_devtools_agent_host.h 36
+content/public/browser/devtools_agent_host.h 118 119 120 121 122 123
+headless/public/util/testing/mock_devtools_agent_host.h 20 21

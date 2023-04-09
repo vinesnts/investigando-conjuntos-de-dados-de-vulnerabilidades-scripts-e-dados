@@ -1,0 +1,3 @@
+content/browser/child_process_security_policy_impl.cc
+content/browser/child_process_security_policy_impl.h
+content/browser/security_exploit_browsertest.cc

@@ -1,0 +1,2 @@
+arch/x86/include/uapi/asm/vmx.h 70 118
+arch/x86/kvm/vmx.c 6749 6750 6751 6752 6753 6754 6800 7036

@@ -1,0 +1,7 @@
+remoting/host/gaia_oauth_client.cc
+remoting/host/host_port_allocator.cc
+remoting/host/host_port_allocator.h
+remoting/host/url_fetcher.cc
+remoting/host/url_fetcher.h
+remoting/host/url_fetcher_unittest.cc
+remoting/remoting.gyp

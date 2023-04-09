@@ -1,0 +1,4 @@
+.gn
+build/config/compiler/BUILD.gn
+build/toolchain/nacl/BUILD.gn
+ppapi/BUILD.gn

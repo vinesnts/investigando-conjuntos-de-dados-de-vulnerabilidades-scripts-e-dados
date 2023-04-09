@@ -1,0 +1,2 @@
+arch/x86/include/asm/mmu_context.h 119
+arch/x86/mm/tlb.c 191 231 233

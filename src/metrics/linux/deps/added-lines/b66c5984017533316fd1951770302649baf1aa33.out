@@ -1,0 +1,4 @@
+fs/binfmt_misc.c 175 176 177 178
+fs/binfmt_script.c 83 84 85
+fs/exec.c 1178 1179 1180 1184 1185 1186 1187 1188 1189 1190 1191 1192 1193 1194 1195
+include/linux/binfmts.h 115

@@ -1,0 +1,7 @@
+chrome/browser/resources/bookmark_manager/css/bmm.css
+chrome/browser/resources/bookmark_manager/images/bookmark_bar_folder_mac.png
+chrome/browser/resources/bookmark_manager/images/folder_closed.png
+chrome/browser/resources/bookmark_manager/images/folder_closed_rtl.png
+chrome/browser/resources/bookmark_manager/images/folder_open.png
+chrome/browser/resources/bookmark_manager/images/folder_open_rtl.png
+chrome/chrome_browser.gypi

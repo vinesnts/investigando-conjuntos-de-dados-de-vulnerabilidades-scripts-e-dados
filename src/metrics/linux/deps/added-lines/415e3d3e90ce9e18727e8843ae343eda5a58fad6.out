@@ -1,0 +1,5 @@
+include/net/af_unix.h 9 10
+include/net/scm.h 24
+net/core/scm.c 90 111 112 113 114 127 345
+net/unix/af_unix.c 1499 1564
+net/unix/garbage.c 119 136 140 155

@@ -1,0 +1,2 @@
+arch/powerpc/include/asm/reg.h
+arch/powerpc/kernel/perf_event.c

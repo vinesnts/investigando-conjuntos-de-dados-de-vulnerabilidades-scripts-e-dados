@@ -1,0 +1,11 @@
+chrome/renderer/resources/extensions/chrome_setting.js 11 24 25 26 27 30
+chrome/renderer/resources/extensions/content_setting.js 12 25 26 27 28 31
+chrome/test/data/extensions/api_test/stubs_app/background.js 25
+extensions/renderer/resources/binding.js 497
+extensions/renderer/resources/event.js 142 418
+extensions/renderer/resources/json_schema.js 333
+extensions/renderer/resources/schema_utils.js 89 97
+extensions/renderer/resources/storage_area.js 11
+extensions/renderer/resources/utils.js 36
+extensions/renderer/safe_builtins.cc 73 78
+extensions/renderer/v8_schema_registry.cc 108

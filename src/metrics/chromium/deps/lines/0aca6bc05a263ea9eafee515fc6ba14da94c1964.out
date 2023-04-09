@@ -1,0 +1,7 @@
+chrome/browser/extensions/active_tab_unittest.cc 155 156 239 299 300 319 320
+chrome/browser/extensions/api/tabs/tabs_api.cc 1765 1766 1767
+chrome/common/extensions/permissions/permissions_data_unittest.cc 380 391 411 412 433 434 435 436 437 462 485 486 487 488 489 490 491 492 493 494 509 519 541 548 567 581 599 600 601 602 606 607 608 609 621 631 650 661 680 694 872 873 874 890 891 902 903 904 929 930 931 960 961 964 966 967 968 969 970 971 972 973 974 975 995 1012 1040
+chrome/test/data/extensions/api_test/tabs/capture_visible_tab/test_disabled.js 19 20 21 22 23 24 25 26 27 28 31 32 34 35 36 37 39 40 41 42 43
+chrome/test/data/extensions/api_test/tabs/capture_visible_tab_null_window/background.js 8 9 13 14 15
+extensions/common/permissions/permissions_data.cc 369 378 379 380 381 382 383 384 385 386
+extensions/common/permissions/permissions_data.h 215 216 217 218

@@ -1,0 +1,6 @@
+third_party/WebKit/LayoutTests/http/tests/inspector/isolated-filesystem-test.js 113
+third_party/WebKit/LayoutTests/inspector/file-system-project.html 111 114
+third_party/WebKit/LayoutTests/inspector/sources/debugger/file-system-project-mapping-expected.txt
+third_party/WebKit/LayoutTests/inspector/sources/debugger/file-system-project-mapping.html
+third_party/WebKit/Source/devtools/front_end/sdk/FileSystemWorkspaceBinding.js 495 548
+third_party/WebKit/Source/devtools/front_end/sdk/Workspace.js

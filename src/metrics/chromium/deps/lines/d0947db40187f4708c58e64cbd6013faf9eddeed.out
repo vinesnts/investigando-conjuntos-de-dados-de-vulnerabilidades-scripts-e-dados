@@ -1,0 +1,3 @@
+third_party/libxml/README.chromium
+third_party/libxml/src/include/libxml/xmlerror.h
+third_party/libxml/src/parser.c 3533 3534 3610 3615 3666 3667 4647 5605 5754 5898 6344 6345 6413 6684 7526 7527 7751 7752 7893 8079 8081 8787 8789 10068 10069 10070 10654

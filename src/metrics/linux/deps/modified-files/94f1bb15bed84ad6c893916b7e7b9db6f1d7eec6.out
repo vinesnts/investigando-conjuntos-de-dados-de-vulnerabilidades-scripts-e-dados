@@ -1,0 +1,4 @@
+crypto/rng.c
+include/crypto/internal/rng.h
+include/crypto/rng.h
+include/linux/crypto.h

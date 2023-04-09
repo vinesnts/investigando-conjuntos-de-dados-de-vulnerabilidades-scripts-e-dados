@@ -1,0 +1,6 @@
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/embed-and-object-are-not-intercepted.https.html 37 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/resources/embed-and-object-are-not-intercepted-worker.js 7 8 9 10 11 12
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/resources/embed-image-is-not-intercepted-iframe.html 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/resources/embed-is-not-intercepted-iframe.html
+third_party/WebKit/LayoutTests/external/wpt/service-workers/service-worker/resources/object-image-is-not-intercepted-iframe.html 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+third_party/WebKit/Source/core/loader/ImageLoader.cpp 416 417 418 419 420 421 422 423 424 425

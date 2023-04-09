@@ -1,0 +1,16 @@
+third_party/WebKit/Source/core/core.gypi
+third_party/WebKit/Source/core/platform/ScrollbarThemeWin.cpp 37
+third_party/WebKit/Source/core/platform/graphics/chromium/FontCacheChromiumWin.cpp 41
+third_party/WebKit/Source/core/platform/graphics/chromium/FontPlatformDataChromiumWin.cpp 44
+third_party/WebKit/Source/core/platform/graphics/chromium/FontUtilsChromiumWin.cpp 39
+third_party/WebKit/Source/core/platform/graphics/chromium/GlyphPageTreeNodeChromiumWin.cpp 40 41
+third_party/WebKit/Source/core/platform/graphics/chromium/SimpleFontDataChromiumWin.cpp 44
+third_party/WebKit/Source/core/platform/graphics/chromium/UniscribeHelper.cpp 39
+third_party/WebKit/Source/core/platform/graphics/skia/SimpleFontDataSkia.cpp 45
+third_party/WebKit/Source/core/rendering/RenderThemeChromiumFontProviderWin.cpp 33 34
+third_party/WebKit/Source/core/rendering/RenderThemeChromiumWin.cpp 46
+third_party/WebKit/Source/platform/blink_platform.gyp 109 121
+third_party/WebKit/Source/platform/blink_platform.gypi 261 262 263
+third_party/WebKit/Source/platform/win/HWndDC.h 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89
+third_party/WebKit/Source/platform/win/SystemInfo.cpp 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79
+third_party/WebKit/Source/platform/win/SystemInfo.h 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69

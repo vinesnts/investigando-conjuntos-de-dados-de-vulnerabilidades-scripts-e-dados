@@ -1,0 +1,6 @@
+content/common/sandbox_policy.cc 416
+sandbox/src/restricted_token_utils.cc 318 319 324 325 326 327 328 329 330 331 332 333
+sandbox/src/security_level.h
+sandbox/tests/validation_tests/commands.cc 1 91 94 95 98 99
+sandbox/tests/validation_tests/commands.h 1 14
+sandbox/tests/validation_tests/suite.cc 1 99 100 104 105

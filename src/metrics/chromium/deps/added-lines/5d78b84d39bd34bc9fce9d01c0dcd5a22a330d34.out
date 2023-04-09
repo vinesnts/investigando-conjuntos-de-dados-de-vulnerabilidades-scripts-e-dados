@@ -1,0 +1,23 @@
+cc/ipc/cc_param_traits_macros.h 200
+cc/ipc/compositor_frame_metadata.mojom 34
+cc/ipc/compositor_frame_metadata_struct_traits.cc 39
+cc/ipc/compositor_frame_metadata_struct_traits.h 114 115 116 117 118
+cc/ipc/struct_traits_unittest.cc 243 252 262
+cc/output/compositor_frame_metadata.h 85 86 87 88 89 90
+cc/trees/layer_tree_host.cc 107 976 977 978 979 980 981 982 1153 1154
+cc/trees/layer_tree_host.h 312 313 314 576 577
+cc/trees/layer_tree_host_impl.cc 1584
+cc/trees/layer_tree_host_unittest.cc 7013 7014 7015 7016 7017 7018 7019 7020 7021 7022 7023 7024 7025 7026 7027 7028 7029 7030 7031 7032 7033 7034 7035 7036 7037 7038 7039
+cc/trees/layer_tree_impl.cc 76 491 492
+cc/trees/layer_tree_impl.h 232 233 234 501 502
+content/browser/frame_host/render_frame_host_impl.cc 1308
+content/browser/renderer_host/render_widget_host_impl.cc 297 989 990 991 1835 1836 1837 1838 1839 1840 1841
+content/browser/renderer_host/render_widget_host_impl.h 328 329 330 331 894 895 896 897 898 899 900 901
+content/browser/renderer_host/render_widget_host_unittest.cc 1245 1257 1266 1274 1275 1276 1277 1278 1279 1280 1281 1282 1283 1284 1285 1286 1287 1288 1289 1290 1291 1292 1293 1294 1295 1296 1297 1298 1299 1300 1301 1302 1303 1304 1305 1306
+content/common/frame_messages.h 304 305 306 307 308
+content/renderer/gpu/render_widget_compositor.cc 1133 1134 1135 1136
+content/renderer/gpu/render_widget_compositor.h 116
+content/renderer/render_frame_impl.cc 3620 4895 4896
+content/renderer/render_widget.cc 381 1290 2305 2306 2307 2308 2309 2310 2311 2312 2313
+content/renderer/render_widget.h 417 418 419 853 854 855 856 857 858 859 860 861 862 863 864 865
+content/test/test_render_view_host.h 114

@@ -1,0 +1,24 @@
+chrome/app/generated_resources.grd
+chrome/browser/automation/testing_automation_provider.cc 4476
+chrome/browser/background/background_contents_service.cc 1 242 253 263 317 381 383 428 429 431
+chrome/browser/extensions/background_scripts_apitest.cc
+chrome/browser/extensions/extension_event_router.cc 227 230
+chrome/browser/extensions/extension_process_manager.cc 72 73
+chrome/browser/extensions/extension_protocols.cc 1
+chrome/browser/extensions/extension_service.cc 2477 2482
+chrome/browser/extensions/extension_service_unittest.cc 1 1100
+chrome/browser/extensions/network_delay_listener.cc 1 132
+chrome/chrome_tests.gypi
+chrome/common/extensions/extension.cc
+chrome/common/extensions/extension.h 529
+chrome/common/extensions/extension_constants.cc
+chrome/common/extensions/extension_constants.h
+chrome/common/extensions/extension_file_util.cc 294 296
+chrome/common/extensions/extension_file_util_unittest.cc 1 269 270 272 273 274 275 276
+chrome/common/extensions/extension_manifests_unittest.cc 987 995 1000
+chrome/test/data/extensions/api_test/alert/manifest.json 7
+chrome/test/data/extensions/api_test/alert/test.html 1 2 3 4 5 6
+chrome/test/data/extensions/api_test/background_scripts/a.js
+chrome/test/data/extensions/api_test/background_scripts/b.js
+chrome/test/data/extensions/api_test/background_scripts/manifest.json
+chrome/test/data/extensions/manifest_tests/background_scripts.json

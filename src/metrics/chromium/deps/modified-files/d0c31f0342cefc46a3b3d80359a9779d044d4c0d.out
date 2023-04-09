@@ -1,0 +1,11 @@
+third_party/WebKit/Source/WebKit/chromium/src/AsyncFileSystemChromium.cpp
+third_party/WebKit/Source/core/core.gypi
+third_party/WebKit/Source/core/fileapi/Blob.cpp
+third_party/WebKit/Source/core/fileapi/BlobRegistry.cpp
+third_party/WebKit/Source/core/fileapi/BlobRegistry.h
+third_party/WebKit/Source/core/fileapi/FileReaderLoader.cpp
+third_party/WebKit/Source/core/platform/network/BlobData.cpp
+third_party/WebKit/Source/core/platform/network/BlobRegistry.cpp
+third_party/WebKit/Source/core/platform/network/BlobRegistry.h
+third_party/WebKit/Source/core/platform/network/BlobRegistryProxy.cpp
+third_party/WebKit/Source/core/platform/network/BlobRegistryProxy.h

@@ -1,0 +1,26 @@
+chrome/browser/extensions/api/dial/dial_api.cc 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125
+chrome/browser/extensions/api/dial/dial_api.h 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98
+chrome/browser/extensions/api/dial/dial_api_factory.cc 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49
+chrome/browser/extensions/api/dial/dial_api_factory.h 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39
+chrome/browser/extensions/api/dial/dial_apitest.cc 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107
+chrome/browser/extensions/api/dial/dial_device_data.cc 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74
+chrome/browser/extensions/api/dial/dial_device_data.h 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81
+chrome/browser/extensions/api/dial/dial_registry.cc 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41
+chrome/browser/extensions/api/dial/dial_registry.h 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70
+chrome/browser/extensions/event_names.cc 50 51
+chrome/browser/extensions/event_names.h 54 55 56
+chrome/browser/profiles/profile_dependency_manager.cc 20 232
+chrome/chrome_browser_extensions.gypi 153 154 155 156 157 158 159 160
+chrome/chrome_tests.gypi 231 922 2727
+chrome/common/extensions/api/_permission_features.json 117 118 119 120 121 122 123 124
+chrome/common/extensions/api/api.gyp 49
+chrome/common/extensions/api/dial.idl 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71
+chrome/common/extensions/permissions/api_permission.cc 249
+chrome/common/extensions/permissions/api_permission.h 60
+chrome/common/extensions/permissions/permission_set_unittest.cc 706
+chrome/test/data/extensions/api_test/dial/experimental/discovery.html 1
+chrome/test/data/extensions/api_test/dial/experimental/discovery.js 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32
+chrome/test/data/extensions/api_test/dial/experimental/manifest.json 1 2 3 4 5 6 7 8 9 10 11
+chrome/test/data/extensions/api_test/dial/experimental/runtest.js 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
+chrome/test/data/extensions/api_test/dial/whitelist/manifest.json 1 2 3 4 5 6 7 8 9 10
+chrome/test/data/extensions/api_test/dial/whitelist/runtest.js 1 2 3 4 5 6 7 8 9 10 11 12 13 14

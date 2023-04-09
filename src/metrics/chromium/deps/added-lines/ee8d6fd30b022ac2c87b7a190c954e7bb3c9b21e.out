@@ -1,0 +1,11 @@
+chrome/browser/aeropeek_manager.cc 1219
+chrome/browser/autocomplete/autocomplete_popup_view_gtk.cc 90
+chrome/browser/automation/automation_provider_gtk.cc 56
+chrome/browser/chromeos/wm_overview_snapshot.cc 46
+chrome/browser/extensions/extension_tabs_module.cc 881
+chrome/browser/gtk/tabs/dragged_tab_gtk.cc 159
+chrome/browser/renderer_host/backing_store_win.cc 142
+chrome/browser/tab_contents/thumbnail_generator.cc 105
+chrome/renderer/render_widget.cc 540 569 783 786
+chrome/renderer/webplugin_delegate_pepper.cc 1079
+chrome/renderer/webplugin_delegate_proxy.cc 1087 1414

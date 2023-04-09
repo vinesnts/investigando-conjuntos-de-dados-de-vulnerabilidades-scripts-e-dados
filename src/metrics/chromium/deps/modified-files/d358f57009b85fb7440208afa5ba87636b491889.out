@@ -1,0 +1,6 @@
+chromeos/dbus/fake_bluetooth_agent_manager_client.cc
+device/bluetooth/bluetooth_adapter_chromeos.cc
+device/bluetooth/bluetooth_adapter_chromeos.h
+device/bluetooth/bluetooth_device_chromeos.cc
+device/bluetooth/bluetooth_device_chromeos.h
+device/bluetooth/bluetooth_profile_chromeos_unittest.cc

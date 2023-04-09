@@ -1,0 +1,2 @@
+arch/x86/crypto/salsa20_glue.c
+crypto/salsa20_generic.c

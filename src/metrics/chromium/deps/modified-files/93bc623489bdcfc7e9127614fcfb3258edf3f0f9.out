@@ -1,0 +1,8 @@
+third_party/WebKit/Source/platform/blink_platform.gypi
+third_party/WebKit/Source/platform/v8_inspector/V8Console.cpp
+third_party/WebKit/Source/platform/v8_inspector/V8Debugger.cpp
+third_party/WebKit/Source/platform/v8_inspector/V8Debugger.h
+third_party/WebKit/Source/platform/v8_inspector/V8InjectedScriptHost.cpp
+third_party/WebKit/Source/platform/v8_inspector/V8ValueCopier.cpp
+third_party/WebKit/Source/platform/v8_inspector/V8ValueCopier.h
+third_party/WebKit/Source/platform/v8_inspector/v8_inspector.gyp

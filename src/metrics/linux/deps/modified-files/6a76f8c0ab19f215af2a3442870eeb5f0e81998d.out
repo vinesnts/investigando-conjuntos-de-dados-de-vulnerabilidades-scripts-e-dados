@@ -1,0 +1,3 @@
+include/linux/ftrace.h
+kernel/trace/ftrace.c
+kernel/trace/trace_stack.c

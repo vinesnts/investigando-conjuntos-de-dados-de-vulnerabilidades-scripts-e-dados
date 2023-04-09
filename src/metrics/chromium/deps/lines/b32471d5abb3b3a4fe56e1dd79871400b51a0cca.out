@@ -1,0 +1,3 @@
+chrome/browser/resources/safe_browsing/download_file_types.asciipb 11
+components/download/internal/common/download_stats.cc 404
+tools/metrics/histograms/enums.xml

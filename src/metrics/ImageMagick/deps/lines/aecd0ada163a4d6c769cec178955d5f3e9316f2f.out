@@ -1,0 +1,3 @@
+MagickCore/cache.c
+MagickCore/image.c 846
+coders/wpg.c 1314

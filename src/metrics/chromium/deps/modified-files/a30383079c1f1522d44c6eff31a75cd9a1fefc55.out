@@ -1,0 +1,2 @@
+third_party/WebKit/Tools/Scripts/webkitpy/w3c/test_importer.py
+third_party/WebKit/Tools/Scripts/webkitpy/w3c/test_importer_unittest.py

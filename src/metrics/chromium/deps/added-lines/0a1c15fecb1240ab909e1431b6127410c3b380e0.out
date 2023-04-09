@@ -1,0 +1,3 @@
+chrome/browser/extensions/extension_install_prompt.cc 411 412 413 414 415 416 417
+chrome/browser/extensions/extension_install_prompt.h 131 132
+chrome/browser/ui/views/extensions/extension_install_dialog_view.cc 7 8 112 113 114 115 116 117 118 119 120 121 425 611 612

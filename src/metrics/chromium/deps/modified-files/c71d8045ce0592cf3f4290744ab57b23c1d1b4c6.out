@@ -1,0 +1,7 @@
+chrome/browser/extensions/api/debugger/debugger_api.cc
+chrome/test/data/extensions/api_test/debugger/background.js
+content/browser/devtools/protocol/page_handler.cc
+content/browser/devtools/protocol/page_handler.h
+content/browser/devtools/render_frame_devtools_agent_host.cc
+content/public/browser/devtools_agent_host_client.cc
+content/public/browser/devtools_agent_host_client.h

@@ -1,0 +1,6 @@
+chrome/renderer/chrome_content_renderer_client.cc 715
+chrome/renderer/extensions/extension_resource_request_policy.cc 1 18
+chrome/renderer/extensions/extension_resource_request_policy.h 1 17
+chrome/test/data/devtools/extensions/devtools_experimental/manifest.json 7 8 9 10
+chrome/test/data/devtools/extensions/devtools_extension/manifest.json 6 7 8 9 10
+chrome/test/data/devtools/extensions/devtools_messaging/manifest.json 9 10 11 12 13

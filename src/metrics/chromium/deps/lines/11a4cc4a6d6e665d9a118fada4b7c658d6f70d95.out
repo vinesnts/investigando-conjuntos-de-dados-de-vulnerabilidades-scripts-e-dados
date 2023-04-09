@@ -1,0 +1,7 @@
+third_party/WebKit/LayoutTests/compositing/overflow/do-not-crash-use-after-free-update-widget-positions-expected.txt
+third_party/WebKit/LayoutTests/compositing/overflow/do-not-crash-use-after-free-update-widget-positions.html
+third_party/WebKit/LayoutTests/compositing/overflow/resources/do-not-crash-use-after-free-update-widget-positions-iframe.html
+third_party/WebKit/LayoutTests/compositing/overflow/resources/do-not-crash-use-after-free-update-widget-positions.svg
+third_party/WebKit/Source/core/frame/FrameView.cpp
+third_party/WebKit/Source/core/frame/FrameView.h
+third_party/WebKit/Source/core/rendering/RenderLayerScrollableArea.cpp 369 370 371 372

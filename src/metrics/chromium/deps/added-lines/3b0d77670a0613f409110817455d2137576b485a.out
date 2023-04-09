@@ -1,0 +1,14 @@
+chrome/browser/nacl_host/nacl_process_host.cc 559 603 668
+chrome/browser/nacl_host/nacl_process_host.h 89
+chrome/common/nacl_messages.h
+chrome/common/nacl_types.h
+chrome/common/render_messages.h 488 489 493
+chrome/nacl/nacl_ipc_adapter.cc
+chrome/nacl/nacl_ipc_adapter.h
+chrome/nacl/nacl_listener.cc 20
+chrome/renderer/pepper/ppb_nacl_private_impl.cc 20 21 22 31 39
+ppapi/native_client/src/trusted/plugin/nacl_entry_points.h 24 25 28
+ppapi/native_client/src/trusted/plugin/plugin.cc 606 865
+ppapi/native_client/src/trusted/plugin/plugin.h
+webkit/plugins/ppapi/plugin_module.cc 422 499 501
+webkit/plugins/ppapi/plugin_module.h 93

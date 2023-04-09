@@ -1,0 +1,8 @@
+chrome/app/settings_strings.grdp 1000
+chrome/app/settings_strings_grdp/IDS_SETTINGS_PASSWORDS_LEAK_DETECTION_LABEL.png.sha1 1
+chrome/browser/ui/android/strings/android_chrome_strings.grd 585
+chrome/browser/ui/android/strings/android_chrome_strings_grd/IDS_PASSWORDS_LEAK_DETECTION_SWITCH_TITLE.png.sha1 1
+components/password_manager_strings.grdp 28 29 30
+components/password_manager_strings_grdp/IDS_PASSWORD_MANAGER_LEAK_HELP_MESSAGE.png.sha1 1
+ios/chrome/app/strings/ios_strings.grd 1391
+ios/chrome/app/strings/ios_strings_grd/IDS_IOS_LEAK_CHECK_SWITCH.png.sha1 1

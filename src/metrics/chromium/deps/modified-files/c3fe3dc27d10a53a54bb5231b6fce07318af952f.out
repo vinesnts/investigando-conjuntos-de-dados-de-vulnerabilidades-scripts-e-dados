@@ -1,0 +1,10 @@
+media/midi/midi_manager_alsa.cc
+media/midi/midi_manager_android.cc
+media/midi/midi_manager_mac.cc
+media/midi/midi_manager_unittest.cc
+media/midi/midi_manager_usb.cc
+media/midi/midi_manager_win.cc
+media/midi/midi_manager_win.h
+media/midi/midi_manager_winrt.cc
+media/midi/task_service.cc
+media/midi/task_service.h

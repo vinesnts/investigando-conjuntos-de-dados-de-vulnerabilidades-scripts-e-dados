@@ -1,0 +1,11 @@
+libavfilter/vf_boxblur.c 316 322
+libavfilter/vf_delogo.c 240
+libavfilter/vf_fieldmatch.c 611
+libavfilter/vf_fieldorder.c 109
+libavfilter/vf_gradfun.c 202
+libavfilter/vf_hflip.c 93
+libavfilter/vf_kerndeint.c 153
+libavfilter/vf_lut.c 307
+libavfilter/vf_pad.c 217 314
+libavfilter/vf_showinfo.c 41 71
+libavfilter/vf_vignette.c 242

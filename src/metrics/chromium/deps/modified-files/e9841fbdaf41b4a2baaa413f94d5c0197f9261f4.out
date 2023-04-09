@@ -1,0 +1,6 @@
+chrome/browser/chrome_content_browser_client.cc
+chrome/browser/chrome_content_browser_client.h
+content/browser/devtools/devtools_manager_unittest.cc
+content/browser/web_contents/render_view_host_manager.cc
+content/public/browser/content_browser_client.cc
+content/public/browser/content_browser_client.h

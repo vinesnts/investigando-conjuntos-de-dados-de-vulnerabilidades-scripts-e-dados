@@ -1,0 +1,5 @@
+content/browser/bad_message.h
+content/browser/loader/resource_dispatcher_host_impl.cc
+content/browser/loader/resource_dispatcher_host_impl.h
+content/browser/security_exploit_browsertest.cc
+tools/metrics/histograms/histograms.xml

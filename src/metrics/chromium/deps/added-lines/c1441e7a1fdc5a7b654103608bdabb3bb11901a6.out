@@ -1,0 +1,3 @@
+DEPS 180
+ios/third_party/earl_grey/BUILD.gn 123 124 202 203 214 215
+ios/third_party/earl_grey/README.chromium 4

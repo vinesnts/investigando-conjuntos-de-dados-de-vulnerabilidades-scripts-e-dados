@@ -1,0 +1,5 @@
+third_party/WebKit/ChangeLog
+third_party/WebKit/Source/WebKit/qt/ChangeLog
+third_party/WebKit/Source/WebKit/qt/tests/cmake/CMakeLists.txt
+third_party/WebKit/Source/WebKit/qt/tests/cmake/cmake.pro
+third_party/WebKit/Source/tests.pri

@@ -1,0 +1,11 @@
+chrome/browser/extensions/api/debugger/debugger_api.cc
+chrome/browser/extensions/api/debugger/debugger_api_constants.cc
+chrome/browser/extensions/api/debugger/debugger_api_constants.h
+chrome/browser/extensions/api/debugger/debugger_apitest.cc
+chrome/browser/extensions/api/debugger/debugger_extension_apitest.cc
+chrome/test/data/extensions/api_test/debugger/background.js
+extensions/common/permissions/permissions_data.cc
+extensions/common/permissions/permissions_data.h
+extensions/common/permissions/permissions_data_unittest.cc
+extensions/common/url_pattern.cc
+extensions/common/url_pattern.h

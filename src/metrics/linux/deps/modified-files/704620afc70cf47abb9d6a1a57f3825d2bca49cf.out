@@ -1,0 +1,4 @@
+drivers/usb/core/hub.c
+drivers/usb/core/usb.c
+drivers/usb/host/hwa-hc.c
+include/linux/usb.h

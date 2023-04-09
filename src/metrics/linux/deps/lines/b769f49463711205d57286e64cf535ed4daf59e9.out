@@ -1,0 +1,5 @@
+sound/oss/dev_table.h 274
+sound/oss/midi_synth.c 479 495 496 498 500 501 503 507 508 511 513 514 515 516 518 519 520
+sound/oss/midi_synth.h 11
+sound/oss/opl3.c 823 833 834 835 836 837
+sound/oss/sequencer.c 244

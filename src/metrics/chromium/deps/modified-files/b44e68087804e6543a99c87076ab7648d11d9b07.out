@@ -1,0 +1,11 @@
+chrome/profiling/profiling_manifest.json
+chrome/profiling/profiling_service.cc
+chrome/profiling/profiling_service.h
+services/resource_coordinator/manifest.json
+services/resource_coordinator/memory_instrumentation/coordinator_impl.cc
+services/resource_coordinator/memory_instrumentation/coordinator_impl.h
+services/resource_coordinator/public/cpp/memory_instrumentation/memory_instrumentation.cc
+services/resource_coordinator/public/cpp/memory_instrumentation/memory_instrumentation.h
+services/resource_coordinator/public/cpp/memory_instrumentation/tracing_integration_unittest.cc
+services/resource_coordinator/public/interfaces/memory_instrumentation/memory_instrumentation.mojom
+services/resource_coordinator/resource_coordinator_service.cc

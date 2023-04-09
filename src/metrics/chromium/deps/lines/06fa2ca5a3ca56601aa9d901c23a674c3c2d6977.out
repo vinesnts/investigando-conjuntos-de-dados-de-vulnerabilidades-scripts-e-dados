@@ -1,0 +1,6 @@
+chrome/installer/mini_installer/BUILD.gn 159
+chrome/installer/mini_installer/chrome.release 27
+chrome/test/mini_installer/config/chrome_multi_system_installed.prop
+chrome/test/mini_installer/config/chrome_system_installed.prop
+chrome/test/mini_installer/config/previous_chrome_system_installed.prop
+chrome/tools/build/win/create_installer_archive.py 107 108

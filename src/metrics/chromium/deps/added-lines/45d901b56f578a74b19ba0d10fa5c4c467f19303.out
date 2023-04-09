@@ -1,0 +1,11 @@
+chrome/browser/ui/tabs/tab_group_data.cc 18
+chrome/browser/ui/tabs/tab_group_data.h 21 25
+chrome/browser/ui/views/tabs/tab.cc 623 624 625 626 627 628 629 630 631 632 633 634 635 636 637
+chrome/browser/ui/views/tabs/tab.h 15 121 122 123 124 125 236 237 238
+chrome/browser/ui/views/tabs/tab_controller.h 15 173 174 175
+chrome/browser/ui/views/tabs/tab_group_header.cc 13 15 27 28 29 30 42 45 46 60 61 62 63 64 65 66
+chrome/browser/ui/views/tabs/tab_group_header.h 11 12 13 17 18 19 26 32 33 34 35 36 37 38
+chrome/browser/ui/views/tabs/tab_strip.cc 1202 1204 1770 1771 1772 1773
+chrome/browser/ui/views/tabs/tab_strip.h 270
+chrome/browser/ui/views/tabs/tab_style_views.cc 14 84 85 86 87 92 97 102 398 452 461 641 642 643 644 645 646 647 648 649 650 651 652 653 654 655 656 657 658 659 660 661 662 663 664 665 666 667 668 669 670 671 672 673 674 675 676 684 689 698 699 700 702 703 708 715 719 720 726 729 749 750 755 758 759 766
+chrome/browser/ui/views/tabs/tab_unittest.cc 15 119 120 121

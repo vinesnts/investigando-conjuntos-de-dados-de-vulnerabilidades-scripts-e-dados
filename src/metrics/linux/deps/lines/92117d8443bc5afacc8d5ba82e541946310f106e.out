@@ -1,0 +1,4 @@
+include/linux/bpf.h 179
+kernel/bpf/inode.c 34 37 300
+kernel/bpf/syscall.c 221 223 237 673
+kernel/bpf/verifier.c 2052 2053 2054 2060

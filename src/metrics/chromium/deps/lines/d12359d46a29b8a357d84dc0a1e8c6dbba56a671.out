@@ -1,0 +1,7 @@
+third_party/WebKit/LayoutTests/fast/text/selection/selection-painted-separately-expected.html
+third_party/WebKit/LayoutTests/fast/text/selection/selection-painted-separately-expected.txt 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17
+third_party/WebKit/LayoutTests/fast/text/selection/selection-painted-separately.html 4 6
+third_party/WebKit/LayoutTests/platform/linux/fast/text/selection/selection-painted-separately-expected.png
+third_party/WebKit/LayoutTests/platform/mac/fast/text/selection/selection-painted-separately-expected.png
+third_party/WebKit/LayoutTests/platform/win/fast/text/selection/selection-painted-separately-expected.png
+third_party/WebKit/LayoutTests/platform/win7/fast/text/selection/selection-painted-separately-expected.png

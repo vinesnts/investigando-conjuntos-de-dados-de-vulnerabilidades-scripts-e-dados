@@ -1,0 +1,6 @@
+third_party/WebKit/LayoutTests/svg/dom/move-animating-svg-to-other-frame-expected.txt
+third_party/WebKit/LayoutTests/svg/dom/move-animating-svg-to-other-frame.html
+third_party/WebKit/LayoutTests/svg/dom/resources/import-other-svg.svg
+third_party/WebKit/LayoutTests/svg/dom/resources/svg-with-animate.svg
+third_party/WebKit/Source/core/svg/SVGDocumentExtensions.cpp 114 115
+third_party/WebKit/Source/core/svg/animation/SMILTimeContainer.cpp 162

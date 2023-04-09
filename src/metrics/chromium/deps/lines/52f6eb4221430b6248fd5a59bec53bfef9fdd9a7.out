@@ -1,0 +1,4 @@
+chrome/app/settings_strings.grdp
+chrome/browser/resources/settings/passwords_and_forms_page/autofill_section.html 68 70
+chrome/browser/resources/settings/passwords_and_forms_page/passwords_section.html 58 60
+chrome/browser/ui/webui/settings/md_settings_localized_strings_provider.cc

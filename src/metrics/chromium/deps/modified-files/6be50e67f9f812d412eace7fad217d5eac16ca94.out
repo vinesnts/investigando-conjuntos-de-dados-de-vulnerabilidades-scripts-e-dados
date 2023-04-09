@@ -1,0 +1,16 @@
+third_party/WebKit/LayoutTests/FlagExpectations/enable-features=NetworkService
+third_party/WebKit/LayoutTests/SlowTests
+third_party/WebKit/LayoutTests/http/tests/devtools/network/font-face-expected.txt
+third_party/WebKit/LayoutTests/http/tests/devtools/network/font-face.js
+third_party/WebKit/LayoutTests/http/tests/devtools/network/from-disk-cache-timing-expected.txt
+third_party/WebKit/LayoutTests/http/tests/devtools/network/from-disk-cache-timing.js
+third_party/WebKit/LayoutTests/http/tests/devtools/network/long-script-content-expected.txt
+third_party/WebKit/LayoutTests/http/tests/devtools/network/long-script-content.js
+third_party/WebKit/LayoutTests/http/tests/devtools/network/network-blocked-reason-expected.txt
+third_party/WebKit/LayoutTests/http/tests/devtools/network/network-blocked-reason.js
+third_party/WebKit/LayoutTests/http/tests/devtools/network/network-disable-cache-memory-expected.txt
+third_party/WebKit/LayoutTests/http/tests/devtools/network/network-disable-cache-memory.js
+third_party/WebKit/LayoutTests/http/tests/devtools/network/resources/csp.html
+third_party/WebKit/LayoutTests/http/tests/devtools/network/resources/gc.js
+third_party/WebKit/LayoutTests/http/tests/devtools/network/resources/long-script-page.html
+third_party/WebKit/LayoutTests/http/tests/devtools/network/resources/random-script-page.html

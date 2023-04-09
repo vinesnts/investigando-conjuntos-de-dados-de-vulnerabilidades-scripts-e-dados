@@ -1,0 +1,7 @@
+drivers/infiniband/core/ucm.c
+drivers/infiniband/core/ucma.c
+drivers/infiniband/core/uverbs_main.c
+drivers/infiniband/hw/qib/qib_file_ops.c
+drivers/staging/rdma/hfi1/TODO 6
+drivers/staging/rdma/hfi1/file_ops.c
+include/rdma/ib.h

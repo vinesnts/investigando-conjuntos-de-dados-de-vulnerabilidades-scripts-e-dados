@@ -1,0 +1,21 @@
+third_party/blink/web_tests/external/wpt/url/resources/urltestdata.json
+third_party/blink/web_tests/platform/linux/external/wpt/url/a-element-expected.txt 2
+third_party/blink/web_tests/platform/linux/external/wpt/url/a-element-origin-expected.txt 2
+third_party/blink/web_tests/platform/linux/external/wpt/url/a-element-origin-xhtml-expected.txt 2
+third_party/blink/web_tests/platform/linux/external/wpt/url/a-element-xhtml-expected.txt 2
+third_party/blink/web_tests/platform/linux/external/wpt/url/url-constructor-expected.txt 2
+third_party/blink/web_tests/platform/linux/external/wpt/url/url-origin-expected.txt 2
+third_party/blink/web_tests/platform/mac/external/wpt/url/a-element-expected.txt 2
+third_party/blink/web_tests/platform/mac/external/wpt/url/a-element-origin-expected.txt 2
+third_party/blink/web_tests/platform/mac/external/wpt/url/a-element-origin-xhtml-expected.txt 2
+third_party/blink/web_tests/platform/mac/external/wpt/url/a-element-xhtml-expected.txt 2
+third_party/blink/web_tests/platform/mac/external/wpt/url/url-constructor-expected.txt 2
+third_party/blink/web_tests/platform/mac/external/wpt/url/url-origin-expected.txt 2
+third_party/blink/web_tests/platform/win/external/wpt/url/a-element-expected.txt 2
+third_party/blink/web_tests/platform/win/external/wpt/url/a-element-origin-expected.txt 2
+third_party/blink/web_tests/platform/win/external/wpt/url/a-element-origin-xhtml-expected.txt 2
+third_party/blink/web_tests/platform/win/external/wpt/url/a-element-xhtml-expected.txt 2
+third_party/blink/web_tests/platform/win/external/wpt/url/url-constructor-expected.txt 2
+third_party/blink/web_tests/platform/win/external/wpt/url/url-origin-expected.txt 2
+url/url_canon_pathurl.cc 19 20 25 37 46 66 67 68 69 70 71
+url/url_canon_unittest.cc 1876 1877 1878

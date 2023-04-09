@@ -1,0 +1,4 @@
+chrome/browser/autofill/autofill_cc_infobar_delegate.cc
+chrome/browser/autofill/autofill_manager.cc
+chrome/browser/autofill/autofill_manager.h
+chrome/browser/translate/translate_manager.cc

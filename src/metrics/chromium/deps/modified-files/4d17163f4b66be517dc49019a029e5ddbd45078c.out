@@ -1,0 +1,4 @@
+third_party/WebKit/Source/core/css/CSSDefaultStyleSheets.cpp
+third_party/WebKit/Source/core/css/CSSDefaultStyleSheets.h
+third_party/WebKit/Source/core/css/InspectorCSSOMWrappers.cpp
+third_party/WebKit/Source/core/css/resolver/StyleResolver.cpp

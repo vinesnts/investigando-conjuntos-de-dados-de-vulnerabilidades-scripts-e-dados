@@ -1,0 +1,42 @@
+PRESUBMIT.py
+base/BUILD.gn
+base/base.gypi
+base/files/file.h 16 335 336
+base/memory/scoped_vector.h 14 143 144
+base/move.h
+base/process/process.h 9 137 138
+base/scoped_generic.h 160 161
+base/values.cc
+base/win/scoped_handle.h 112 113
+chrome/browser/printing/pdf_to_emf_converter.cc 148 149
+chrome/browser/spellchecker/spellcheck_hunspell_dictionary.h 107 108 109
+chrome/common/media_galleries/picasa_types.h 16 78 79 80
+components/nacl/browser/nacl_process_host.cc 276 277
+content/browser/renderer_host/media/audio_input_debug_writer.h
+content/child/scoped_web_callbacks.h 12 99 100
+dbus/file_descriptor.h 10 83 84
+extensions/renderer/api/display_source/wifi_display/wifi_display_media_encoder.h
+extensions/renderer/api/display_source/wifi_display/wifi_display_media_packetizer.h 11 24
+media/capture/video/scoped_result_callback.h 9 53 54
+mojo/edk/embedder/scoped_platform_handle.h 8 56 57
+mojo/public/cpp/bindings/array.h 16 216 217
+mojo/public/cpp/bindings/associated_interface_ptr.h 158 178 179
+mojo/public/cpp/bindings/associated_interface_ptr_info.h 70 71
+mojo/public/cpp/bindings/associated_interface_request.h 69 70
+mojo/public/cpp/bindings/interface_ptr.h 202 224 225
+mojo/public/cpp/bindings/interface_ptr_info.h 11 57 58
+mojo/public/cpp/bindings/interface_request.h 10 69 70
+mojo/public/cpp/bindings/lib/filter_chain.h 10 42 46 47
+mojo/public/cpp/bindings/lib/template_util.h 55 56
+mojo/public/cpp/bindings/map.h 13 263 264
+mojo/public/cpp/bindings/scoped_interface_endpoint_handle.h 63 64
+mojo/public/cpp/bindings/strong_binding.h 11 115 116
+mojo/public/cpp/bindings/struct_ptr.h 11 87 114 115 177 202 203
+mojo/public/cpp/bindings/tests/container_test_util.h 10 49 50
+mojo/public/cpp/bindings/wtf_array.h 11 176 202 203
+mojo/public/cpp/system/handle.h 134 135
+net/base/file_stream_context.h 123 124 125
+remoting/base/typed_buffer.h 14 84 85
+storage/browser/blob/scoped_file.h 12 83 84
+styleguide/c++/c++11.html 243
+ui/gl/android/scoped_java_surface.h 11 62 63

@@ -1,0 +1,5 @@
+ash/ash_strings.grd
+ash/cast_config_delegate.h
+ash/system/cast/tray_cast.cc
+chrome/browser/ui/ash/cast_config_delegate_chromeos.cc
+chrome/browser/ui/ash/cast_config_delegate_chromeos.h

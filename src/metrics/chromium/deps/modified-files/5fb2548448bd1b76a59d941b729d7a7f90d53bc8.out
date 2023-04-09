@@ -1,0 +1,11 @@
+chrome/renderer/resources/extensions/chrome_setting.js
+chrome/renderer/resources/extensions/content_setting.js
+chrome/test/data/extensions/api_test/stubs_app/background.js
+extensions/renderer/resources/binding.js
+extensions/renderer/resources/event.js
+extensions/renderer/resources/json_schema.js
+extensions/renderer/resources/schema_utils.js
+extensions/renderer/resources/storage_area.js
+extensions/renderer/resources/utils.js
+extensions/renderer/safe_builtins.cc
+extensions/renderer/v8_schema_registry.cc

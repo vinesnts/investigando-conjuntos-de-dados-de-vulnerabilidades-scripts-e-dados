@@ -1,0 +1,3 @@
+chrome/common/extensions/permissions/chrome_permission_message_provider_unittest.cc
+extensions/common/DEPS
+extensions/common/permissions/permission_message_util.cc

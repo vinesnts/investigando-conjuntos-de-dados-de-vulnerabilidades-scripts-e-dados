@@ -1,0 +1,14 @@
+third_party/WebKit/Source/core/editing/Editor.cpp
+third_party/WebKit/Source/core/editing/FrameSelection.cpp
+third_party/WebKit/Source/core/editing/FrameSelection.h
+third_party/WebKit/Source/core/editing/FrameSelectionTest.cpp
+third_party/WebKit/Source/core/editing/GranularityStrategyTest.cpp
+third_party/WebKit/Source/core/editing/InputMethodController.cpp
+third_party/WebKit/Source/core/editing/SelectionController.cpp
+third_party/WebKit/Source/core/editing/SelectionEditor.cpp
+third_party/WebKit/Source/core/editing/SelectionTemplate.cpp
+third_party/WebKit/Source/core/editing/SelectionTemplate.h
+third_party/WebKit/Source/core/editing/SelectionTemplateTest.cpp
+third_party/WebKit/Source/core/editing/SetSelectionData.cpp
+third_party/WebKit/Source/core/editing/SetSelectionData.h
+third_party/WebKit/Source/core/frame/WebLocalFrameImpl.cpp

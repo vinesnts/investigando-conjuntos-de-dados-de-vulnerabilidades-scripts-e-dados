@@ -1,0 +1,16 @@
+chrome/app/nibs/FullscreenExitBubble.xib
+chrome/browser/ui/browser.cc
+chrome/browser/ui/browser.h
+chrome/browser/ui/browser_browsertest.cc
+chrome/browser/ui/cocoa/browser_window_controller.h
+chrome/browser/ui/cocoa/browser_window_controller.mm
+chrome/browser/ui/cocoa/browser_window_controller_private.h
+chrome/browser/ui/cocoa/browser_window_controller_private.mm
+chrome/browser/ui/cocoa/fullscreen_exit_bubble_controller.h
+chrome/browser/ui/cocoa/fullscreen_exit_bubble_controller.mm
+chrome/browser/ui/cocoa/fullscreen_exit_bubble_controller_unittest.mm
+chrome/browser/ui/cocoa/fullscreen_exit_bubble_view.h
+chrome/browser/ui/cocoa/fullscreen_exit_bubble_view.mm
+chrome/chrome_browser.gypi
+chrome/chrome_dll.gypi
+chrome/chrome_tests.gypi

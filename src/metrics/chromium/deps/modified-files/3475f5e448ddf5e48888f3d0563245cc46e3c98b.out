@@ -1,0 +1,8 @@
+ash/ash.gyp
+ash/launcher/launcher.cc
+ash/launcher/launcher.h
+ash/launcher/launcher_view.cc
+ash/launcher/launcher_view.h
+ash/launcher/overflow_bubble.cc
+ash/launcher/overflow_bubble.h
+ash/wm/shelf_layout_manager.cc

@@ -1,0 +1,9 @@
+components/scheduler/child/scheduler_helper.cc
+components/scheduler/child/scheduler_helper.h
+components/scheduler/child/task_queue_manager.cc
+components/scheduler/child/task_queue_manager.h
+components/scheduler/child/test_time_source.cc
+components/scheduler/child/test_time_source.h
+components/scheduler/child/time_source.cc
+components/scheduler/child/time_source.h
+components/scheduler/scheduler.gypi
